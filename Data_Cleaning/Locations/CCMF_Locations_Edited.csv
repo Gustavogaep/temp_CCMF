@@ -1,0 +1,1012 @@
+"incident_id","location","province","national"
+1,"Burnaby","British Columbia",NA
+2,"Windsor","Ontario",NA
+3,"Ottawa","Ontario",NA
+4,"Calgary","Alberta",NA
+5,"Tignish","Prince Edward Island",NA
+6,NA,"New Brunswick",NA
+7,"Toronto","Ontario",NA
+8,NA,"Nova Scotia",NA
+9,"Toronto","Ontario",NA
+10,"Ottawa","Ontario",NA
+11,"Fredericton","New Brunswick",NA
+12,"Ottawa","Ontario",NA
+13,"Calgary","Alberta",NA
+14,NA,"Saskatchewan",NA
+15,"Montreal","Quebec",NA
+16,"Timmins","British Columbia",NA
+17,"Regina","Saskatchewan",NA
+18,"Ajax ","Ontario",NA
+19,"Toronto","Ontario",NA
+20,NA,"Saskatchewan",NA
+21,"Montreal","Quebec",NA
+22,NA,NA,"True"
+23,NA,"New Brunswick",NA
+24,"Ottawa","Ontario",NA
+25,"Labrador","Newfoundland Labrador",NA
+26,"Ottawa","Ontario",NA
+27,"Fort McMurray","Alberta",NA
+28,"Halifax","Nova Scotia",NA
+29,"Montreal","Quebec",NA
+30,"Toronto","Ontario",NA
+31,"Ottawa","Ontario",NA
+32,"Winnipeg","Manitoba",NA
+33,"Toronto","Ontario",NA
+34,"Thunder Bay","Ontario",NA
+35,"Thunder Bay","Ontario",NA
+36,"Toronto","Ontario",NA
+37,NA,"British Columbia",NA
+38,NA,"Nova Scotia",NA
+39,"Ottawa","Ontario",NA
+40,"Ottawa","Ontario",NA
+41,NA,"Nova Scotia",NA
+42,"Thunder Bay","Ontario",NA
+43,"Kelowna","British Columbia",NA
+44,"Kamloops","British Columbia",NA
+45,"Toronto","Ontario",NA
+46,"Winnipeg","Manitoba",NA
+47,"Toronto","Ontario",NA
+48,"Ottawa","Ontario",NA
+49,"Vaughan","Ontario",NA
+50,NA,"Prince Edward Island",NA
+51,"Regina","Saskatchewan",NA
+52,"Ottawa","Ontario",NA
+53,"Ottawa","Ontario",NA
+54,"Halifax","Nova Scotia",NA
+55,"Gatineau","Quebec",NA
+56,"Ottawa","Ontario",NA
+57,NA,"Yukon",NA
+58,"Mississauga","Ontario",NA
+59,"Halifax","Nova Scotia",NA
+60,"Edmonton","Alberta",NA
+61,"Thunder Bay","Ontario",NA
+62,NA,"Ontario",NA
+63,"Toronto","Ontario",NA
+64,"Owen Sound","Ontario",NA
+65,"Calgary","Alberta",NA
+66,"Ottawa","Ontario",NA
+67,"Halifax","Nova Scotia",NA
+68,"Windsor","Ontario",NA
+69,"Winnipeg","Manitoba",NA
+70,"Winnipeg","Manitoba",NA
+71,"Halifax","Nova Scotia",NA
+72,"Edmonton","Alberta",NA
+73,"Ottawa","Ontario",NA
+74,"Calgary","Alberta",NA
+75,"Montreal","Quebec",NA
+76,"Ottawa","Ontario",NA
+77,"Halifax","Nova Scotia",NA
+78,"Ottawa","Ontario",NA
+79,"Ottawa","Ontario",NA
+80,"Saskatoon","Saskatchewan",NA
+81,"Ottawa","Ontario",NA
+82,NA,"Nova Scotia",NA
+83,"Montreal","Quebec",NA
+84,"Montreal","Quebec",NA
+85,NA,"Ontario",NA
+86,"Lethbridge","Alberta",NA
+87,"Ottawa","Ontario",NA
+88,"Lacolle","Quebec",NA
+89,"Winnipeg","Manitoba",NA
+90,"Montreal","Quebec",NA
+91,"Ottawa","Ontario",NA
+92,"Toronto","Ontario",NA
+93,"Enderby","British Columbia",NA
+94,"Montreal","Quebec",NA
+95,"Toronto","Ontario",NA
+96,"Toronto","Ontario",NA
+97,"Montreal","Quebec",NA
+98,"Toronto","Ontario",NA
+99,"Saskatoon","Saskatchewan",NA
+100,"Halifax","Nova Scotia",NA
+101,"Ottawa","Ontario",NA
+102,"Bridge River Lillooet","British Columbia",NA
+103,"Calgary","Alberta",NA
+104,"Ottawa","Ontario",NA
+105,"Peel","Ontario",NA
+106,"St. John's","Newfoundland Labrador",NA
+107,"Fredericton","New Brunswick",NA
+108,NA,"Quebec",NA
+109,"Edson","Alberta",NA
+110,"Kamloops","British Columbia",NA
+111,"Montreal","Quebec",NA
+112,"Montreal","Quebec",NA
+113,"Vancouver","British Columbia",NA
+114,"Red Deer","Alberta",NA
+115,"Vancouver","British Columbia",NA
+116,"Toronto","Ontario",NA
+117,"Abbotsford","British Columbia",NA
+118,"Montreal","Quebec",NA
+119,"Sudbury","Ontario",NA
+120,"Surrey","British Columbia",NA
+121,"Mississauga","Ontario",NA
+122,"London","Ontario",NA
+123,NA,"Ontario",NA
+124,"Ottawa","Ontario",NA
+125,"Calgary","Alberta",NA
+126,"Medicine Hat","Alberta",NA
+127,"Charlottetown","Prince Edward Island",NA
+128,"Thunder Bay","Ontario",NA
+129,"Ottawa","Ontario",NA
+130,"Ottawa","Ontario",NA
+131,"Hamilton","Ontario",NA
+132,"Halifax","Nova Scotia",NA
+133,"Toronto","Ontario",NA
+134,"London","Ontario",NA
+135,"Montreal","Quebec",NA
+136,"Mississauga","Ontario",NA
+137,"Enerby","British Columbia",NA
+138,"Peel","Ontario",NA
+139,"Edmonton","Alberta",NA
+140,"Flin Flon","Manitoba",NA
+141,"Toronto","Ontario",NA
+142,"Vancouver","British Columbia",NA
+143,"Edmonton","Alberta",NA
+144,"Victoria","British Columbia",NA
+145,"Ottawa","Ontario",NA
+146,"Calgary","Alberta",NA
+147,"Ottawa","Ontario",NA
+148,"Peterborough","Ontario",NA
+149,"Toronto","Ontario",NA
+150,"Halifax","Nova Scotia",NA
+151,"Hamilton","Ontario",NA
+152,"Cardston","Alberta",NA
+153,"Ottawa","Ontario",NA
+154,"Chilliwack","British Columbia",NA
+155,"Toronto","Ontario",NA
+156,"Nanaimo","Quebec",NA
+157,"Peterborough","Ontario",NA
+158,"Sabrevois","Quebec",NA
+159,"Edmonton","Alberta",NA
+160,"Village of Perdue","Saskatchewan",NA
+161,"Dartmouth","Nova Scotia",NA
+162,"Nunavut","Nunavut",NA
+163,"Montreal","Quebec",NA
+164,"Mississauga","Ontario",NA
+165,"Statford","Ontario",NA
+166,"Montreal","Quebec",NA
+167,"Edmonton","Alberta",NA
+168,"Edmonton","Alberta",NA
+169,"Fraser River","British Columbia",NA
+170,"Statford","Ontario",NA
+171,"Ottawa","Ontario",NA
+172,"Fort McMurray","Alberta",NA
+173,"Fort McMurray","Alberta",NA
+174,"Ottawa","Ontario",NA
+175,"St. Paul","Alberta",NA
+176,"M'Chigeeng","British Columbia",NA
+177,"Kincardine","Ontario",NA
+178,"Montreal","Quebec",NA
+179,"Vancouver","British Columbia",NA
+180,"Dartmouth","Nova Scotia",NA
+181,NA,"Manitoba",NA
+182,"Montreal","Quebec",NA
+183,"Toronto","Ontario",NA
+184,"Coquitlam","British Columbia",NA
+185,"Keeseekoowenin Ojibway First Nation","Manitoba",NA
+186,"Thompson","Manitoba",NA
+187,"Toronto","Ontario",NA
+188,"Montreal","Quebec",NA
+189,"Edmonton","Alberta",NA
+189,"Ottawa","Ontario",NA
+190,"Kamloops","British Columbia",NA
+191,"Nova Scotia's Pictou County","Nova Scotia",NA
+192,NA,"Quebec",NA
+193,"Edmonton","Alberta",NA
+194,"Montreal","Quebec",NA
+195,"Vancouver","British Columbia",NA
+196,"Montreal","Quebec",NA
+197,"Edmonton","Alberta",NA
+198,"Edmonton","Alberta",NA
+199,"Toronto","Ontario",NA
+200,"New Glasgow","Nova Scotia",NA
+201,NA,"Ontario",NA
+202,"Toronto","Ontario",NA
+203,"Hamilton","Ontario",NA
+204,"Ottawa","Ontario",NA
+205,"Edmonton","Alberta",NA
+206,"Ottawa","Ontario",NA
+207,"St. Albert","Alberta",NA
+208,"Mississauga","Ontario",NA
+209,"Ottawa","Ontario",NA
+210,"Peel","Ontario",NA
+211,"Calgary","Alberta",NA
+212,"Brantford","Ontario",NA
+213,"York","Ontario",NA
+214,"Calgary","Alberta",NA
+215,"Yarmouth","Nova Scotia",NA
+216,"Toronto","Ontario",NA
+217,"Edmonton","Alberta",NA
+218,"Edmonton","Alberta",NA
+219,"Edmonton","Alberta",NA
+220,"Calgary","Alberta",NA
+221,"Halifax","Nova Scotia",NA
+222,"Winnipeg","Manitoba",NA
+223,"Winnipeg","Manitoba",NA
+224,"Edmonton","Alberta",NA
+225,"New Westminster","British Columbia",NA
+226,"Vancouver","British Columbia",NA
+227,"St. Albert","Alberta",NA
+228,"Charlottetown","Prince Edward Island",NA
+229,"Toronto","Ontario",NA
+230,"Vancouver","British Columbia",NA
+231,"Edmonton","Alberta",NA
+232,"Edmonton","Alberta",NA
+233,"Chilliwack","British Columbia",NA
+234,"Calgary","Alberta",NA
+235,"Toronto","Ontario",NA
+236,"Vancouver","British Columbia",NA
+237,"Montreal","Quebec",NA
+238,"Montreal","Quebec",NA
+239,"Okanagan","British Columbia",NA
+240,"Kelowna","British Columbia",NA
+241,"Halifax","Nova Scotia",NA
+242,"Toronto","Ontario",NA
+243,"Peterborough","Ontario",NA
+244,"Ottawa","Ontario",NA
+245,"Peel","Ontario",NA
+246,"Neepawa","Manitoba",NA
+247,"Edmonton","Alberta",NA
+248,"Ottawa","Ontario",NA
+249,"Toronto","Ontario",NA
+250,"Toronto","Ontario",NA
+251,"York","Ontario",NA
+252,"London","Ontario",NA
+253,"Halifax","Nova Scotia",NA
+254,"Victoria","British Columbia",NA
+255,"Edmonton","Alberta",NA
+256,"Thunder Bay","Ontario",NA
+257,"Montreal","Quebec",NA
+258,"Edmonton","Alberta",NA
+258,"Calgary","Alberta",NA
+258,"Vancouver","British Columbia",NA
+259,NA,"Quebec",NA
+260,"Toronto","Ontario",NA
+261,"Edmonton","Alberta",NA
+261,"Calgary","Alberta",NA
+261,"Edson","Alberta",NA
+261,"Brooks","Alberta",NA
+261,"Medicine Hat","Alberta",NA
+262,"Mississauga","Ontario",NA
+263,"Vancouver","British Columbia",NA
+264,"Ottawa","Ontario",NA
+265,"Leduc","Alberta",NA
+266,NA,"Quebec",NA
+267,"Montreal","Quebec",NA
+268,"Edmonton","Alberta",NA
+269,"Cranbrook","British Columbia",NA
+270,"Edmonton","Alberta",NA
+271,"Regina","Saskatchewan",NA
+272,"Thunder Bay","Ontario",NA
+273,"Cardston","Alberta",NA
+274,"Ottawa","Ontario",NA
+275,NA,NA,"True"
+276,"Gatineau","Quebec",NA
+277,"Regina","Saskatchewan",NA
+278,"Kamloops","British Columbia",NA
+279,"Edmonton","Alberta",NA
+280,"Merritt","British Columbia",NA
+281,"Peace River","Alberta",NA
+282,"Montreal","Quebec",NA
+283,"Burnaby","British Columbia",NA
+284,"Flin Flon","Manitoba",NA
+285,NA,"Manitoba",NA
+286,"Fort McMurray","Alberta",NA
+287,"Toronto","Ontario",NA
+288,"Edmonton","Alberta",NA
+289,"Red Deer","Alberta",NA
+290,"Halifax","Nova Scotia",NA
+291,"Edmonton","Alberta",NA
+292,"Edmonton","Alberta",NA
+293,"QC City","Quebec",NA
+294,"Halifax","Nova Scotia",NA
+295,NA,"Quebec",NA
+296,"Winnipeg","Manitoba",NA
+297,"Winnipeg","Manitoba",NA
+298,"Ottawa","Ontario",NA
+299,"Ottawa","Ontario",NA
+300,NA,"Manitoba",NA
+301,NA,"Quebec",NA
+302,"Waterloo","Ontario",NA
+303,"Winnipeg","Manitoba",NA
+304,"Vancouver","British Columbia",NA
+305,"Saint John","New Brunswick",NA
+306,"Halifax","Nova Scotia",NA
+307,NA,"Nova Scotia",NA
+308,"Toronto","Ontario",NA
+309,"Ottawa","Ontario",NA
+310,"Ottawa","Ontario",NA
+311,"Vancouver","British Columbia",NA
+311,"Edmonton","Alberta",NA
+311,"Lethbridge","Alberta",NA
+312,"Fort McMurray","Alberta",NA
+313,"Ottawa","Ontario",NA
+314,NA,"Quebec",NA
+315,"Toronto","Ontario",NA
+316,"Mississauga","Ontario",NA
+317,"Ottawa","Ontario",NA
+318,NA,"British Columbia",NA
+319,"Kingston","Ontario",NA
+320,"Newfoundland Labrador","Newfoundland Labrador",NA
+321,NA,NA,"True"
+322,"Hamilton","Ontario",NA
+323,"Calgary","Alberta",NA
+324,"Regina","Saskatchewan",NA
+325,"Calgary","Alberta",NA
+326,"Onion Lake","Alberta",NA
+327,"Waterloo","Ontario",NA
+328,"Edmonton","Alberta",NA
+329,"Peterborough","Ontario",NA
+330,"Ottawa","Ontario",NA
+331,"Burnaby","British Columbia",NA
+332,"Ottawa","Ontario",NA
+333,"Peterborough","Ontario",NA
+334,"Toronto","Ontario",NA
+335,"Edmonton","Alberta",NA
+336,"Ottawa","Ontario",NA
+337,"Toronto","Ontario",NA
+338,"Calgary","Alberta",NA
+339,"Mount Polley","Quebec",NA
+340,"Halifax","Nova Scotia",NA
+341,"Montreal","Quebec",NA
+342,"Mississauga","Ontario",NA
+343,"QC City","Quebec",NA
+344,"Ottawa","Ontario",NA
+345,"Anjou","Quebec",NA
+346,"Montreal","Quebec",NA
+347,"Iqaluit","Nunavut",NA
+348,"Saint-Jérôme","Quebec",NA
+349,"Surrey","British Columbia",NA
+350,"Levis","Quebec",NA
+351,"Montreal","Quebec",NA
+352,"Sylvan Lake","Alberta",NA
+353,NA,"Quebec",NA
+354,"Edmonton","Alberta",NA
+355,NA,"Quebec",NA
+356,"Ottawa","Ontario",NA
+357,"Halifax","Nova Scotia",NA
+358,"Kelowna","British Columbia",NA
+359,"Lac Ste. Anne","Quebec",NA
+360,"Vancouver","British Columbia",NA
+361,"Saskachewan","Saskatchewan",NA
+362,"Langley","British Columbia",NA
+363,"Winnipeg","Manitoba",NA
+364,"Toronto","Ontario",NA
+365,"Kelowna","British Columbia",NA
+366,"Ottawa","Ontario",NA
+367,"Ottawa","Ontario",NA
+368,"Montreal","Quebec",NA
+369,"Edmonton","Alberta",NA
+370,"Newmarket","Ontario",NA
+371,"Vancouver","British Columbia",NA
+372,"Ottawa","Ontario",NA
+373,"Waterloo","Ontario",NA
+374,"Hampstead","Quebec",NA
+375,"Montreal","Quebec",NA
+376,"Kingston","Ontario",NA
+377,"Mississauga","Ontario",NA
+378,"Brandon","Manitoba",NA
+379,"Sudbury","Ontario",NA
+380,"Winnipeg","Manitoba",NA
+381,NA,"Ontario",NA
+382,"Ottawa","Ontario",NA
+383,"Toronto","Ontario",NA
+384,"Toronto","Ontario",NA
+385,"West Moberly","British Columbia",NA
+386,"Winnipeg","Manitoba",NA
+387,"Dryden","Ontario",NA
+388,"Winnipeg","Manitoba",NA
+389,"Calgary","Alberta",NA
+390,"Winnipeg","Manitoba",NA
+391,"Surrey","British Columbia",NA
+392,"Winnipeg","Manitoba",NA
+393,"Sioux Lookout","Ontario",NA
+394,"Richmond","British Columbia",NA
+395,"North Bay","Ontario",NA
+396,NA,NA,"True"
+397,"Toronto","Ontario",NA
+398,"Grande Prairie","Alberta",NA
+399,"Saskatoon","Saskatchewan",NA
+400,"Peterborough","Ontario",NA
+401,"Ottawa","Ontario",NA
+402,"Ottawa","Ontario",NA
+403,"Dartmouth","Nova Scotia",NA
+404,"Toronto","Ontario",NA
+405,NA,"Quebec",NA
+406,"Burnaby","British Columbia",NA
+407,"Hamilton","Ontario",NA
+408,"Yellowknife","Northwest Territories",NA
+409,"Truro","Nova Scotia",NA
+410,"York","Ontario",NA
+411,NA,"Saskatchewan",NA
+412,"Mississauga","Ontario",NA
+413,"Ottawa","Ontario",NA
+414,"Edson","Alberta",NA
+415,"Ottawa","Ontario",NA
+416,"Montreal","Quebec",NA
+417,NA,NA,"True"
+418,"Montreal","Quebec",NA
+419,"Toronto","Ontario",NA
+420,"Calgary","Alberta",NA
+421,"Sutton","Quebec",NA
+422,"Coquitlam","British Columbia",NA
+423,"Toronto","Ontario",NA
+424,NA,"Quebec",NA
+425,"Thunder Bay","Ontario",NA
+426,"Ottawa","Ontario",NA
+427,"Fredericton","New Brunswick",NA
+428,"Ottawa","Ontario",NA
+429,NA,"Ontario",NA
+430,"Ottawa","Ontario",NA
+431,"Ottawa","Ontario",NA
+432,NA,NA,"True"
+433,"Coquitlam","British Columbia",NA
+434,"Burlington","Ontario",NA
+435,"Vancouver","British Columbia",NA
+436,"Hamilton","Ontario",NA
+437,"Burlington","Ontario",NA
+438,"Vancouver","British Columbia",NA
+439,"Toronto","Ontario",NA
+440,"QC City","Quebec",NA
+441,"London","Ontario",NA
+442,"Hamilton","Ontario",NA
+443,"Calgary","Alberta",NA
+444,"Toronto","Ontario",NA
+445,"Toronto","Ontario",NA
+446,"Ottawa","Ontario",NA
+447,"Toronto","Ontario",NA
+448,NA,"Quebec",NA
+449,"Ottawa","Ontario",NA
+450,NA,NA,"True"
+451,"Toronto","Ontario",NA
+452,"Ottawa","Ontario",NA
+453,"Surrey","British Columbia",NA
+454,"Calgary","Alberta",NA
+455,"North Fraser","British Columbia",NA
+456,"Williams Lake","Quebec",NA
+457,"Grand Rapids","Manitoba",NA
+458,"Halifax","Nova Scotia",NA
+459,"Victoria","British Columbia",NA
+460,"Edmonton","Alberta",NA
+461,"Calgary","Alberta",NA
+462,"Montreal","Quebec",NA
+463,"York","Ontario",NA
+464,"Halifax","Nova Scotia",NA
+465,"Cornwall","Ontario",NA
+466,"Kamloops","British Columbia",NA
+467,"Ottawa","Ontario",NA
+468,"Winnipeg","Manitoba",NA
+469,"Berwick","Alberta",NA
+470,"Vancouver","British Columbia",NA
+471,"Sechelt","British Columbia",NA
+472,"QC City","Quebec",NA
+473,"Winnipeg","Manitoba",NA
+474,"Regina","Saskatchewan",NA
+475,"Toronto","Ontario",NA
+476,"Toronto","Ontario",NA
+477,"Montreal","Quebec",NA
+478,"Montreal","Quebec",NA
+479,"Regina","Saskatchewan",NA
+480,"Surrey","British Columbia",NA
+481,"Toronto","Ontario",NA
+482,"Toronto","Ontario",NA
+483,"Edmonton","Alberta",NA
+484,"Edmonton","Alberta",NA
+485,"Montreal","Quebec",NA
+486,"Montreal","Quebec",NA
+487,"Victoria","British Columbia",NA
+488,"Waterloo","Ontario",NA
+489,"Winnipeg","Manitoba",NA
+490,NA,"Nova Scotia",NA
+491,"Ottawa","Ontario",NA
+492,"Calgary","Alberta",NA
+493,"Vancouver","British Columbia",NA
+494,"Hamilton","Ontario",NA
+495,"Vancouver","British Columbia",NA
+496,"Toronto","Ontario",NA
+497,"Sydney","Nova Scotia",NA
+498,"Thunder Bay","Ontario",NA
+499,"Charlottetown","Prince Edward Island",NA
+500,"London","Ontario",NA
+501,"Hamilton","Ontario",NA
+502,"Cole Harbour","Nova Scotia",NA
+503,"Gatineau","Quebec",NA
+504,"Kelowna","British Columbia",NA
+505,"Montreal","Quebec",NA
+506,"Montreal","Quebec",NA
+507,"Mississauga","Ontario",NA
+508,"Toronto","Ontario",NA
+509,"Georgina","Ontario",NA
+510,"Halifax","Nova Scotia",NA
+511,"Laval","Quebec",NA
+512,"Burnaby","British Columbia",NA
+513,"Toronto","Ontario",NA
+514,"Richmond","British Columbia",NA
+515,"Toronto","Ontario",NA
+516,"St. John's","Newfoundland Labrador",NA
+517,"Hamilton","Ontario",NA
+518,"Surrey","British Columbia",NA
+519,"London","Ontario",NA
+520,"Vancouver","British Columbia",NA
+521,"Windsor","Ontario",NA
+522,"Antigonish","Nova Scotia",NA
+523,NA,"Alberta",NA
+524,"Winnipeg","Manitoba",NA
+525,NA,"Alberta",NA
+526,"Montreal","Quebec",NA
+527,"Montreal","Quebec",NA
+528,"Laval","Quebec",NA
+529,"Ottawa","Ontario",NA
+530,NA,NA,"True"
+531,"St. John's","Newfoundland Labrador",NA
+532,"Waterloo","Ontario",NA
+533,"St. John's","Newfoundland Labrador",NA
+534,"Toronto","Ontario",NA
+535,"Strathmore","Alberta",NA
+536,"Peel","Ontario",NA
+537,"Ottawa","Ontario",NA
+538,NA,NA,"True"
+539,"Niagara","Ontario",NA
+540,"Toronto","Ontario",NA
+541,"Winnipeg","Manitoba",NA
+542,NA,"British Columbia",NA
+543,NA,"British Columbia",NA
+544,"Montreal","Quebec",NA
+545,"Victoria","British Columbia",NA
+546,"Vancouver","British Columbia",NA
+547,"Toronto","Ontario",NA
+548,"Ottawa","Ontario",NA
+549,"Calgary","Alberta",NA
+550,"Toronto","Ontario",NA
+551,"Ottawa","Ontario",NA
+552,NA,"Nova Scotia",NA
+553,"Thunder Bay","Ontario",NA
+554,NA,NA,"True"
+555,"Winnipeg","Manitoba",NA
+556,NA,NA,"True"
+557,NA,NA,"True"
+558,NA,"Ontario",NA
+559,"Winnipeg","Manitoba",NA
+560,"Calgary","Alberta",NA
+561,"Pembroke","Ontario",NA
+562,"Montreal","Quebec",NA
+563,"Durham","Ontario",NA
+564,NA,"Nova Scotia",NA
+565,"Port Alberni","Alberta",NA
+566,"Edmonton","Alberta",NA
+567,"Toronto","Ontario",NA
+568,"Calgary","Alberta",NA
+569,"Vancouver","British Columbia",NA
+570,"Calgary","Alberta",NA
+571,NA,NA,"True"
+572,"Windsor","Ontario",NA
+573,"Winnipeg","Manitoba",NA
+574,"Montreal","Quebec",NA
+575,"Toronto","Ontario",NA
+576,NA,"Ontario",NA
+577,"Calgary","Alberta",NA
+578,NA,"Ontario",NA
+579,"Toronto","Ontario",NA
+580,"Vancouver","British Columbia",NA
+581,NA,"Quebec",NA
+582,"Coquitlam","British Columbia",NA
+583,"Winnipeg","Manitoba",NA
+584,"Montreal","Quebec",NA
+585,"Mississauga","Ontario",NA
+586,"Montreal","Quebec",NA
+587,"Vancouver","British Columbia",NA
+588,"Toronto","Ontario",NA
+589,"Windsor","Ontario",NA
+590,"Happy Valley-Goose Bay","Newfoundland Labrador",NA
+590,"St. John's","Newfoundland Labrador",NA
+591,"Saskatoon","Saskatchewan",NA
+592,"Whycocomagh","Nova Scotia",NA
+593,"Kamloops","British Columbia",NA
+594,"Halifax","Nova Scotia",NA
+595,"Kamloops","British Columbia",NA
+596,"Ottawa","Ontario",NA
+597,"Montreal","Quebec",NA
+598,"Calgary","Alberta",NA
+599,"Winnipeg","Manitoba",NA
+600,"Courtenay","British Columbia",NA
+601,"Toronto","Ontario",NA
+602,"Peterborough","Ontario",NA
+603,"Toronto","Ontario",NA
+604,NA,"Ontario",NA
+605,"Ottawa","Ontario",NA
+606,"Montreal","Quebec",NA
+607,"Halifax","Nova Scotia",NA
+608,"Richmond","British Columbia",NA
+609,"Coquitlam","British Columbia",NA
+610,NA,"Alberta",NA
+611,"Bible Hill","Nova Scotia",NA
+612,"Thunder Bay","Ontario",NA
+613,NA,"British Columbia",NA
+614,"Vancouver","British Columbia",NA
+615,"Whycocomagh","Nova Scotia",NA
+616,"Edmonton","Alberta",NA
+617,"Vancouver","British Columbia",NA
+618,"Niagara","Ontario",NA
+619,"Winnipeg","Manitoba",NA
+620,"Peterborough","Ontario",NA
+621,"Winnipeg","Manitoba",NA
+622,"Cape Breton","Nova Scotia",NA
+623,"Gabriola Island","British Columbia",NA
+624,"Calgary","Alberta",NA
+625,"Thunder Bay","Ontario",NA
+626,"Hamilton","Ontario",NA
+627,NA,"Nova Scotia",NA
+628,"Winnipeg","Manitoba",NA
+629,"London","Ontario",NA
+630,"Montreal","Quebec",NA
+631,"Toronto","Ontario",NA
+632,"Calgary","Alberta",NA
+633,NA,"New Brunswick",NA
+634,"Toronto","Ontario",NA
+635,"Toronto","Ontario",NA
+636,"Montreal","Quebec",NA
+637,NA,"New Brunswick",NA
+638,"Windsor","Ontario",NA
+639,"Ottawa","Ontario",NA
+640,"Burnaby","British Columbia",NA
+641,"Bay of Quinte","Ontario",NA
+642,"Cobourg","Ontario",NA
+643,"Montreal","Quebec",NA
+644,"Vancouver","British Columbia",NA
+645,"Vancouver","British Columbia",NA
+646,"Ottawa","Ontario",NA
+647,"London","Ontario",NA
+648,"Port Alberni","Alberta",NA
+649,"Edmonton","Alberta",NA
+650,"Coquitlam","British Columbia",NA
+651,"Innu Nation","Newfoundland Labrador",NA
+652,"Simcoe North","Ontario",NA
+653,"Edmonton","Alberta",NA
+654,"West Island","Quebec",NA
+655,NA,"British Columbia",NA
+656,"Ottawa","Ontario",NA
+657,"Vancouver","British Columbia",NA
+658,"Ottawa","Ontario",NA
+659,"Winnipeg","Manitoba",NA
+660,"Toronto","Ontario",NA
+661,"Owen Sound","Ontario",NA
+662,"Toronto","Ontario",NA
+663,"Canarama","Saskatchewan",NA
+664,"Calgary","Alberta",NA
+665,"Surrey","British Columbia",NA
+666,NA,"Quebec",NA
+667,"Vancouver","British Columbia",NA
+668,"Richmond","British Columbia",NA
+669,"Calgary","Alberta",NA
+670,"Montreal","Quebec",NA
+671,"Edmonton","Alberta",NA
+672,"Ottawa","Ontario",NA
+673,"Toronto","Ontario",NA
+674,"Halifax","Nova Scotia",NA
+675,NA,NA,"True"
+676,NA,NA,"True"
+677,"Halifax","Nova Scotia",NA
+678,"St. John's","Newfoundland Labrador",NA
+679,NA,"Quebec",NA
+680,NA,NA,"True"
+681,NA,NA,"True"
+682,NA,NA,"True"
+683,"Toronto","Ontario",NA
+684,"Vancouver","British Columbia",NA
+685,NA,"Quebec",NA
+686,"Surrey","British Columbia",NA
+687,"Montreal","Quebec",NA
+688,NA,NA,"True"
+689,"Regina","Saskatchewan",NA
+690,NA,"Quebec",NA
+691,NA,"Ontario",NA
+692,"Vancouver","British Columbia",NA
+693,NA,"Quebec",NA
+694,"Calgary","Alberta",NA
+695,"Hamilton","Ontario",NA
+696,"Montreal","Quebec",NA
+697,"Vancouver","British Columbia",NA
+698,"Winnipeg","Manitoba",NA
+699,NA,"British Columbia",NA
+700,NA,"British Columbia",NA
+701,NA,"Nova Scotia",NA
+702,"Mississauga","Ontario",NA
+703,NA,NA,"True"
+704,"Montreal","Quebec",NA
+705,"Toronto","Ontario",NA
+706,"Montreal","Quebec",NA
+707,"Peel","Ontario",NA
+708,"Edmonton","Alberta",NA
+709,NA,NA,"True"
+710,NA,NA,"True"
+711,"Ottawa","Ontario",NA
+712,"London","Ontario",NA
+713,NA,"Nova Scotia",NA
+714,NA,NA,"True"
+715,"Burlington","Ontario",NA
+716,"Hamilton","Ontario",NA
+717,NA,NA,"True"
+718,"Norfolk","Ontario",NA
+719,"Toronto","Ontario",NA
+720,"Hamilton","Ontario",NA
+721,NA,NA,"True"
+722,NA,NA,"True"
+723,"Dartmouth","Nova Scotia",NA
+724,"Toronto","Ontario",NA
+725,NA,NA,"True"
+726,"Toronto","Ontario",NA
+727,NA,"Nova Scotia",NA
+728,"Brampton","Ontario",NA
+729,NA,NA,"True"
+730,NA,"Quebec",NA
+731,"Hamilton","Ontario",NA
+732,NA,NA,"True"
+733,"London","Ontario",NA
+734,"Truro","Nova Scotia",NA
+735,"Labrador","Newfoundland Labrador",NA
+736,NA,NA,"True"
+737,"Hamilton","Ontario",NA
+738,NA,NA,"True"
+739,"Medicine Hat","Alberta",NA
+740,"Winnipeg","Manitoba",NA
+741,"Vancouver","British Columbia",NA
+742,NA,"Alberta",NA
+743,NA,"British Columbia",NA
+744,"Vancouver","British Columbia",NA
+745,"Gaspé region","Quebec",NA
+746,"Granby","Quebec",NA
+747,"Sault Ste. Marie","Ontario",NA
+748,"Peterborough","Ontario",NA
+749,NA,NA,"True"
+750,NA,NA,"True"
+751,"Regina","Saskatchewan",NA
+752,"Athabasca","Alberta",NA
+753,"Peterborough","Ontario",NA
+754,"Halifax","Nova Scotia",NA
+755,"Montreal","Quebec",NA
+756,"Scarborough","Ontario",NA
+757,NA,NA,"True"
+758,"Vancouver","British Columbia",NA
+759,"Toronto","Ontario",NA
+760,"West Vancouver","Quebec",NA
+761,"Ottawa","Ontario",NA
+762,"Halifax","Nova Scotia",NA
+763,"York","Ontario",NA
+764,"Toronto","Ontario",NA
+765,"Kemptville","Ontario",NA
+766,"Newmarket","Ontario",NA
+767,"Markham","Ontario",NA
+768,"Peel District","Ontario",NA
+769,"East Vancouver","British Columbia",NA
+770,"Victoria","British Columbia",NA
+771,"Toronto","Ontario",NA
+772,"Ottawa","Ontario",NA
+773,"Victoria","British Columbia",NA
+774,"New Westminster","British Columbia",NA
+775,"Edmonton","Alberta",NA
+776,"Toronto","Ontario",NA
+777,"Sudbury","Ontario",NA
+778,"Amherst","Newfoundland Labrador",NA
+779,NA,"Ontario",NA
+780,"Winnipeg","Manitoba",NA
+781,"Whitby","Ontario",NA
+782,"Longueuil","Quebec",NA
+783,"Montreal","Quebec",NA
+784,"Nanaimo","Quebec",NA
+785,NA,NA,"True"
+786,NA,NA,"True"
+787,"Winnipeg","Manitoba",NA
+788,"Brampton","Ontario",NA
+789,NA,"Manitoba",NA
+790,"Dryden","Ontario",NA
+791,"Montreal","Quebec",NA
+792,NA,"Ontario",NA
+793,"Halifax","Nova Scotia",NA
+794,"Toronto","Ontario",NA
+795,"Bedford","Nova Scotia",NA
+796,"Prince Albert","Saskatchewan",NA
+797,"Toronto","Ontario",NA
+798,"Toronto","Ontario",NA
+799,"Toronto","Ontario",NA
+800,"Brampton","Ontario",NA
+801,"Newmarket","Ontario",NA
+802,"Ottawa","Ontario",NA
+803,NA,"Quebec",NA
+804,"Halifax","Nova Scotia",NA
+805,"Wet’suwet’en","Quebec",NA
+806,NA,"Alberta",NA
+807,"Calgary","Alberta",NA
+807,"Red Deer","Alberta",NA
+808,"Ponoka","Alberta",NA
+809,NA,NA,"True"
+810,"Edmonton","Alberta",NA
+811,"Calgary","Alberta",NA
+812,NA,"Ontario",NA
+813,"Prince George","British Columbia",NA
+814,"Ottawa","Ontario",NA
+815,"Windsor","Ontario",NA
+816,"Peel District","Ontario",NA
+817,"Peel District","Ontario",NA
+818,"Kingston","Ontario",NA
+819,"Regina","Saskatchewan",NA
+820,"Saskatoon","Saskatchewan",NA
+821,"Brossard","Quebec",NA
+822,"Ottawa","Ontario",NA
+823,"Montreal","Quebec",NA
+824,"Ottawa","Ontario",NA
+825,NA,NA,"True"
+826,"North Bay","Ontario",NA
+827,"Guelph","Ontario",NA
+828,"Guelph","Ontario",NA
+829,"Guelph","Ontario",NA
+830,"Halifax","Nova Scotia",NA
+831,"Cambridge","British Columbia",NA
+832,"Longueuil","Quebec",NA
+833,"Montreal","Quebec",NA
+834,"Montreal","Quebec",NA
+835,NA,NA,"True"
+836,"Ottawa","Ontario",NA
+837,"Unknown","Unknown",NA
+838,"Unknown","Unknown",NA
+839,NA,"Nova Scotia",NA
+840,"Unknown","Unknown",NA
+841,"Halifax","Nova Scotia",NA
+842,"Thunder Bay","Ontario",NA
+843,NA,"Nova Scotia",NA
+844,NA,NA,"True"
+845,"Vancouver","British Columbia",NA
+846,"Vancouver","British Columbia",NA
+847,"Medicine Hat","Alberta",NA
+848,"Vancouver","British Columbia",NA
+849,NA,NA,"True"
+850,"Vancouver","British Columbia",NA
+851,"Halifax","Nova Scotia",NA
+852,"Toronto","Ontario",NA
+853,"Ottawa","Ontario",NA
+854,NA,NA,"True"
+855,NA,NA,"True"
+856,"Brampton","Ontario",NA
+857,"Prince George","British Columbia",NA
+858,NA,NA,"True"
+859,"Prince Albert","Saskatchewan",NA
+860,"Happy Valley-Goose Bay","Newfoundland Labrador",NA
+861,"Windsor","Ontario",NA
+862,"Ottawa","Ontario",NA
+863,"Cherry Brook","Nova Scotia",NA
+864,"Winnipeg","Manitoba",NA
+865,"Calgary","Alberta",NA
+866,"Toronto","Ontario",NA
+867,NA,NA,"True"
+868,"Ottawa","Ontario",NA
+869,"Ottawa","Ontario",NA
+870,"Vancouver","British Columbia",NA
+871,NA,"Quebec",NA
+872,"Montreal","Quebec",NA
+873,"Toronto","Ontario",NA
+874,"Montreal","Quebec",NA
+875,"Sudbury","Ontario",NA
+876,NA,NA,"True"
+877,"Surrey","British Columbia",NA
+878,"Montreal","Quebec",NA
+879,NA,NA,"True"
+880,"Wet’suwet’en","Quebec",NA
+881,"Cape Breton","Nova Scotia",NA
+882,"Vancouver","British Columbia",NA
+883,"Mississauga","Ontario",NA
+884,"Kingston","Ontario",NA
+885,"Timmins","British Columbia",NA
+886,NA,NA,"True"
+887,"Niagara","Ontario",NA
+888,"Victoria","British Columbia",NA
+889,"Stonewall","Manitoba",NA
+890,NA,"Ontario",NA
+891,"Vancouver","British Columbia",NA
+892,"Vancouver","British Columbia",NA
+893,"Vancouver","British Columbia",NA
+894,"Calgary","Alberta",NA
+895,"Mississauga","Ontario",NA
+896,"Brampton","Ontario",NA
+897,NA,NA,"True"
+898,"Penticton","British Columbia",NA
+899,"Granby","Quebec",NA
+900,"Vancouver","British Columbia",NA
+901,"Toronto","Ontario",NA
+902,NA,NA,"True"
+903,"Vancouver","British Columbia",NA
+904,"Ottawa","Ontario",NA
+905,"Brooks","Alberta",NA
+906,"High River","Alberta",NA
+907,NA,"British Columbia",NA
+908,"Vancouver","British Columbia",NA
+909,"Vancouver","British Columbia",NA
+910,"Bolton","Ontario",NA
+911,"Calgary","Alberta",NA
+912,"Calgary","Alberta",NA
+913,"Toronto","Ontario",NA
+914,"Regina","Saskatchewan",NA
+915,"Vancouver","British Columbia",NA
+916,NA,NA,"True"
+917,"Steveston","British Columbia",NA
+918,"Vancouver","British Columbia",NA
+919,"Regina","Saskatchewan",NA
+920,"Montreal","Quebec",NA
+921,"Ottawa","Ontario",NA
+922,NA,NA,"True"
+923,"Shelburne","Ontario",NA
+924,"Fredericton","New Brunswick",NA
+925,"Hamilton","Ontario",NA
+926,"Saskatoon","Saskatchewan",NA
+927,"Montreal","Quebec",NA
+928,"Toronto","Ontario",NA
+929,"Yellowknife","Northwest Territories",NA
+930,"Burnaby","British Columbia",NA
+931,"Mississauga","Ontario",NA
+932,"Vancouver","British Columbia",NA
+933,"Vancouver","British Columbia",NA
+934,"Edmonton","Alberta",NA
+935,"Calgary","Alberta",NA
+936,"Vancouver","British Columbia",NA
+937,"Montreal","Quebec",NA
+938,"Montreal","Quebec",NA
+939,"Whistler","Quebec",NA
+940,"Manitoulin Island","Ontario",NA
+941,"Ottawa","Ontario",NA
+942,"Calgary","Alberta",NA
+943,"Richmond","British Columbia",NA
+944,"Brampton","Ontario",NA
+945,"Brampton","Ontario",NA
+946,"Saskatoon","Saskatchewan",NA
+947,"Vancouver","British Columbia",NA
+948,"Kelowna","British Columbia",NA
+949,"Burnaby","British Columbia",NA
+950,"Vancouver","British Columbia",NA
+951,NA,"Quebec",NA
+952,NA,NA,"True"
+953,NA,"Ontario",NA
+954,NA,NA,"True"
+955,"Toronto","Ontario",NA
+956,"Newfoundland Labrador","Newfoundland Labrador",NA
+957,"Port Alberni","Alberta",NA
+958,"Guelph","Ontario",NA
+959,"Kingston","Ontario",NA
+960,"Burnaby","British Columbia",NA
+961,"Vancouver","British Columbia",NA
+962,"Coquitlam","British Columbia",NA
+963,"Vancouver","British Columbia",NA
+964,"Moncton","New Brunswick",NA
+965,"Winnipeg","Manitoba",NA
+966,"Innisfail","Alberta",NA
+967,"Waterloo","Ontario",NA
+968,NA,NA,"True"
+969,"Peterborough","Ontario",NA
+970,"Hamilton","Ontario",NA
+971,"Vancouver","British Columbia",NA
+972,"Winnipeg","Manitoba",NA
+973,"Saanich","British Columbia",NA
+974,"Kitchener","Ontario",NA
+975,"Saanich","British Columbia",NA
+976,"Montreal","Quebec",NA
+977,"Toronto","Ontario",NA
+978,"Montreal","Quebec",NA
+979,"Ottawa","Ontario",NA
+980,"Welland","Ontario",NA
+981,"St. John's","Newfoundland Labrador",NA
+982,NA,NA,"True"
+983,"Saskatoon","Saskatchewan",NA
+984,"Montreal","Quebec",NA
+985,"Waterloo","Ontario",NA
+986,NA,"Alberta",NA
+987,"Vancouver","British Columbia",NA
+988,"Calgary","Alberta",NA
+989,NA,"Ontario",NA
+990,"Calgary","Alberta",NA
+991,NA,"Quebec",NA
+992,NA,"Quebec",NA
+993,"Saint-Eustache","Quebec",NA
+994,"Peel District","Ontario",NA
+995,"Cornwall","Ontario",NA
+996,"Toronto","Ontario",NA
+997,"Abbotsford","British Columbia",NA
+998,"Montreal","Quebec",NA
+999,NA,"British Columbia",NA
+1000,"Vancouver","British Columbia",NA

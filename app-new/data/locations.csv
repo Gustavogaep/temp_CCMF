@@ -1,0 +1,134 @@
+"city_or_region","prov_code","loc_full","lat","lon"
+"Abbotsford","BC","Abbotsford, BC",49.0521162,-122.329479
+"Airdrie","AB","Airdrie, AB",51.28597,-114.01062
+"Barrie","ON","Barrie, ON",44.3893113,-79.6901736
+"Beaverton","ON","Beaverton, ON",44.4296227,-79.1550193
+"Bedford","NS","Bedford, NS",44.7303901,-63.6582365
+"Brampton","ON","Brampton, ON",43.6858146,-79.7599337
+"Brooks","AB","Brooks, AB",50.571027,-111.893005
+"Burnaby","BC","Burnaby, BC",49.2433804,-122.9725459
+"Caledon","ON","Caledon, ON",43.82706015,-79.9061036956765
+"Caledonia","ON","Caledonia, ON",43.6923702,-79.4653558
+"Calgary","AB","Calgary, AB",51.0534234,-114.0625892
+"Cambridge","ON","Cambridge, ON",43.3600536,-80.3123023
+"Campbellton","NB","Campbellton, NB",48.0046993,-66.6768648
+"Cape Breton","NS","Cape Breton, NS",46.2950327,-60.9360553504817
+"Charlottetown","PE","Charlottetown, PE",46.26311395,-63.1310042651877
+"Chester Basin","NS","Chester Basin, NS",44.566812,-64.3092599
+"Chéticamp","NS","Chéticamp, NS",46.6258587,-61.0157378
+"Chicoutimi","QC","Chicoutimi, QC",48.3370248,-71.1235261355927
+"Cold Lake","AB","Cold Lake, AB",54.531373,-110.066165510269
+"Coquitlam","BC","Coquitlam, BC",49.2842958,-122.793281
+"Cornwall","ON","Cornwall, ON",45.0184417,-74.728703
+"Courtenay","BC","Courtenay, BC",49.6894061,-124.9954959
+"Dartmouth","NS","Dartmouth, NS",44.6799707,-63.5720232
+"Delaware","ON","Delaware, ON",42.9081286,-81.4209222
+"Delta","BC","Delta, BC",49.0846258,-123.0579384
+"Dryden","ON","Dryden, ON",49.785698,-92.835846
+"Duncan","BC","Duncan, BC",48.7786872,-123.7080446
+"Durham","ON","Durham, ON",44.0338942,-78.8697879874836
+"Edmonton","AB","Edmonton, AB",53.535411,-113.507996
+"Flin Flon","MB","Flin Flon, MB",54.769801,-101.878967
+"Fredericton","NB","Fredericton, NB",45.94795935,-66.6533623589758
+"Georgetown","ON","Georgetown, ON",43.6502652,-79.9036058
+"Guelph","ON","Guelph, ON",43.5460516,-80.2493276
+"Halifax","NS","Halifax, NS",44.648618,-63.5859487
+"Halton","ON","Halton, ON",43.5044277,-79.8771403
+"Halton Hills","ON","Halton Hills, ON",43.64701,-80.017604
+"Hamilton","ON","Hamilton, ON",43.2560802,-79.8728583
+"Happy Valley-Goose Bay","NL","Happy Valley-Goose Bay, NL",53.2964352,-60.3111895
+"High River","AB","High River, AB",50.5797079,-113.8569213
+"Ingersoll","ON","Ingersoll, ON",43.037725,-80.88211
+"Innisfail","AB","Innisfail, AB",52.0200845,-113.9494301
+"Iqaluit","NU","Iqaluit, NU",63.74944,-68.521857
+"Joliette","QC","Joliette, QC",46.0239798,-73.4419936
+"Kamloops","BC","Kamloops, BC",50.6758269,-120.339415
+"Kelowna","BC","Kelowna, BC",49.8879177,-119.4959025
+"Kelowna-Mission District","BC","Kelowna-Mission District, BC",49.8446507,-119.481458
+"Kemptville","ON","Kemptville, ON",45.0154164,-75.644567
+"Kingston","ON","Kingston, ON",44.230687,-76.481323
+"Kinngait","NU","Kinngait, NU",64.2322773,-76.5432179
+"Kitchener","ON","Kitchener, ON",43.451291,-80.4927815
+"Lakeshore","ON","Lakeshore, ON",42.3038299,-82.8189267
+"Langley","BC","Langley, BC",49.1202942,-122.659331
+"Laval","QC","Laval, QC",45.60558895,-73.7344173056906
+"Lethbridge","AB","Lethbridge, AB",49.694285,-112.851562
+"London","ON","London, ON",42.9836747,-81.2496068
+"Lunenburg","NS","Lunenburg, NS",44.5070278,-64.4344556
+"Madeira Park","BC","Madeira Park, BC",49.6222165,-124.0196125
+"Manitoulin Island","ON","Manitoulin Island, ON",45.7563115,-82.2146050237431
+"Maple Ridge","BC","Maple Ridge, BC",49.2197345,-122.5997078
+"Markham","ON","Markham, ON",43.8563707,-79.3376825
+"Maskwacis Four Nations Alberta","AB","Maskwacis Four Nations Alberta, AB",,
+"Medicine Hat","AB","Medicine Hat, AB",50.04303,-110.679016
+"Mississauga","ON","Mississauga, ON",43.5896231,-79.6443879
+"Moncton","NB","Moncton, NB",46.097995,-64.80011
+"Montreal","QC","Montreal, QC",45.4972159,-73.6103642
+"Nanaimo","BC","Nanaimo, BC",49.163877,-123.938122
+"New Edinburgh","NS","New Edinburgh, NS",44.4332717,-66.0108053
+"New Glasgow","NS","New Glasgow, NS",45.5869474,-62.6483547
+"Newmarket","ON","Newmarket, ON",44.056258,-79.461708
+"Niagara","ON","Niagara, ON",43.6440753,-79.4086982
+"North Bay","ON","North Bay, ON",46.3092115,-79.4607617
+"North Dundas","ON","North Dundas, ON",45.09082255,-75.3700153593245
+"North York","ON","North York, ON",43.7543263,-79.4491169663959
+"Orillia","ON","Orillia, ON",44.6092059,-79.4175587
+"Oromocto","NB","Oromocto, NB",45.8474496,-66.471212
+"Ottawa","ON","Ottawa, ON",45.421106,-75.690308
+"Peel Region","ON","Peel Region, ON",43.745865,-79.7962296
+"Pembroke","ON","Pembroke, ON",45.8260909,-77.113541
+"Penticton","BC","Penticton, BC",49.494891,-119.594421
+"Peterborough","ON","Peterborough, ON",44.3048009,-78.3199496
+"Pickering","ON","Pickering, ON",43.835765,-79.090576
+"Pointe-Claire","QC","Pointe-Claire, QC",45.4566767,-73.8067442
+"Ponoka","AB","Ponoka, AB",52.67177865,-113.599433408222
+"Port Alberni","BC","Port Alberni, BC",49.2343668,-124.8056517
+"Port Coquitlam","BC","Port Coquitlam, BC",49.2621643,-122.7805425
+"Portage la Prairie","MB","Portage la Prairie, MB",49.972422,-98.289185
+"Prince Albert","SK","Prince Albert, SK",53.201097,-105.748901
+"Prince George","BC","Prince George, BC",53.9128645,-122.7453699
+"Queens County","NS","Queens County, NS",44.1627641,-64.9498882
+"Red Deer","AB","Red Deer, AB",52.2697395,-113.8181766
+"Regina","SK","Regina, SK",50.44876,-104.61731
+"Renfrew","ON","Renfrew, ON",45.4720417,-76.6838617
+"Repentigny","QC","Repentigny, QC",45.7326055,-73.4528307
+"Richmond","BC","Richmond, BC",49.163168,-123.137414
+"Richmond Hill","ON","Richmond Hill, ON",43.880078,-79.439392
+"Russell Township","ON","Russell Township, ON",45.257489,-75.357971
+"Saanich","BC","Saanich, BC",48.4594315,-123.3764946
+"Saint-Eustache","QC","Saint-Eustache, QC",45.5646052,-73.8929714
+"Sandy Point","NS","Sandy Point, NS",43.7096048,-65.3206624
+"Saskatoon","SK","Saskatoon, SK",52.131802,-106.660767
+"Sault Ste. Marie","ON","Sault Ste. Marie, ON",46.52391,-84.320068
+"Schomberg","ON","Schomberg, ON",44.001387,-79.682541
+"Slave Lake","AB","Slave Lake, AB",55.2810741,-114.7717876
+"Smithers","BC","Smithers, BC",54.7792074,-127.1760991
+"Squamish-Lillooet","BC","Squamish-Lillooet, BC",49.6980743,-123.1558612
+"St. John's","NL","St. John's, NL",47.561701,-52.715149
+"Stonewall","MB","Stonewall, MB",50.1342275,-97.3287254
+"Stratford","ON","Stratford, ON",43.3700899,-80.9818016
+"Sudbury","ON","Sudbury, ON",46.487489,-80.9921545
+"Summerland","BC","Summerland, BC",49.6,-119.666667
+"Surrey","BC","Surrey, BC",49.1913033,-122.8491439
+"Sydney","NS","Sydney, NS",46.137977,-60.194092
+"Thompson","MB","Thompson, MB",55.743347,-97.863464
+"Thunder Bay","ON","Thunder Bay, ON",48.406414,-89.259796
+"Timmins","ON","Timmins, ON",48.477473,-81.330414
+"Tiny","ON","Tiny, ON",44.7382893,-80.127099356532
+"Toronto","ON","Toronto, ON",43.6534817,-79.3839347
+"Vancouver","BC","Vancouver, BC",49.2608724,-123.1139529
+"Vernon","BC","Vernon, BC",50.2668671,-119.2718157
+"Victoria","BC","Victoria, BC",48.4283182,-123.3649533
+"Wainfleet","ON","Wainfleet, ON",42.9238093,-79.3764231
+"Wasaga Beach","ON","Wasaga Beach, ON",44.49555175,-80.0197127064772
+"Waterloo","ON","Waterloo, ON",43.4652699,-80.5222961
+"Welland","ON","Welland, ON",42.9922181,-79.2484192
+"West Island","QC","West Island, QC",45.51354495,-73.5582158586634
+"West Vancouver","BC","West Vancouver, BC",49.3311208,-123.1594791
+"Wet'suwet'en","BC","Wet'suwet'en, BC",54.02353905,-126.675997821124
+"Whale Cove","NU","Whale Cove, NU",62.1734234,-92.5863704
+"Whistler","BC","Whistler, BC",50.1171903,-122.9543022
+"Windsor","NS","Windsor, NS",44.9905115,-64.1363749
+"Windsor","ON","Windsor, ON",42.317099,-83.0353434
+"Winnipeg","MB","Winnipeg, MB",49.8955367,-97.1384584
+"Yellowknife","NT","Yellowknife, NT",62.4540807,-114.377385

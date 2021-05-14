@@ -1,0 +1,1012 @@
+incident_id,location
+1,Burnaby
+2,Windsor
+3,Ottawa
+4,Calgary
+5,Tignish
+6,New Brunswick
+7,Toronto
+8,Nova Scotia
+9,Toronto
+10,Ottawa
+11,Fredericton
+12,Ottawa
+13,Calgary
+14,Saskatchewan
+15,Montreal
+16,Timmins
+17,Regina
+18,"Ajax , ON"
+19,Toronto
+20,Saskatchewan
+21,Montreal
+22,online
+23,New Brunswick
+24,Ottawa
+25,Labrador
+26,Ottawa
+27,Fort McMurray
+28,Halifax
+29,Montreal
+30,Toronto
+31,Ottawa
+32,Winnipeg
+33,Toronto
+34,Thunder Bay
+35,Thunder Bay
+36,Toronto
+37,BC
+38,Nova Scotia
+39,Ottawa
+40,Ottawa
+41,Nova Scotia
+42,Thunder Bay
+43,Kelowna
+44,Kamloops
+45,Toronto
+46,Winnipeg
+47,Toronto
+48,Ottawa
+49,Vaughan GTA
+50,PEI
+51,Regina
+52,Ottawa
+53,Ottawa
+54,Halifax
+55,Gatineau
+56,Ottawa
+57,Yukon
+58,Mississauga
+59,Halifax
+60,Edmonton
+61,Thunder Bay
+62,ON
+63,Toronto
+64,"Owen Sound, ON"
+65,Calgary
+66,Ottawa
+67,Halifax
+68,Windsor
+69,Winnipeg
+70,Winnipeg
+71,Halifax
+72,Edmonton
+73,Ottawa
+74,Calgary
+75,Montreal
+76,Ottawa
+77,Halifax
+78,Ottawa
+79,Ottawa
+80,Saskatoon
+81,Ottawa
+82,Nova Scotia
+83,Montreal
+84,Montreal
+85,ON
+86,Lethbridge
+87,Ottawa
+88,"Lacolle, QC"
+89,Winnipeg
+90,Montreal
+91,Ottawa
+92,Toronto
+93,"Enderby, BC"
+94,Montreal
+95,Toronto
+96,Toronto
+97,Montreal
+98,Toronto
+99,Saskatoon
+100,Halifax
+101,Ottawa
+102,Bridge River Lillooet
+103,Calgary
+104,Ottawa
+105,"Peel, ON"
+106,St. John's
+107,Fredericton
+108,QC
+109,"Edson, AB"
+110,Kamloops
+111,Montreal
+112,Montreal
+113,Vancouver
+114,Red Deer
+115,Vancouver
+116,Toronto
+117,"Abbotsford, BC"
+118,Montreal
+119,Sudbury
+120,Surrey
+121,Mississauga
+122,London
+123,ON
+124,Ottawa
+125,Calgary
+126,Medicine Hat
+127,Charolettetown
+128,Thunder Bay
+129,Ottawa
+130,Ottawa
+131,Hamilton
+132,Halifax
+133,Toronto
+134,London
+135,Montreal
+136,Mississauga
+137,"Enerby, BC"
+138,"Peel, ON"
+139,Edmonton
+140,"Flin Flon, MB"
+141,Toronto
+142,Vancouver
+143,Edmonton
+144,Victoria
+145,Ottawa
+146,Calgary
+147,Ottawa
+148,Peterborough
+149,Toronto
+150,Halifax
+151,Hamilton
+152,"Cardston, AB"
+153,Ottawa
+154,"Chilliwack, BC"
+155,Toronto
+156,Nanaimo
+157,Peterborough
+158,"Sabrevois, QC"
+159,Edmonton
+160,"Village of Perdue, SK"
+161,"Dartmouth, NS"
+162,Nunavut
+163,Montreal
+164,Mississauga
+165,Statford
+166,Montreal
+167,Edmonton
+168,Edmonton
+169,"Fraser River, BC"
+170,Statford
+171,Ottawa
+172,Fort McMurray
+173,Fort McMurray
+174,Ottawa
+175,"St. Paul, AB"
+176,"M'Chigeeng, BC"
+177,"Kincardine, ON"
+178,Montreal
+179,Vancouver
+180,"Dartmouth, NS"
+181,Manitoba
+182,Montreal
+183,Toronto
+184,"Coquitlam, BC"
+185,"Keeseekoowenin Ojibway First Nation, MB"
+186,"Thompson, MB"
+187,Toronto
+188,Montreal
+189,Edmonton
+189,Ottawa
+190,"Kamloops, BC"
+191,Nova Scotia's Pictou County
+192,QC
+193,Edmonton
+194,Montreal
+195,Vancouver
+196,Montreal
+197,Edmonton
+198,Edmonton
+199,Toronto
+200,"New Glasgow, NS"
+201,ON
+202,Toronto
+203,Hamilton
+204,Ottawa
+205,Edmonton
+206,Ottawa
+207,"St. Albert, AB"
+208,Mississauga
+209,Ottawa
+210,"Peel, ON"
+211,Calgary
+212,Brantford
+213,York
+214,Calgary
+215,"Yarmouth, NS"
+216,Toronto
+217,Edmonton
+218,Edmonton
+219,Edmonton
+220,Calgary
+221,Halifax
+222,Winnipeg
+223,Winnipeg
+224,Edmonton
+225,"New Westminster, BC"
+226,Vancouver
+227,"St. Albert, AB"
+228,Charlottetown
+229,"Toronto, QC"
+230,Vancouver
+231,Edmonton
+232,Edmonton
+233,"Chilliwack, BC"
+234,Calgary
+235,Toronto
+236,Vancouver
+237,Montreal
+238,Montreal
+239,"Okanagan, BC"
+240,"Kelowna, BC"
+241,Halifax
+242,Toronto
+243,Peterborough
+244,Ottawa
+245,"Peel, ON"
+246,Neepawa
+247,Edmonton
+248,Ottawa
+249,Toronto
+250,Toronto
+251,York
+252,London
+253,Halifax
+254,Victoria
+255,Edmonton
+256,Thunder Bay
+257,Montreal
+258,Edmonton
+258,Calgary
+258,Vancouver
+259,QC
+260,Toronto
+261,Edmonton
+261,Calgary
+261,Edson
+261,Brooks
+261,Medicine Hat
+262,Mississauga
+263,Vancouver
+264,Ottawa
+265,Leduc
+266,QC
+267,Montreal
+268,Edmonton
+269,Cranbrook
+270,Edmonton
+271,Regina
+272,Thunderbay
+273,Cardston
+274,Ottawa
+275,National
+276,Gatineau
+277,Regina
+278,Kamloops
+279,Edmonton
+280,Merritt
+281,Peace River
+282,Montreal
+283,Burnaby
+284,Flin Flon
+285,Manitoba
+286,Fort McMurray
+287,Toronto
+288,Edmonton
+289,Red Deer
+290,Halifax
+291,Edmonton
+292,Edmonton
+293,QC City
+294,Halifax
+295,QC
+296,Winnipeg
+297,Winnipeg
+298,Ottawa
+299,Ottawa
+300,Manitoba
+301,QC
+302,Waterloo
+303,Winnipeg
+304,Vancouver
+305,Saint John
+306,Halifax
+307,Nova Scotia
+308,Toronto
+309,Ottawa
+310,Ottawa
+311,Vancouver
+311,Edmonton
+311,Lethbridge
+312,Fort McMurray
+313,Ottawa
+314,QC
+315,Toronto
+316,Mississauga
+317,Ottawa
+318,BC
+319,Kingston
+320,Newfoundland and Labrador
+321,Red Deer to Ottawa
+322,Hamilton
+323,Calgary
+324,Regina
+325,Calgary
+326,Onion Lake
+327,Waterloo
+328,Edmonton
+329,Peterborough
+330,Ottawa
+331,Burnaby
+332,Ottawa
+333,Peterborough
+334,Toronto
+335,Edmonton
+336,Ottawa
+337,Toronto
+338,Calgary
+339,Mount Polley
+340,Halifax
+341,Montreal
+342,Mississauga
+343,QC City
+344,Ottawa
+345,Anjou
+346,Montreal
+347,Iqaluit
+348,Saint-Jérôme
+349,Surrey
+350,Levis
+351,Montreal
+352,Sylvan Lake
+353,QC
+354,Edmonton
+355,QC
+356,Ottawa
+357,Halifax
+358,Kelowna
+359,Lac Ste. Anne
+360,Vancouver
+361,Saskachewan
+362,Langley
+363,Winnepeg
+364,Toronto
+365,Kelowna
+366,Ottawa
+367,Ottawa
+368,Montreal
+369,Edmonton
+370,Newmarket
+371,Vancouver
+372,Ottawa
+373,Waterloo
+374,Hampstead
+375,Montreal
+376,Kingston
+377,Mississauga
+378,Brandon
+379,Sudbury
+380,Winnipeg
+381,ON
+382,Ottawa
+383,Toronto
+384,Toronto
+385,West Moberly
+386,Winnipeg
+387,Dryden
+388,Winnipeg
+389,Calgary
+390,Winnipeg
+391,Surrey
+392,Winnipeg
+393,Sioux Lookout
+394,Richmond
+395,North Bay
+396,National
+397,Toronto
+398,Grande Prairie
+399,Saskatoon
+400,Peterborough
+401,Ottawa
+402,Ottawa
+403,Dartmouth Cole-Harbour
+404,Toronto
+405,QC
+406,Burnaby
+407,Hamilton
+408,Yellowknife
+409,Truro
+410,York
+411,Saskatchewan
+412,Mississauga
+413,Ottawa
+414,Edson
+415,Ottawa
+416,Montreal
+417,National
+418,Montreal
+419,Toronto
+420,Calgary
+421,Sutton
+422,Coquitlam
+423,Toronto
+424,QC
+425,Thunderbay
+426,Ottawa
+427,Fredricton
+428,Ottawa
+429,ON
+430,Ottawa
+431,Ottawa
+432,National
+433,Coquitlam
+434,Burlington
+435,Vancouver
+436,Hamilton
+437,Burlington
+438,Vancouver
+439,Toronto
+440,QC City
+441,London
+442,Hamilton
+443,Calgary
+444,Toronto
+445,Toronto
+446,Ottawa
+447,Toronto
+448,QC
+449,Ottawa
+450,national
+451,Toronto
+452,Ottawa
+453,Surrey
+454,Calgary
+455,North Fraser
+456,Williams Lake
+457,Grand Rapids
+458,Halifax
+459,Victoria
+460,Edmonton
+461,Calgary
+462,Montreal
+463,York
+464,Halifax
+465,Cornwall
+466,Kamloops
+467,Ottawa
+468,Winnipeg
+469,Berwick
+470,Vancouver
+471,Sechelt
+472,QC City
+473,Winnipeg
+474,Regina
+475,Toronto
+476,Toronto
+477,Montreal
+478,Montreal
+479,Regina
+480,Surrey
+481,Toronto
+482,Toronto
+483,Edmonton
+484,Edmonton
+485,Montreal
+486,Montreal
+487,Victoria
+488,Waterloo
+489,Winnipeg
+490,Nova Scotia
+491,Ottawa
+492,Calgary
+493,Vancouver
+494,Hamilton
+495,Vancouver
+496,Toronto
+497,Sydney
+498,Thunderbay
+499,Charlottetown
+500,London
+501,Hamilton
+502,Cole Harbour
+503,Gatineau
+504,Kelowna
+505,Montreal
+506,Montreal
+507,Mississauga
+508,Toronto
+509,Georgina
+510,Halifax
+511,Laval
+512,Burnaby
+513,Toronto
+514,Richmond
+515,Toronto
+516,St. John's
+517,Hamilton
+518,Surrey
+519,London
+520,Vancouver
+521,"Windsor, NS"
+522,"Antigonish, NS"
+523,AB
+524,Winnipeg
+525,AB
+526,Montreal
+527,Montreal
+528,Laval
+529,Ottawa
+530,National
+531,St. John's
+532,Waterloo
+533,St. John's
+534,Toronto
+535,Strathmore
+536,Peel
+537,Ottawa
+538,National
+539,Niagra
+540,Toronto
+541,Winnipeg
+542,British Columbia
+543,British Columbia
+544,Montreal
+545,Victoria
+546,Vancouver
+547,Toronto
+548,Ottawa
+549,Calgary
+550,Toronto
+551,Ottawa
+552,Nova Scotia
+553,Thunder Bay
+554,National
+555,Winnipeg
+556,National
+557,National
+558,ON
+559,Winnipeg
+560,Calgary
+561,Pembroke
+562,Montreal
+563,Durham
+564,Nova Scotia
+565,Port Alberni
+566,Edmonton
+567,Toronto
+568,Calgary
+569,Vancouver
+570,Calgary
+571,National
+572,"Windsor, NS"
+573,Winnipeg
+574,Montreal
+575,Toronto
+576,ON
+577,Calgary
+578,ON
+579,Toronto
+580,Vancouver
+581,QC
+582,Coquitlam
+583,Winnipeg
+584,Montreal
+585,Mississauga
+586,Montreal
+587,Vancouver
+588,Toronto
+589,Windsor
+590,Happy Valley-Goose Bay
+590,St. John's
+591,Saskatoon
+592,Whycocomagh
+593,Kamloops
+594,Halifax
+595,Kamloops
+596,Ottawa
+597,Montreal
+598,Calgary
+599,Winnipeg
+600,Courtenay
+601,Toronto
+602,Peterborough
+603,Toronto
+604,ON
+605,Ottawa
+606,Montreal
+607,Halifax
+608,Richmond
+609,Coquitlam
+610,AB
+611,"Bible Hill, NS"
+612,Thunder Bay
+613,British Columbia
+614,Vancouver
+615,Whycocomagh
+616,Edmonton
+617,Vancouver
+618,Niagra
+619,Winnipeg
+620,Peterborough
+621,Winnipeg
+622,Cape Breton
+623,Gabriola Island
+624,Calgary
+625,Thunder Bay
+626,Hamilton
+627,Nova Scotia
+628,Winnipeg
+629,London
+630,Montreal
+631,Toronto
+632,Calgary
+633,New Bruinswick
+634,Toronto
+635,Toronto
+636,Montreal
+637,New Bruinswick
+638,Windsor
+639,Ottawa
+640,Burnaby
+641,Bay of Quinte
+642,Cobourg
+643,Montreal
+644,Vancouver
+645,Vancouver
+646,Ottawa
+647,London
+648,Port Alberni
+649,Edmonton
+650,Coquitlam
+651,Innu Nation
+652,Simcoe North
+653,Edmonton
+654,West Island
+655,BC
+656,Ottawa
+657,Vancouver
+658,Ottawa
+659,Winnipeg
+660,Toronto
+661,Owen Sound
+662,Toronto
+663,Canarama
+664,Calgary
+665,Surrey
+666,QC
+667,Vancouver
+668,Richmond
+669,Calgary
+670,Montreal
+671,Edmonton
+672,Ottawa
+673,Toronto
+674,Halifax
+675,National
+676,National
+677,Halifax
+678,St. John's
+679,QC
+680,National
+681,National
+682,National
+683,Toronto area
+684,Vancouver
+685,QC
+686,Surrey
+687,Montreal
+688,National
+689,Regina
+690,QC
+691,ON
+692,Vancouver
+693,QC
+694,Calgary
+695,Hamilton
+696,Montreal
+697,Vancouver
+698,Winnipeg
+699,British Columbia
+700,British Columbia
+701,Nova Scotia
+702,Mississauga
+703,National
+704,Montreal
+705,Toronto
+706,Montreal
+707,Peel Region
+708,Edmonton
+709,National
+710,National
+711,Ottawa
+712,London
+713,Nova Scotia
+714,National
+715,Burlington
+716,Hamilton
+717,National
+718,"Norfolk, ON"
+719,Toronto
+720,Hamilton
+721,National
+722,National
+723,Dartmouth
+724,Toronto
+725,National
+726,Toronto
+727,Nova Scotia
+728,Brampton
+729,National
+730,QC
+731,Hamilton
+732,National
+733,London
+734,"Truro, NS"
+735,"Labrador, NL"
+736,National
+737,Hamilton
+738,National
+739,Medicine Hat
+740,Winnipeg
+741,Vancouver
+742,AB
+743,British Columbia
+744,Vancouver
+745,Gaspé region
+746,"Granby, QC"
+747,Sault Ste. Marie
+748,Peterborough
+749,National
+750,National
+751,Regina
+752,Athabasca
+753,Peterborough
+754,Halifax
+755,Montreal
+756,Scarborough
+757,National
+758,Vancouver
+759,Toronto
+760,West Vancouver
+761,Ottawa
+762,Halifax
+763,York
+764,Toronto
+765,"Kemptville, ON"
+766,"Newmarket, ON"
+767,"Markham, ON"
+768,"Peel District, ON"
+769,East Vancouver
+770,Victoria
+771,Toronto
+772,Ottawa
+773,Victoria
+774,"New Westminster, BC"
+775,Edmonton
+776,Toronto
+777,Sudbury
+778,"Amherst, NS"
+779,ON
+780,Winnipeg
+781,"Whitby, ON"
+782,"Longueuil, QC"
+783,Montreal
+784,Nanaimo
+785,National
+786,National
+787,Winnipeg
+788,Brampton
+789,Manitoba
+790,"Dryden, ON"
+791,Montreal
+792,ON
+793,Halifax
+794,Toronto
+795,"Bedford, NS"
+796,Prince Albert
+797,Toronto
+798,Toronto
+799,Toronto
+800,Brampton
+801,"Newmarket, ON"
+802,Ottawa
+803,QC
+804,Halifax
+805,Wet’suwet’en
+806,Central AB
+807,Calgary
+807,Red Deer
+808,Ponoka
+809,National
+810,Edmonton
+811,Calgary
+812,ON
+813,Prince George
+814,Ottawa
+815,Windsor
+816,"Peel District, ON"
+817,"Peel District, ON"
+818,Kingston
+819,Regina
+820,Saskatoon
+821,Brossard
+822,Ottawa
+823,Montreal
+824,Ottawa
+825,National
+826,North Bay
+827,Guelph
+828,Guelph
+829,Guelph
+830,Halifax
+831,Cambridge
+832,"Longueuil, QC"
+833,Montreal
+834,Montreal
+835,National
+836,Ottawa
+837,Unknown
+838,Unknown
+839,Nova Scotia
+840,Unknown
+841,Halifax
+842,Thunder Bay
+843,Nova Scotia
+844,National
+845,Vancouver
+846,Vancouver
+847,Medicine Hat
+848,Vancouver
+849,National
+850,Vancouver
+851,Halifax
+852,Toronto
+853,Ottawa
+854,National
+855,National
+856,Brampton
+857,Prince George
+858,National
+859,Prince Albert
+860,Happy Valley-Goose Bay
+861,Windsor
+862,Ottawa
+863,"Cherry Brook, NS"
+864,Winnipeg
+865,Calgary
+866,Toronto
+867,National
+868,Ottawa
+869,Ottawa
+870,Vancouver
+871,QC
+872,Montreal
+873,Toronto
+874,Montreal
+875,Sudbury
+876,National
+877,Surrey
+878,Montreal
+879,National
+880,Wet’suwet’en
+881,Cape Breton
+882,Vancouver
+883,Mississauga
+884,Kingston
+885,Timmins
+886,National
+887,Niagara
+888,Victoria
+889,"Stonewall, MB"
+890,ON
+891,Vancouver
+892,Vancouver
+893,Vancouver
+894,Calgary
+895,Mississauga
+896,Brampton
+897,National
+898,Penticton
+899,"Granby, QC"
+900,Vancouver
+901,Toronto
+902,National
+903,Vancouver
+904,Ottawa
+905,Brooks
+906,High River
+907,British Columbia
+908,Vancouver
+909,Vancouver
+910,"Bolton, ON"
+911,Calgary
+912,Calgary
+913,Toronto
+914,Regina
+915,Vancouver
+916,National
+917,"Steveston, BC"
+918,Vancouver
+919,Regina
+920,Montreal
+921,Ottawa
+922,National
+923,Shelburne
+924,Frederickton
+925,Hamilton
+926,Saskatoon
+927,Montreal
+928,Toronto
+929,Yellowknife
+930,Burnaby
+931,Mississauga
+932,Vancouver
+933,Vancouver
+934,Edmonton
+935,Calgary
+936,Vancouver
+937,Montreal
+938,Montreal
+939,Whistler
+940,"Manitoulin Island, ON"
+941,Ottawa
+942,Calgary
+943,Richmond
+944,Brampton
+945,Brampton
+946,Saskatoon
+947,Vancouver
+948,Kelowna
+949,Burnaby
+950,Vancouver
+951,QC
+952,National
+953,ON
+954,National
+955,Toronto
+956,Newfoundland & Labrador
+957,"Port Alberni, BC"
+958,Guelph
+959,Kingston
+960,Burnaby
+961,Vancouver
+962,Coquitlam
+963,Vancouver
+964,Moncton
+965,Winnipeg
+966,Innisfail
+967,Waterloo
+968,National
+969,Peterborough
+970,Hamilton
+971,Vancouver
+972,Winnipeg
+973,"Saanich, BC"
+974,Kitchener
+975,"Saanich, BC"
+976,Montreal
+977,Toronto
+978,Montreal
+979,Ottawa
+980,"Welland, ON"
+981,"St. John's, NL"
+982,National
+983,Saskatoon
+984,Montreal
+985,Waterloo
+986,AB
+987,Vancouver
+988,Calgary
+989,ON
+990,Calgary
+991,QC
+992,QC
+993,Saint-Eustache
+994,"Peel District, ON"
+995,Cornwall
+996,Toronto
+997,Abbotsford
+998,Montreal
+999,British Columbia
+1000,Vancouver

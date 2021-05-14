@@ -1,0 +1,167 @@
+<script>
+  // Prevent default form submission
+  function preventFormSubmit() {
+    var forms = document.querySelectorAll("form");
+    for (var i = 0; i < forms.length; i++) {
+      forms[i].addEventListener("submit", function (event) {
+        event.preventDefault();
+      });
+    }
+  }
+  window.addEventListener("load", preventFormSubmit);
+
+  // General failure handler which will create an alert with the error message
+  function onFailure(error) {
+    alert("Oops, something went wrong! Error details: " + error);
+  }
+
+  // Display spinner (for page loading and slow server processes)
+  function spinnerOn() {
+    document.getElementById("spinner-container").style.display = "block";
+  }
+
+  // Turn spinner off
+  function spinnerOff() {
+    document.getElementById("spinner-container").style.display = "none";
+  }
+
+  // --- Form setup -------------------------------------------------------
+
+  // Add an option to a form input
+  function addOption(element, value) {
+    let option = document.createElement("option");
+    option.value = value;
+    option.text = value;
+    element.appendChild(option);
+  }
+
+  // Add option groups to a form input
+  function addOptionGroups(element, optionsObject) {
+    let values = null;
+    let optGroup = null;
+    // console.log("Option group:");
+    for (const groupName in optionsObject) {
+      // console.log("Group name: " + groupName);
+      values = optionsObject[groupName];
+      // console.log("-- Options: " + values);
+      optGroup = document.createElement("optgroup");
+      optGroup.label = groupName;
+      for (let j = 0; j < values.length; j++) {
+        addOption(optGroup, values[j]);
+      }
+      element.appendChild(optGroup);
+    }
+  }
+
+  // Populate options in main form
+  function populateMainFormOptions(options) {
+    console.log("Starting function populateMainFormOptions()");
+    console.log(options);
+
+    let fieldOptions = null;
+    let fieldElement = null;
+    let currentOption = null;
+    for (const fieldId in options) {
+      fieldOptions = options[fieldId];
+      fieldElement = document.getElementById(fieldId);
+      console.log("Field: " + fieldId);
+      // console.log("-- Options: " + fieldOptions);
+      for (let i = 0; i < fieldOptions.length; i++) {
+        currentOption = fieldOptions[i];
+        if (typeof currentOption === "string") {
+          // Single option value
+          addOption(fieldElement, currentOption);
+        } else {
+          // Object representing option group(s)
+          addOptionGroups(fieldElement, currentOption);
+        }
+      }
+    }
+  }
+
+  // Get options from spreadsheet and populate form
+  function initMainForm() {
+    console.log("Starting function initMainForm()");
+
+    google.script.run
+      .withFailureHandler(onFailure)
+      .withSuccessHandler(populateMainFormOptions)
+      .getMainFormOptions();
+
+    // Turn off the spinner once the form is loaded
+    spinnerOff();
+  }
+
+  // --- Form submission ---------------------------------------------
+
+  // Upon successful form submission, reset the form and create an
+  // alert with the submitted data
+  function onSuccessMainFormSubmit(record) {
+    // Reset the form
+    document.getElementById("main-form").reset();
+
+    // Create a string for displaying the submitted data record
+    let recordString = [record.labels[0], record.values[0]].join(": ");
+
+    for (let i = 1; i < record.labels.length; i++) {
+      recordString += "; " + [record.labels[i], record.values[i]].join(": ");
+    }
+    recordString = "{" + recordString + "}";
+
+    // Create alert box
+    let alertHTML =
+      '<div class="alert alert-success" role="alert">' +
+      "<strong>Success!</strong> Incident saved with the following data: " +
+      recordString +
+      "</div>";
+    let alertContainer = document.getElementById("div-main-form-status");
+    alertContainer.innerHTML = alertHTML;
+    console.log(alertContainer.text);
+
+    // Jump to top of form
+    document.getElementById("main-form").scrollIntoView();
+
+    // When I add the interactive table of incident records to the HTML,
+    // this is the spot I can add a new row to that table, using record.values
+  }
+
+  // Handler for main form submission
+  function handleMainFormSubmit(formObject) {
+    console.log("Starting function handleMainFormSubmit().");
+    spinnerOn();
+
+    let values = google.script.run
+      .withFailureHandler(onFailure)
+      .withSuccessHandler(onSuccessMainFormSubmit)
+      .processMainForm(formObject);
+
+    spinnerOff();
+  }
+
+  // --- Jquery -----------------------------------------------------------------
+  $(document).ready(function () {
+    $('[data-toggle="popover"]').popover();
+
+    $(".form-control-select2").select2();
+
+    $(".select2-max-one").select2({
+      maximumSelectionLength: 1,
+    });
+
+    $("form").areYouSure();
+
+    // Reset the select2 inputs when the form is reset
+    // From: https://github.com/select2/select2/issues/363
+    $("select")
+      .closest("form")
+      .on("reset", function (ev) {
+        var targetJQForm = $(ev.target);
+        setTimeout(
+          function () {
+            this.find("select").trigger("change");
+          }.bind(targetJQForm),
+          0
+        );
+      });
+  });
+</script>

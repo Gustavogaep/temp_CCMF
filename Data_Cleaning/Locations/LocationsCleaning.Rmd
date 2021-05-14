@@ -1,0 +1,173 @@
+---
+title: "LocationsCleaning - CCMF"
+author: "Jeremy Fan"
+date: "05/07/2020"
+output: html_document
+---
+Import the file with string as factors set to false. 
+
+
+```{r}
+locations <- read.csv("../Pre-Processing/locations.csv", encoding="UTF-8", stringsAsFactors=FALSE)
+```
+
+Precleaning: Fix some typos.
+```{r}
+locations$location[locations$location == "Winnepeg"] <- "Winnipeg"
+locations$location[locations$location == "Toronto area"] <- "Toronto"
+locations$location[locations$location == "Vaughan GTA"] <- "Vaughan"
+locations$location[locations$location == "Peel Region"] <- "Peel"
+locations$location[locations$location == "Peel District"] <- "Peel"
+locations$location[locations$location == "Peel District "] <- "Peel"
+locations$location[locations$location == "Charolettetown"] <- "Charlottetown"
+locations$location[locations$location == "Enerby"] <- "Enderby"
+locations$location[locations$location == "Thunderbay"] <- "Thunder Bay"
+locations$location[locations$location == "Niagra"] <- "Niagara"
+locations$location[locations$location == "ewfoundland & Labrador"] <- "Newfoundland Labrador"
+locations$location[locations$location == "Frederickton"] <- "Fredericton"
+locations$location[locations$location == "Fredricton"] <- "Fredericton"
+locations$location[locations$location == "Dartmouth Cole-Harbour"] <- "Dartmouth"
+locations$location[locations$location == "Central AB"] <- "Alberta"
+locations$location[locations$location == "BC"] <- "British Columbia"
+locations$location[locations$location == "Newfoundland & Labrador"] <- "Newfoundland Labrador"
+locations$location[locations$location == "Newfoundland and Labrador"] <- "Newfoundland Labrador"
+locations$location[locations$location == " Peel District"] <- "Peel"
+locations$location[locations$location == "New Bruinswick"] <- "New Brunswick"
+
+
+```
+
+
+Generate the list of cities in each province/territory. 
+```{r}
+
+OntarioList <- c("Windsor", "York", "Waterloo", "Toronto", "Thunder Bay","Sudbury", "Peterborough", "Peel", "Owen Sound", "Ottawa", "Missisauga", "London", "Kingston", "Brampton", "Bay of Quinte", "Brantford", "Burlington", "Cobourg", "Cornwall", "Dryden", "Durham", "Georgina", "Guelph", "Hamilton", "Mississauga", "Newmarket", "Niagara", "North Bay", "Peel Region", "Pembroke", "Sault Ste. Marie", "Scarborough", "Shelburne", "Simcoe North", "Sioux Lookout", "Statford", "Thunderbay", "Vaughan", "Ajax", "Kincardine", "Norfolk", "Kemptville", "Whitby", "Manitoulin Island", "Ajax ", "Niagra", "Markham", "Oakville", "Bolton", "Kitchener", "Welland", "Peel District")
+
+NovaScotiaList <- c("Whycocomagh", "Truro", "Halifax", "Cape Breton", "Cole Harbour", "Nova Scotia's Pictou County", "Sydney", "Dartmouth", "New Glasgow", "Yarmouth", "Bible Hill", "Bedford",
+"Cherry Brook", "Antigonish")
+
+NorthWestTerritoryList <- c("Yellowknife")
+
+BritishColumbiaList <- c("Victoria", "Vancouver", "Surrey", "Kelowna", "Kamloops", "BC", "Burnaby", "Coquitlam", "Bridge River Lillooet", "Cambridge", "Courtenay", "Cranbrook", "East Vancouver", "Gabriola Island", "Haisla Nation", "Langley", "Merritt", "North Fraser", "Penticton", "Prince George", "Richmond", "Sechelt", "Timmins", "West Moberly", "Enderby", "Abbotsford", "Enerby", "Chilliwack", "Fraser River",
+"M'Chigeeng", "New Westminster", "Steveston", "Okanagan", "Saanich")
+
+NewfoundlandLabradorList <- c("St. John's", "Happy Valley-Goose Bay", "Innu Nation", "Labrador", "Amherst")
+
+SaskatchewanList <- c("Saskatoon", "Regina", "Canarama", "Prince Albert", "Saskachewan",
+"Village of Perdue")
+
+QuebecList <- c("Quebec City", "Montreal", "Anjou", "Brossard", "Gaspé region", "Gatineau", "Hampstead", "Lac Ste. Anne", "Laval", "Mount Polley", "Nanaimo", "Saint-Jérôme", "Sutton", "West Island", "West Vancouver", "Wet’suwet’en","Whistler", "Williams Lake", "Levis", "Lacolle", "Sabrevois", "QC City",
+"Granby", "Longueuil", "Saint-Eustache")
+
+ManitobaList <- c("Winnipeg", "Brandon", "Flin Flon", "Grand Rapids", "Neepawa", "Keeseekoowenin Ojibway First Nation", "Thompson", "Stonewall")
+
+AlbertaList <- c("Calgary", "Edmonton", "Athabasca", "Berwick", "Brooks", "Central Alberta", "Edson", "Fort McMurray","Grande Prairie", "High River", "Leduc", "Medicine Hat", "Onion Lake", "Peace River", "Ponoka", "Port Alberni", "Red Deer", "Strathmore", "Sylvan Lake", "Cardston", "St. Paul", "St. Albert", "Central AB", "Lethbridge", "Innisfail")
+
+PrinceEdwardIslandList <- c("Charlottetown", "Tignish", "Charolettetown")
+
+NewBrunswickList <- c("Saint John", "Fredericton", "Moncton")
+
+NunavutList <- c("Iqaluit")
+
+YukonList <- c("Yukon")
+
+```
+
+Precleaning: 
+Get rid of province names in city entries
+```{r}
+locations$location <- gsub("\\,..*","",locations$location)
+```
+
+
+Step 1 of cleaning: 
+Populate all cities with a province. 
+```{r}
+for (i in OntarioList) {
+  locations$province[as.character(locations$location) == i] <- "Ontario"
+}
+
+for (i in NovaScotiaList) {
+  locations$province[as.character(locations$location) == i] <- "Nova Scotia"
+}
+
+for (i in NorthWestTerritoryList) {
+  locations$province[as.character(locations$location) == i] <- "Northwest Territories"
+}
+
+for (i in BritishColumbiaList) {
+  locations$province[as.character(locations$location) == i] <- "British Columbia"
+}
+
+
+for (i in NewfoundlandLabradorList) {
+  locations$province[as.character(locations$location) == i] <- "Newfoundland Labrador"
+}
+
+for (i in SaskatchewanList) {
+  locations$province[as.character(locations$location) == i] <- "Saskatchewan"
+}
+
+for (i in QuebecList) {
+  locations$province[as.character(locations$location) == i] <- "Quebec"
+}
+
+
+for (i in ManitobaList) {
+  locations$province[as.character(locations$location) == i] <- "Manitoba"
+}
+
+for (i in AlbertaList) {
+  locations$province[as.character(locations$location) == i] <- "Alberta"
+}
+
+for (i in PrinceEdwardIslandList) {
+  locations$province[as.character(locations$location) == i] <- "Prince Edward Island"
+}
+
+for (i in NewBrunswickList) {
+  locations$province[as.character(locations$location) == i] <- "New Brunswick"
+}
+
+for (i in NunavutList) {
+  locations$province[as.character(locations$location) == i] <- "Nunavut"
+}
+
+for (i in YukonList) {
+  locations$province[as.character(locations$location) == i] <- "Yukon"
+}
+
+```
+
+
+Step 2 of cleaning: 
+Make all national like city tags become "true" in the national column, and make entries in city NA. 
+```{r}
+NationalList <- c("National", "Canada", "online", "Red Deer to Ottawa", "national")
+for (i in NationalList) {
+  locations$national[as.character(locations$location) == i] <- "True"
+}
+locations$location[locations$national == "True"] <- NA
+```
+
+Step 3 of cleaning: 
+Populate the provinces tag. First replace all short abbreviations with fullnames (e.g AB -> Alberta) in the cities column. Then do an if statement, for all if values in province that is unfilled, fill the value with the cities column
+```{r}
+ProvinceList <- c("Alberta", "British Columbia", "Manitoba", "New Brunswick", "Newfoundland and Labrador", "Nova Scotia", "Ontario", "Prince Edward Island", "Quebec", "Saskatchewan", "Yukon", "Northwest Territory")
+
+locations$location[locations$location == "ON"] <- "Ontario"
+locations$location[locations$location == "QC"] <- "Quebec"
+locations$location[locations$location == "PEI"] <- "Prince Edward Island"
+locations$location[locations$location == "AB"] <- "Alberta"
+
+locations$province <- ifelse(is.na(locations$province), locations$location, locations$province)
+
+locations$location[locations$location %in% ProvinceList] <- NA
+```
+
+Step 4 of data cleaning: 
+Export dataset as csv
+```{r}
+write.csv(locations, "CCMF_Locations_Edited.csv", row.names = FALSE, fileEncoding = "UTF-8")
+```
+

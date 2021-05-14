@@ -1,0 +1,98 @@
+<style>
+  h1 {
+    font-size: 1.5em;
+  }
+
+  h2 {
+    font-size: 1.3em;
+  }
+
+  h3 {
+    font-size: 1.17em;
+  }
+
+  #main-nav-tab {
+    margin-top: 1.5em;
+    margin-bottom: 1em;
+  }
+
+  .form-control {
+    /* Match select2 style */
+    border: 1px solid #aaa !important;
+    border-radius: 4px;
+  }
+
+  .form-control-select2 {
+    width: "resolve" // need to override the changed default
+;
+  }
+
+  .select2-container {
+    clear: both;
+    display: block;
+    margin-right: 2px;
+  }
+
+  .help-button {
+    /*color: #505050;*/
+    color: #202020;
+    font-size: medium;
+    margin-left: 3px;
+  }
+
+  .popover {
+    max-width: 60%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+
+  .hidden {
+    display: none;
+  }
+
+  /* --- Spinning loader for when server is busy -------------------- */
+  #spinner-container {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #b8b8b8;
+    opacity: 0.3;
+    overflow: hidden;
+    z-index: 99998;
+    pointer-events: none;
+  }
+
+  #spinner {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    z-index: 1;
+    width: 120px;
+    height: 120px;
+    margin: -76px 0 0 -76px;
+    border: 16px solid #f3f3f3;
+    border-radius: 50%;
+    border-top: 16px solid #0c38b0;
+    -webkit-animation: spin 2s linear infinite;
+    animation: spin 2s linear infinite;
+  }
+
+  @-webkit-keyframes spin {
+    0% {
+      -webkit-transform: rotate(0deg);
+    }
+    100% {
+      -webkit-transform: rotate(360deg);
+    }
+  }
+
+  @keyframes spin {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+</style>

@@ -1,0 +1,13 @@
+name: appTEST4
+title: appTEST4
+username:
+account: salha-qahl
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2905062
+bundleId: 3683115
+url: https://salha-qahl.shinyapps.io/appTEST4/
+when: 1601385134.57015
+lastSyncTime: 1601385134.57016
+asMultiple: FALSE
+asStatic: FALSE

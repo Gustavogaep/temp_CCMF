@@ -1,0 +1,1034 @@
+type,name,population_centre_size_group,population_centre_type,province,prov_code,location_label,geocode_query,population_2016
+Province,Alberta,,,Alberta,AB,Alberta,"AB, Canada",4067175
+Province,British Columbia,,,British Columbia,BC,British Columbia,"BC, Canada",4648055
+Province,Manitoba,,,Manitoba,MB,Manitoba,"MB, Canada",1278365
+Province,New Brunswick,,,New Brunswick,NB,New Brunswick,"NB, Canada",747101
+Province,Newfoundland and Labrador,,,Newfoundland and Labrador,NL,Newfoundland and Labrador,"NL, Canada",519716
+Province,Northwest Territories,,,Northwest Territories,NT,Northwest Territories,"NT, Canada",41786
+Province,Nova Scotia,,,Nova Scotia,NS,Nova Scotia,"NS, Canada",923598
+Province,Nunavut,,,Nunavut,NU,Nunavut,"NU, Canada",35944
+Province,Ontario,,,Ontario,ON,Ontario,"ON, Canada",13448494
+Province,Prince Edward Island,,,Prince Edward Island,PE,Prince Edward Island,"PE, Canada",142907
+Province,Quebec,,,Quebec,QC,Quebec,"QC, Canada",8164361
+Province,Saskatchewan,,,Saskatchewan,SK,Saskatchewan,"SK, Canada",1098352
+Province,Yukon,,,Yukon,YT,Yukon,"YT, Canada",35874
+Population centre,Airdrie,"Medium population centre (30,000 to 99,999)",Secondary core,Alberta,AB,"Airdrie, AB","Airdrie, AB, Canada",61082
+Population centre,Alberta Beach - Val Quentin,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Alberta Beach - Val Quentin, AB","Alberta Beach - Val Quentin, AB, Canada",1204
+Population centre,Athabasca,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Athabasca, AB","Athabasca, AB, Canada",1250
+Population centre,Banff,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Banff, AB","Banff, AB, Canada",7851
+Population centre,Barrhead,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Barrhead, AB","Barrhead, AB, Canada",4387
+Population centre,Bassano,"Small population centre (1,000 to 29,999)",Fringe,Alberta,AB,"Bassano, AB","Bassano, AB, Canada",1196
+Population centre,Beaumont,"Small population centre (1,000 to 29,999)",Secondary core,Alberta,AB,"Beaumont, AB","Beaumont, AB, Canada",17396
+Population centre,Beaverlodge,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Beaverlodge, AB","Beaverlodge, AB, Canada",2327
+Population centre,Bentley,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Bentley, AB","Bentley, AB, Canada",1027
+Population centre,Black Diamond,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Black Diamond, AB","Black Diamond, AB, Canada",2552
+Population centre,Blackfalds,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Blackfalds, AB","Blackfalds, AB, Canada",8749
+Population centre,Blairmore,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Blairmore, AB","Blairmore, AB, Canada",1545
+Population centre,Bon Accord,"Small population centre (1,000 to 29,999)",Fringe,Alberta,AB,"Bon Accord, AB","Bon Accord, AB, Canada",1529
+Population centre,Bonnyville,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Bonnyville, AB","Bonnyville, AB, Canada",5081
+Population centre,Bow Island,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Bow Island, AB","Bow Island, AB, Canada",1773
+Population centre,Bowden,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Bowden, AB","Bowden, AB, Canada",1240
+Population centre,Brooks,"Small population centre (1,000 to 29,999)",Core,Alberta,AB,"Brooks, AB","Brooks, AB, Canada",14436
+Population centre,Calgary,"Large urban population centre (100,000 or more)",Core,Alberta,AB,"Calgary, AB","Calgary, AB, Canada",1237656
+Population centre,Calmar,"Small population centre (1,000 to 29,999)",Fringe,Alberta,AB,"Calmar, AB","Calmar, AB, Canada",1849
+Population centre,Camrose,"Small population centre (1,000 to 29,999)",Core,Alberta,AB,"Camrose, AB","Camrose, AB, Canada",18520
+Population centre,Canmore,"Small population centre (1,000 to 29,999)",Core,Alberta,AB,"Canmore, AB","Canmore, AB, Canada",11764
+Population centre,Cardston,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Cardston, AB","Cardston, AB, Canada",3258
+Population centre,Carstairs,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Carstairs, AB","Carstairs, AB, Canada",3080
+Population centre,Chestermere,"Small population centre (1,000 to 29,999)",Secondary core,Alberta,AB,"Chestermere, AB","Chestermere, AB, Canada",19472
+Population centre,Clairmont,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Clairmont, AB","Clairmont, AB, Canada",1922
+Population centre,Claresholm,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Claresholm, AB","Claresholm, AB, Canada",3424
+Population centre,Coaldale,"Small population centre (1,000 to 29,999)",Fringe,Alberta,AB,"Coaldale, AB","Coaldale, AB, Canada",8153
+Population centre,Coalhurst,"Small population centre (1,000 to 29,999)",Fringe,Alberta,AB,"Coalhurst, AB","Coalhurst, AB, Canada",2623
+Population centre,Cochrane,"Small population centre (1,000 to 29,999)",Secondary core,Alberta,AB,"Cochrane, AB","Cochrane, AB, Canada",25289
+Population centre,Cold Lake,"Small population centre (1,000 to 29,999)",Fringe,Alberta,AB,"Cold Lake, AB","Cold Lake, AB, Canada",6678
+Population centre,Coleman,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Coleman, AB","Coleman, AB, Canada",1475
+Population centre,Crossfield,"Small population centre (1,000 to 29,999)",Fringe,Alberta,AB,"Crossfield, AB","Crossfield, AB, Canada",2973
+Population centre,Devon,"Small population centre (1,000 to 29,999)",Fringe,Alberta,AB,"Devon, AB","Devon, AB, Canada",6578
+Population centre,Didsbury,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Didsbury, AB","Didsbury, AB, Canada",5222
+Population centre,Drayton Valley,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Drayton Valley, AB","Drayton Valley, AB, Canada",6867
+Population centre,Drumheller,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Drumheller, AB","Drumheller, AB, Canada",6439
+Population centre,Duchess,"Small population centre (1,000 to 29,999)",Fringe,Alberta,AB,"Duchess, AB","Duchess, AB, Canada",1009
+Population centre,Eckville,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Eckville, AB","Eckville, AB, Canada",1085
+Population centre,Edmonton,"Large urban population centre (100,000 or more)",Core,Alberta,AB,"Edmonton, AB","Edmonton, AB, Canada",1062643
+Population centre,Edson,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Edson, AB","Edson, AB, Canada",8148
+Population centre,Elk Point,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Elk Point, AB","Elk Point, AB, Canada",1437
+Population centre,Fairview,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Fairview, AB","Fairview, AB, Canada",2598
+Population centre,Falher,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Falher, AB","Falher, AB, Canada",1032
+Population centre,Fort Macleod,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Fort Macleod, AB","Fort Macleod, AB, Canada",2708
+Population centre,Fort McMurray,"Medium population centre (30,000 to 99,999)",Core,Alberta,AB,"Fort McMurray, AB","Fort McMurray, AB, Canada",66573
+Population centre,Fort Saskatchewan,"Small population centre (1,000 to 29,999)",Fringe,Alberta,AB,"Fort Saskatchewan, AB","Fort Saskatchewan, AB, Canada",23895
+Population centre,Fox Creek,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Fox Creek, AB","Fox Creek, AB, Canada",1720
+Population centre,Gibbons,"Small population centre (1,000 to 29,999)",Fringe,Alberta,AB,"Gibbons, AB","Gibbons, AB, Canada",2661
+Population centre,Grand Centre,"Small population centre (1,000 to 29,999)",Core,Alberta,AB,"Grand Centre, AB","Grand Centre, AB, Canada",7256
+Population centre,Grande Cache,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Grande Cache, AB","Grande Cache, AB, Canada",3286
+Population centre,Grande Prairie,"Medium population centre (30,000 to 99,999)",Core,Alberta,AB,"Grande Prairie, AB","Grande Prairie, AB, Canada",62320
+Population centre,Grimshaw,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Grimshaw, AB","Grimshaw, AB, Canada",2599
+Population centre,Hanna,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Hanna, AB","Hanna, AB, Canada",2332
+Population centre,Heritage Pointe,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Heritage Pointe, AB","Heritage Pointe, AB, Canada",2075
+Population centre,High Level,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"High Level, AB","High Level, AB, Canada",2741
+Population centre,High Prairie,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"High Prairie, AB","High Prairie, AB, Canada",2264
+Population centre,High River,"Small population centre (1,000 to 29,999)",Core,Alberta,AB,"High River, AB","High River, AB, Canada",13420
+Population centre,Hinton,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Hinton, AB","Hinton, AB, Canada",9205
+Population centre,Innisfail,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Innisfail, AB","Innisfail, AB, Canada",6927
+Population centre,Irricana,"Small population centre (1,000 to 29,999)",Fringe,Alberta,AB,"Irricana, AB","Irricana, AB, Canada",1160
+Population centre,Jasper,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Jasper, AB","Jasper, AB, Canada",3948
+Population centre,La Crète,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"La Crète, AB","La Crète, AB, Canada",1860
+Population centre,Lac la Biche,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Lac la Biche, AB","Lac la Biche, AB, Canada",2294
+Population centre,Lacombe,"Small population centre (1,000 to 29,999)",Core,Alberta,AB,"Lacombe, AB","Lacombe, AB, Canada",12442
+Population centre,Lamont,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Lamont, AB","Lamont, AB, Canada",1347
+Population centre,Lancaster Park,"Small population centre (1,000 to 29,999)",Fringe,Alberta,AB,"Lancaster Park, AB","Lancaster Park, AB, Canada",1501
+Population centre,Langdon,"Small population centre (1,000 to 29,999)",Fringe,Alberta,AB,"Langdon, AB","Langdon, AB, Canada",5060
+Population centre,Leduc,"Small population centre (1,000 to 29,999)",Secondary core,Alberta,AB,"Leduc, AB","Leduc, AB, Canada",29556
+Population centre,Legal,"Small population centre (1,000 to 29,999)",Fringe,Alberta,AB,"Legal, AB","Legal, AB, Canada",1135
+Population centre,Lethbridge,"Medium population centre (30,000 to 99,999)",Core,Alberta,AB,"Lethbridge, AB","Lethbridge, AB, Canada",87572
+Population centre,Lloydminster (Alberta part),,,Alberta,AB,"Lloydminster (Alberta part), AB","Lloydminster (Alberta part), AB, Canada",19645
+Population centre,Magrath,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Magrath, AB","Magrath, AB, Canada",2179
+Population centre,Manning,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Manning, AB","Manning, AB, Canada",1072
+Population centre,Mayerthorpe,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Mayerthorpe, AB","Mayerthorpe, AB, Canada",1205
+Population centre,Medicine Hat,"Medium population centre (30,000 to 99,999)",Core,Alberta,AB,"Medicine Hat, AB","Medicine Hat, AB, Canada",62935
+Population centre,Millet,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Millet, AB","Millet, AB, Canada",1905
+Population centre,Morinville,"Small population centre (1,000 to 29,999)",Fringe,Alberta,AB,"Morinville, AB","Morinville, AB, Canada",9848
+Population centre,Nanton,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Nanton, AB","Nanton, AB, Canada",1965
+Population centre,Nobleford,"Small population centre (1,000 to 29,999)",Fringe,Alberta,AB,"Nobleford, AB","Nobleford, AB, Canada",1278
+Population centre,Okotoks,"Small population centre (1,000 to 29,999)",Core,Alberta,AB,"Okotoks, AB","Okotoks, AB, Canada",28833
+Population centre,Olds,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Olds, AB","Olds, AB, Canada",8944
+Population centre,Peace River,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Peace River, AB","Peace River, AB, Canada",3924
+Population centre,Penhold,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Penhold, AB","Penhold, AB, Canada",3165
+Population centre,Picture Butte,"Small population centre (1,000 to 29,999)",Fringe,Alberta,AB,"Picture Butte, AB","Picture Butte, AB, Canada",1700
+Population centre,Pincher Creek,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Pincher Creek, AB","Pincher Creek, AB, Canada",3523
+Population centre,Ponoka,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Ponoka, AB","Ponoka, AB, Canada",6899
+Population centre,Provost,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Provost, AB","Provost, AB, Canada",1945
+Population centre,Raymond,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Raymond, AB","Raymond, AB, Canada",3533
+Population centre,Red Deer,"Medium population centre (30,000 to 99,999)",Core,Alberta,AB,"Red Deer, AB","Red Deer, AB, Canada",99718
+Population centre,Redcliff,"Small population centre (1,000 to 29,999)",Fringe,Alberta,AB,"Redcliff, AB","Redcliff, AB, Canada",5474
+Population centre,Redwater,"Small population centre (1,000 to 29,999)",Fringe,Alberta,AB,"Redwater, AB","Redwater, AB, Canada",1591
+Population centre,Rimbey,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Rimbey, AB","Rimbey, AB, Canada",2086
+Population centre,Rocky Mountain House,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Rocky Mountain House, AB","Rocky Mountain House, AB, Canada",6429
+Population centre,Sexsmith,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Sexsmith, AB","Sexsmith, AB, Canada",2461
+Population centre,Slave Lake,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Slave Lake, AB","Slave Lake, AB, Canada",6155
+Population centre,Springbrook,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Springbrook, AB","Springbrook, AB, Canada",1502
+Population centre,Spruce Grove,"Medium population centre (30,000 to 99,999)",Secondary core,Alberta,AB,"Spruce Grove, AB","Spruce Grove, AB, Canada",36135
+Population centre,St. Paul,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"St. Paul, AB","St. Paul, AB, Canada",5728
+Population centre,Stettler,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Stettler, AB","Stettler, AB, Canada",5862
+Population centre,Stony Plain,"Small population centre (1,000 to 29,999)",Secondary core,Alberta,AB,"Stony Plain, AB","Stony Plain, AB, Canada",16271
+Population centre,Strathmore,"Small population centre (1,000 to 29,999)",Core,Alberta,AB,"Strathmore, AB","Strathmore, AB, Canada",13592
+Population centre,Sundre,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Sundre, AB","Sundre, AB, Canada",1866
+Population centre,Swan Hills,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Swan Hills, AB","Swan Hills, AB, Canada",1275
+Population centre,Sylvan Lake,"Small population centre (1,000 to 29,999)",Core,Alberta,AB,"Sylvan Lake, AB","Sylvan Lake, AB, Canada",14942
+Population centre,Taber,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Taber, AB","Taber, AB, Canada",8548
+Population centre,Three Hills,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Three Hills, AB","Three Hills, AB, Canada",3078
+Population centre,Tofield,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Tofield, AB","Tofield, AB, Canada",1854
+Population centre,Trochu,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Trochu, AB","Trochu, AB, Canada",1058
+Population centre,Turner Valley,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Turner Valley, AB","Turner Valley, AB, Canada",2249
+Population centre,Two Hills,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Two Hills, AB","Two Hills, AB, Canada",1198
+Population centre,Valleyview,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Valleyview, AB","Valleyview, AB, Canada",1421
+Population centre,Vauxhall,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Vauxhall, AB","Vauxhall, AB, Canada",1222
+Population centre,Vegreville,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Vegreville, AB","Vegreville, AB, Canada",5436
+Population centre,Vermilion,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Vermilion, AB","Vermilion, AB, Canada",3617
+Population centre,Viking,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Viking, AB","Viking, AB, Canada",1039
+Population centre,Vulcan,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Vulcan, AB","Vulcan, AB, Canada",1680
+Population centre,Wainwright,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Wainwright, AB","Wainwright, AB, Canada",6153
+Population centre,Wembley,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Wembley, AB","Wembley, AB, Canada",1516
+Population centre,Westlake,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Westlake, AB","Westlake, AB, Canada",1363
+Population centre,Westlock,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Westlock, AB","Westlock, AB, Canada",4678
+Population centre,Wetaskiwin,"Small population centre (1,000 to 29,999)",Core,Alberta,AB,"Wetaskiwin, AB","Wetaskiwin, AB, Canada",12486
+Population centre,Whitecourt,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Alberta,AB,"Whitecourt, AB","Whitecourt, AB, Canada",9515
+Population centre,Lloydminster,"Medium population centre (30,000 to 99,999)",Core,Alberta,AB,"Lloydminster, AB","Lloydminster, AB, Canada",31400
+Population centre,Lloydminster,"Medium population centre (30,000 to 99,999)",Core,Saskatchewan,SK,"Lloydminster, SK","Lloydminster, SK, Canada",31400
+Population centre,Abbotsford,"Large urban population centre (100,000 or more)",Core,British Columbia,BC,"Abbotsford, BC","Abbotsford, BC, Canada",121279
+Population centre,Aldergrove,"Small population centre (1,000 to 29,999)",Fringe,British Columbia,BC,"Aldergrove, BC","Aldergrove, BC, Canada",12007
+Population centre,Aldergrove East,"Small population centre (1,000 to 29,999)",Fringe,British Columbia,BC,"Aldergrove East, BC","Aldergrove East, BC, Canada",3491
+Population centre,Armstrong,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,British Columbia,BC,"Armstrong, BC","Armstrong, BC, Canada",5114
+Population centre,Ashcroft,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,British Columbia,BC,"Ashcroft, BC","Ashcroft, BC, Canada",1084
+Population centre,Blind Bay,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,British Columbia,BC,"Blind Bay, BC","Blind Bay, BC, Canada",1976
+Population centre,Burns Lake,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,British Columbia,BC,"Burns Lake, BC","Burns Lake, BC, Canada",1932
+Population centre,Campbell River,"Medium population centre (30,000 to 99,999)",Core,British Columbia,BC,"Campbell River, BC","Campbell River, BC, Canada",35138
+Population centre,Canoe,"Small population centre (1,000 to 29,999)",Fringe,British Columbia,BC,"Canoe, BC","Canoe, BC, Canada",1081
+Population centre,Castlegar,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,British Columbia,BC,"Castlegar, BC","Castlegar, BC, Canada",9023
+Population centre,Cedar,"Small population centre (1,000 to 29,999)",Fringe,British Columbia,BC,"Cedar, BC","Cedar, BC, Canada",1674
+Population centre,Chase,"Small population centre (1,000 to 29,999)",Fringe,British Columbia,BC,"Chase, BC","Chase, BC, Canada",2263
+Population centre,Chemainus,"Small population centre (1,000 to 29,999)",Fringe,British Columbia,BC,"Chemainus, BC","Chemainus, BC, Canada",3021
+Population centre,Chilliwack,"Medium population centre (30,000 to 99,999)",Core,British Columbia,BC,"Chilliwack, BC","Chilliwack, BC, Canada",73161
+Population centre,Cobble Hill,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,British Columbia,BC,"Cobble Hill, BC","Cobble Hill, BC, Canada",3580
+Population centre,Courtenay,"Medium population centre (30,000 to 99,999)",Core,British Columbia,BC,"Courtenay, BC","Courtenay, BC, Canada",45018
+Population centre,Cowichan Bay,"Small population centre (1,000 to 29,999)",Fringe,British Columbia,BC,"Cowichan Bay, BC","Cowichan Bay, BC, Canada",2394
+Population centre,Cranbrook,"Small population centre (1,000 to 29,999)",Core,British Columbia,BC,"Cranbrook, BC","Cranbrook, BC, Canada",19259
+Population centre,Creston,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,British Columbia,BC,"Creston, BC","Creston, BC, Canada",5226
+Population centre,Crofton,"Small population centre (1,000 to 29,999)",Fringe,British Columbia,BC,"Crofton, BC","Crofton, BC, Canada",1373
+Population centre,Cultus Lake,"Small population centre (1,000 to 29,999)",Fringe,British Columbia,BC,"Cultus Lake, BC","Cultus Lake, BC, Canada",1053
+Population centre,Cumberland,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,British Columbia,BC,"Cumberland, BC","Cumberland, BC, Canada",3600
+Population centre,Dallas,"Small population centre (1,000 to 29,999)",Fringe,British Columbia,BC,"Dallas, BC","Dallas, BC, Canada",4479
+Population centre,Dawson Creek,"Small population centre (1,000 to 29,999)",Core,British Columbia,BC,"Dawson Creek, BC","Dawson Creek, BC, Canada",11574
+Population centre,Duck Lake,"Small population centre (1,000 to 29,999)",Fringe,British Columbia,BC,"Duck Lake, BC","Duck Lake, BC, Canada",6982
+Population centre,Duncan,"Small population centre (1,000 to 29,999)",Core,British Columbia,BC,"Duncan, BC","Duncan, BC, Canada",23278
+Population centre,Elkford,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,British Columbia,BC,"Elkford, BC","Elkford, BC, Canada",1752
+Population centre,Enderby,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,British Columbia,BC,"Enderby, BC","Enderby, BC, Canada",2964
+Population centre,Fairwinds,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,British Columbia,BC,"Fairwinds, BC","Fairwinds, BC, Canada",1147
+Population centre,Fernie,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,British Columbia,BC,"Fernie, BC","Fernie, BC, Canada",4850
+Population centre,Fort Nelson,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,British Columbia,BC,"Fort Nelson, BC","Fort Nelson, BC, Canada",3366
+Population centre,Fort St. James,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,British Columbia,BC,"Fort St. James, BC","Fort St. James, BC, Canada",1510
+Population centre,Fort St. John,"Small population centre (1,000 to 29,999)",Core,British Columbia,BC,"Fort St. John, BC","Fort St. John, BC, Canada",19897
+Population centre,Gibsons,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,British Columbia,BC,"Gibsons, BC","Gibsons, BC, Canada",9132
+Population centre,Golden,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,British Columbia,BC,"Golden, BC","Golden, BC, Canada",3240
+Population centre,Grand Forks,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,British Columbia,BC,"Grand Forks, BC","Grand Forks, BC, Canada",3953
+Population centre,Harrison Hot Springs,"Small population centre (1,000 to 29,999)",Fringe,British Columbia,BC,"Harrison Hot Springs, BC","Harrison Hot Springs, BC, Canada",1242
+Population centre,Hope,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,British Columbia,BC,"Hope, BC","Hope, BC, Canada",4067
+Population centre,Houston,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,British Columbia,BC,"Houston, BC","Houston, BC, Canada",2126
+Population centre,Invermere,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,British Columbia,BC,"Invermere, BC","Invermere, BC, Canada",2882
+Population centre,Kamloops,"Medium population centre (30,000 to 99,999)",Core,British Columbia,BC,"Kamloops, BC","Kamloops, BC, Canada",78026
+Population centre,Kelowna,"Large urban population centre (100,000 or more)",Core,British Columbia,BC,"Kelowna, BC","Kelowna, BC, Canada",151957
+Population centre,Kent,"Small population centre (1,000 to 29,999)",Fringe,British Columbia,BC,"Kent, BC","Kent, BC, Canada",3802
+Population centre,Keremeos,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,British Columbia,BC,"Keremeos, BC","Keremeos, BC, Canada",1714
+Population centre,Kimberley,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,British Columbia,BC,"Kimberley, BC","Kimberley, BC, Canada",4513
+Population centre,Kitimat,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,British Columbia,BC,"Kitimat, BC","Kitimat, BC, Canada",6394
+Population centre,Ladner,"Small population centre (1,000 to 29,999)",Fringe,British Columbia,BC,"Ladner, BC","Ladner, BC, Canada",22193
+Population centre,Ladysmith,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,British Columbia,BC,"Ladysmith, BC","Ladysmith, BC, Canada",10637
+Population centre,Lake Cowichan,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,British Columbia,BC,"Lake Cowichan, BC","Lake Cowichan, BC, Canada",3013
+Population centre,Lillooet,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,British Columbia,BC,"Lillooet, BC","Lillooet, BC, Canada",1560
+Population centre,Lions Bay,"Small population centre (1,000 to 29,999)",Fringe,British Columbia,BC,"Lions Bay, BC","Lions Bay, BC, Canada",1334
+Population centre,Logan Lake,"Small population centre (1,000 to 29,999)",Fringe,British Columbia,BC,"Logan Lake, BC","Logan Lake, BC, Canada",1208
+Population centre,Lumby,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,British Columbia,BC,"Lumby, BC","Lumby, BC, Canada",1303
+Population centre,Mackenzie,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,British Columbia,BC,"Mackenzie, BC","Mackenzie, BC, Canada",3262
+Population centre,Merritt,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,British Columbia,BC,"Merritt, BC","Merritt, BC, Canada",5321
+Population centre,Miller's Landing,"Small population centre (1,000 to 29,999)",Fringe,British Columbia,BC,"Miller's Landing, BC","Miller's Landing, BC, Canada",1097
+Population centre,Mission,"Medium population centre (30,000 to 99,999)",Fringe,British Columbia,BC,"Mission, BC","Mission, BC, Canada",33261
+Population centre,Nakusp,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,British Columbia,BC,"Nakusp, BC","Nakusp, BC, Canada",1130
+Population centre,Nanaimo,"Medium population centre (30,000 to 99,999)",Core,British Columbia,BC,"Nanaimo, BC","Nanaimo, BC, Canada",92004
+Population centre,Naramata,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,British Columbia,BC,"Naramata, BC","Naramata, BC, Canada",1003
+Population centre,Nelson,"Small population centre (1,000 to 29,999)",Core,British Columbia,BC,"Nelson, BC","Nelson, BC, Canada",10664
+Population centre,Okanagan Falls,"Small population centre (1,000 to 29,999)",Fringe,British Columbia,BC,"Okanagan Falls, BC","Okanagan Falls, BC, Canada",2167
+Population centre,Oliver,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,British Columbia,BC,"Oliver, BC","Oliver, BC, Canada",5279
+Population centre,One Hundred Mile House,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,British Columbia,BC,"One Hundred Mile House, BC","One Hundred Mile House, BC, Canada",1811
+Population centre,Osoyoos,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,British Columbia,BC,"Osoyoos, BC","Osoyoos, BC, Canada",4520
+Population centre,Parksville,"Small population centre (1,000 to 29,999)",Core,British Columbia,BC,"Parksville, BC","Parksville, BC, Canada",23574
+Population centre,Peachland,"Small population centre (1,000 to 29,999)",Fringe,British Columbia,BC,"Peachland, BC","Peachland, BC, Canada",4698
+Population centre,Pemberton,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,British Columbia,BC,"Pemberton, BC","Pemberton, BC, Canada",1957
+Population centre,Penticton,"Medium population centre (30,000 to 99,999)",Core,British Columbia,BC,"Penticton, BC","Penticton, BC, Canada",33617
+Population centre,Port Alberni,"Small population centre (1,000 to 29,999)",Core,British Columbia,BC,"Port Alberni, BC","Port Alberni, BC, Canada",20712
+Population centre,Port Hardy,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,British Columbia,BC,"Port Hardy, BC","Port Hardy, BC, Canada",3643
+Population centre,Port McNeill,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,British Columbia,BC,"Port McNeill, BC","Port McNeill, BC, Canada",2064
+Population centre,Powell River,"Small population centre (1,000 to 29,999)",Core,British Columbia,BC,"Powell River, BC","Powell River, BC, Canada",12384
+Population centre,Prince George,"Medium population centre (30,000 to 99,999)",Core,British Columbia,BC,"Prince George, BC","Prince George, BC, Canada",65510
+Population centre,Prince Rupert,"Small population centre (1,000 to 29,999)",Core,British Columbia,BC,"Prince Rupert, BC","Prince Rupert, BC, Canada",11733
+Population centre,Princeton,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,British Columbia,BC,"Princeton, BC","Princeton, BC, Canada",2745
+Population centre,Puntledge,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,British Columbia,BC,"Puntledge, BC","Puntledge, BC, Canada",1387
+Population centre,Quesnel,"Small population centre (1,000 to 29,999)",Core,British Columbia,BC,"Quesnel, BC","Quesnel, BC, Canada",12064
+Population centre,Rayleigh,"Small population centre (1,000 to 29,999)",Fringe,British Columbia,BC,"Rayleigh, BC","Rayleigh, BC, Canada",1951
+Population centre,Revelstoke,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,British Columbia,BC,"Revelstoke, BC","Revelstoke, BC, Canada",6719
+Population centre,Roberts Creek,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,British Columbia,BC,"Roberts Creek, BC","Roberts Creek, BC, Canada",1848
+Population centre,Rosedale,"Small population centre (1,000 to 29,999)",Fringe,British Columbia,BC,"Rosedale, BC","Rosedale, BC, Canada",1741
+Population centre,Rossland,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,British Columbia,BC,"Rossland, BC","Rossland, BC, Canada",3219
+Population centre,Salmo,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,British Columbia,BC,"Salmo, BC","Salmo, BC, Canada",1141
+Population centre,Salmon Arm,"Small population centre (1,000 to 29,999)",Core,British Columbia,BC,"Salmon Arm, BC","Salmon Arm, BC, Canada",12875
+Population centre,Sechelt,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,British Columbia,BC,"Sechelt, BC","Sechelt, BC, Canada",8832
+Population centre,Shawnigan - Mill Bay,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,British Columbia,BC,"Shawnigan - Mill Bay, BC","Shawnigan - Mill Bay, BC, Canada",7021
+Population centre,Sicamous,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,British Columbia,BC,"Sicamous, BC","Sicamous, BC, Canada",1786
+Population centre,Smithers,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,British Columbia,BC,"Smithers, BC","Smithers, BC, Canada",5351
+Population centre,Sooke,"Small population centre (1,000 to 29,999)",Fringe,British Columbia,BC,"Sooke, BC","Sooke, BC, Canada",9269
+Population centre,Sparwood,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,British Columbia,BC,"Sparwood, BC","Sparwood, BC, Canada",3490
+Population centre,Squamish,"Small population centre (1,000 to 29,999)",Core,British Columbia,BC,"Squamish, BC","Squamish, BC, Canada",17587
+Population centre,Summerland,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,British Columbia,BC,"Summerland, BC","Summerland, BC, Canada",8742
+Population centre,Telkwa,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,British Columbia,BC,"Telkwa, BC","Telkwa, BC, Canada",1160
+Population centre,Terrace,"Small population centre (1,000 to 29,999)",Core,British Columbia,BC,"Terrace, BC","Terrace, BC, Canada",13663
+Population centre,Trail - Fruitvale,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,British Columbia,BC,"Trail - Fruitvale, BC","Trail - Fruitvale, BC, Canada",12643
+Population centre,Tsawwassen,"Small population centre (1,000 to 29,999)",Fringe,British Columbia,BC,"Tsawwassen, BC","Tsawwassen, BC, Canada",21588
+Population centre,Tumbler Ridge,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,British Columbia,BC,"Tumbler Ridge, BC","Tumbler Ridge, BC, Canada",1982
+Population centre,Ucluelet,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,British Columbia,BC,"Ucluelet, BC","Ucluelet, BC, Canada",1576
+Population centre,Vancouver,"Large urban population centre (100,000 or more)",Core,British Columbia,BC,"Vancouver, BC","Vancouver, BC, Canada",2264823
+Population centre,Vanderhoof,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,British Columbia,BC,"Vanderhoof, BC","Vanderhoof, BC, Canada",1979
+Population centre,Vernon,"Medium population centre (30,000 to 99,999)",Core,British Columbia,BC,"Vernon, BC","Vernon, BC, Canada",48073
+Population centre,Victoria,"Large urban population centre (100,000 or more)",Core,British Columbia,BC,"Victoria, BC","Victoria, BC, Canada",335696
+Population centre,Welcome Beach,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,British Columbia,BC,"Welcome Beach, BC","Welcome Beach, BC, Canada",1125
+Population centre,Whistler,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,British Columbia,BC,"Whistler, BC","Whistler, BC, Canada",8713
+Population centre,White Rock,"Medium population centre (30,000 to 99,999)",Secondary core,British Columbia,BC,"White Rock, BC","White Rock, BC, Canada",93729
+Population centre,Williams Lake,"Small population centre (1,000 to 29,999)",Core,British Columbia,BC,"Williams Lake, BC","Williams Lake, BC, Canada",10508
+Population centre,Altona,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Manitoba,MB,"Altona, MB","Altona, MB, Canada",4167
+Population centre,Arborg,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Manitoba,MB,"Arborg, MB","Arborg, MB, Canada",1222
+Population centre,Beausejour,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Manitoba,MB,"Beausejour, MB","Beausejour, MB, Canada",2895
+Population centre,Blumenort,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Manitoba,MB,"Blumenort, MB","Blumenort, MB, Canada",1675
+Population centre,Boissevain,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Manitoba,MB,"Boissevain, MB","Boissevain, MB, Canada",1656
+Population centre,Brandon,"Medium population centre (30,000 to 99,999)",Core,Manitoba,MB,"Brandon, MB","Brandon, MB, Canada",48324
+Population centre,Carberry,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Manitoba,MB,"Carberry, MB","Carberry, MB, Canada",1682
+Population centre,Carman,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Manitoba,MB,"Carman, MB","Carman, MB, Canada",2980
+Population centre,Cross Lake 19A,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Manitoba,MB,"Cross Lake 19A, MB","Cross Lake 19A, MB, Canada",2018
+Population centre,Dauphin,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Manitoba,MB,"Dauphin, MB","Dauphin, MB, Canada",8095
+Population centre,Flin Flon (Manitoba part),,,Manitoba,MB,"Flin Flon (Manitoba part), MB","Flin Flon (Manitoba part), MB, Canada",4648
+Population centre,Gillam,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Manitoba,MB,"Gillam, MB","Gillam, MB, Canada",1036
+Population centre,Gimli,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Manitoba,MB,"Gimli, MB","Gimli, MB, Canada",2246
+Population centre,Grunthal,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Manitoba,MB,"Grunthal, MB","Grunthal, MB, Canada",1680
+Population centre,Ile des Chênes,"Small population centre (1,000 to 29,999)",Fringe,Manitoba,MB,"Ile des Chênes, MB","Ile des Chênes, MB, Canada",1528
+Population centre,Killarney,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Manitoba,MB,"Killarney, MB","Killarney, MB, Canada",2150
+Population centre,La Salle,"Small population centre (1,000 to 29,999)",Fringe,Manitoba,MB,"La Salle, MB","La Salle, MB, Canada",1589
+Population centre,Lac du Bonnet,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Manitoba,MB,"Lac du Bonnet, MB","Lac du Bonnet, MB, Canada",1089
+Population centre,Landmark,"Small population centre (1,000 to 29,999)",Fringe,Manitoba,MB,"Landmark, MB","Landmark, MB, Canada",1237
+Population centre,Lorette,"Small population centre (1,000 to 29,999)",Fringe,Manitoba,MB,"Lorette, MB","Lorette, MB, Canada",2904
+Population centre,Minnedosa,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Manitoba,MB,"Minnedosa, MB","Minnedosa, MB, Canada",2178
+Population centre,Mitchell,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Manitoba,MB,"Mitchell, MB","Mitchell, MB, Canada",2523
+Population centre,Moose Lake,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Manitoba,MB,"Moose Lake, MB","Moose Lake, MB, Canada",1225
+Population centre,Morden,"Small population centre (1,000 to 29,999)",Fringe,Manitoba,MB,"Morden, MB","Morden, MB, Canada",7907
+Population centre,Morris,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Manitoba,MB,"Morris, MB","Morris, MB, Canada",1714
+Population centre,Neepawa,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Manitoba,MB,"Neepawa, MB","Neepawa, MB, Canada",3939
+Population centre,Niverville,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Manitoba,MB,"Niverville, MB","Niverville, MB, Canada",4083
+Population centre,Oak Bluff,"Small population centre (1,000 to 29,999)",Fringe,Manitoba,MB,"Oak Bluff, MB","Oak Bluff, MB, Canada",1051
+Population centre,Oakbank,"Small population centre (1,000 to 29,999)",Fringe,Manitoba,MB,"Oakbank, MB","Oakbank, MB, Canada",4604
+Population centre,Pinawa,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Manitoba,MB,"Pinawa, MB","Pinawa, MB, Canada",1331
+Population centre,Portage la Prairie,"Small population centre (1,000 to 29,999)",Core,Manitoba,MB,"Portage la Prairie, MB","Portage la Prairie, MB, Canada",12949
+Population centre,Rivers,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Manitoba,MB,"Rivers, MB","Rivers, MB, Canada",1257
+Population centre,Roblin,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Manitoba,MB,"Roblin, MB","Roblin, MB, Canada",1614
+Population centre,Russell,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Manitoba,MB,"Russell, MB","Russell, MB, Canada",1395
+Population centre,Selkirk,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Manitoba,MB,"Selkirk, MB","Selkirk, MB, Canada",9839
+Population centre,Shilo CFB-BFC,"Small population centre (1,000 to 29,999)",Fringe,Manitoba,MB,"Shilo CFB-BFC, MB","Shilo CFB-BFC, MB, Canada",1419
+Population centre,Souris,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Manitoba,MB,"Souris, MB","Souris, MB, Canada",1876
+Population centre,St-Pierre-Jolys,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Manitoba,MB,"St-Pierre-Jolys, MB","St-Pierre-Jolys, MB, Canada",1170
+Population centre,St. Adolphe,"Small population centre (1,000 to 29,999)",Fringe,Manitoba,MB,"St. Adolphe, MB","St. Adolphe, MB, Canada",1362
+Population centre,St. Theresa Point,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Manitoba,MB,"St. Theresa Point, MB","St. Theresa Point, MB, Canada",1038
+Population centre,Ste. Anne,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Manitoba,MB,"Ste. Anne, MB","Ste. Anne, MB, Canada",2114
+Population centre,Steinbach,"Small population centre (1,000 to 29,999)",Core,Manitoba,MB,"Steinbach, MB","Steinbach, MB, Canada",14753
+Population centre,Stonewall,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Manitoba,MB,"Stonewall, MB","Stonewall, MB, Canada",4644
+Population centre,Stony Mountain,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Manitoba,MB,"Stony Mountain, MB","Stony Mountain, MB, Canada",1800
+Population centre,Swan River,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Manitoba,MB,"Swan River, MB","Swan River, MB, Canada",3964
+Population centre,Teulon,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Manitoba,MB,"Teulon, MB","Teulon, MB, Canada",1095
+Population centre,The Pas,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Manitoba,MB,"The Pas, MB","The Pas, MB, Canada",5368
+Population centre,Thompson,"Small population centre (1,000 to 29,999)",Core,Manitoba,MB,"Thompson, MB","Thompson, MB, Canada",12878
+Population centre,Virden,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Manitoba,MB,"Virden, MB","Virden, MB, Canada",3082
+Population centre,Winkler,"Small population centre (1,000 to 29,999)",Core,Manitoba,MB,"Winkler, MB","Winkler, MB, Canada",14311
+Population centre,Winnipeg,"Large urban population centre (100,000 or more)",Core,Manitoba,MB,"Winnipeg, MB","Winnipeg, MB, Canada",711925
+Population centre,Flin Flon,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Manitoba,MB,"Flin Flon, MB","Flin Flon, MB, Canada",4791
+Population centre,Flin Flon,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Saskatchewan,SK,"Flin Flon, SK","Flin Flon, SK, Canada",4791
+Population centre,Bathurst,"Small population centre (1,000 to 29,999)",Core,New Brunswick,NB,"Bathurst, NB","Bathurst, NB, Canada",15557
+Population centre,Bouctouche,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,New Brunswick,NB,"Bouctouche, NB","Bouctouche, NB, Canada",1722
+Population centre,Campbellton (New Brunswick part),,,New Brunswick,NB,"Campbellton (New Brunswick part), NB","Campbellton (New Brunswick part), NB, Canada",8780
+Population centre,Caraquet,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,New Brunswick,NB,"Caraquet, NB","Caraquet, NB, Canada",3108
+Population centre,Chatham - Douglastown,"Small population centre (1,000 to 29,999)",Core,New Brunswick,NB,"Chatham - Douglastown, NB","Chatham - Douglastown, NB, Canada",11329
+Population centre,Dalhousie,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,New Brunswick,NB,"Dalhousie, NB","Dalhousie, NB, Canada",2351
+Population centre,Edmundston,"Small population centre (1,000 to 29,999)",Core,New Brunswick,NB,"Edmundston, NB","Edmundston, NB, Canada",12086
+Population centre,Fredericton,"Medium population centre (30,000 to 99,999)",Core,New Brunswick,NB,"Fredericton, NB","Fredericton, NB, Canada",59405
+Population centre,Grand Falls,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,New Brunswick,NB,"Grand Falls, NB","Grand Falls, NB, Canada",4221
+Population centre,Hampton,"Small population centre (1,000 to 29,999)",Fringe,New Brunswick,NB,"Hampton, NB","Hampton, NB, Canada",3436
+Population centre,McEwen,"Small population centre (1,000 to 29,999)",Fringe,New Brunswick,NB,"McEwen, NB","McEwen, NB, Canada",1462
+Population centre,Moncton,"Large urban population centre (100,000 or more)",Core,New Brunswick,NB,"Moncton, NB","Moncton, NB, Canada",108620
+Population centre,New Maryland,"Small population centre (1,000 to 29,999)",Fringe,New Brunswick,NB,"New Maryland, NB","New Maryland, NB, Canada",2219
+Population centre,Oromocto,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,New Brunswick,NB,"Oromocto, NB","Oromocto, NB, Canada",8805
+Population centre,Quispamsis - Rothesay,"Small population centre (1,000 to 29,999)",Fringe,New Brunswick,NB,"Quispamsis - Rothesay, NB","Quispamsis - Rothesay, NB, Canada",24445
+Population centre,Richibucto 15,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,New Brunswick,NB,"Richibucto 15, NB","Richibucto 15, NB, Canada",1053
+Population centre,Sackville,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,New Brunswick,NB,"Sackville, NB","Sackville, NB, Canada",2963
+Population centre,Saint Andrews,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,New Brunswick,NB,"Saint Andrews, NB","Saint Andrews, NB, Canada",1501
+Population centre,Saint John,"Medium population centre (30,000 to 99,999)",Core,New Brunswick,NB,"Saint John, NB","Saint John, NB, Canada",58341
+Population centre,Saint-Antoine,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,New Brunswick,NB,"Saint-Antoine, NB","Saint-Antoine, NB, Canada",1252
+Population centre,Saint-Quentin,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,New Brunswick,NB,"Saint-Quentin, NB","Saint-Quentin, NB, Canada",2194
+Population centre,Salisbury,"Small population centre (1,000 to 29,999)",Fringe,New Brunswick,NB,"Salisbury, NB","Salisbury, NB, Canada",1534
+Population centre,Shediac,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,New Brunswick,NB,"Shediac, NB","Shediac, NB, Canada",7184
+Population centre,Shippagan,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,New Brunswick,NB,"Shippagan, NB","Shippagan, NB, Canada",2130
+Population centre,St. Leonard,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,New Brunswick,NB,"St. Leonard, NB","St. Leonard, NB, Canada",1099
+Population centre,St. Stephen,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,New Brunswick,NB,"St. Stephen, NB","St. Stephen, NB, Canada",3233
+Population centre,Starlight Village,"Small population centre (1,000 to 29,999)",Fringe,New Brunswick,NB,"Starlight Village, NB","Starlight Village, NB, Canada",2127
+Population centre,Sussex,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,New Brunswick,NB,"Sussex, NB","Sussex, NB, Canada",5298
+Population centre,Tracadie-Sheila,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,New Brunswick,NB,"Tracadie-Sheila, NB","Tracadie-Sheila, NB, Canada",3184
+Population centre,Wells,"Small population centre (1,000 to 29,999)",Fringe,New Brunswick,NB,"Wells, NB","Wells, NB, Canada",1266
+Population centre,Woodstock,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,New Brunswick,NB,"Woodstock, NB","Woodstock, NB, Canada",4277
+Population centre,Campbellton,"Small population centre (1,000 to 29,999)",Core,New Brunswick,NB,"Campbellton, NB","Campbellton, NB, Canada",10716
+Population centre,Campbellton,"Small population centre (1,000 to 29,999)",Core,Quebec,QC,"Campbellton, QC","Campbellton, QC, Canada",10716
+Population centre,Bay Roberts,"Small population centre (1,000 to 29,999)",Core,Newfoundland and Labrador,NL,"Bay Roberts, NL","Bay Roberts, NL, Canada",7100
+Population centre,Bishop's Falls,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Newfoundland and Labrador,NL,"Bishop's Falls, NL","Bishop's Falls, NL, Canada",2581
+Population centre,Bonavista,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Newfoundland and Labrador,NL,"Bonavista, NL","Bonavista, NL, Canada",3140
+Population centre,Botwood,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Newfoundland and Labrador,NL,"Botwood, NL","Botwood, NL, Canada",2763
+Population centre,Burgeo,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Newfoundland and Labrador,NL,"Burgeo, NL","Burgeo, NL, Canada",1307
+Population centre,Carbonear,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Newfoundland and Labrador,NL,"Carbonear, NL","Carbonear, NL, Canada",6520
+Population centre,Channel-Port aux Basques,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Newfoundland and Labrador,NL,"Channel-Port aux Basques, NL","Channel-Port aux Basques, NL, Canada",3665
+Population centre,Clarenville-Shoal Harbour,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Newfoundland and Labrador,NL,"Clarenville-Shoal Harbour, NL","Clarenville-Shoal Harbour, NL, Canada",5809
+Population centre,Corner Brook,"Small population centre (1,000 to 29,999)",Core,Newfoundland and Labrador,NL,"Corner Brook, NL","Corner Brook, NL, Canada",19547
+Population centre,Deer Lake,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Newfoundland and Labrador,NL,"Deer Lake, NL","Deer Lake, NL, Canada",4602
+Population centre,Fortune,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Newfoundland and Labrador,NL,"Fortune, NL","Fortune, NL, Canada",1007
+Population centre,Gander,"Small population centre (1,000 to 29,999)",Core,Newfoundland and Labrador,NL,"Gander, NL","Gander, NL, Canada",10220
+Population centre,Grand Bank,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Newfoundland and Labrador,NL,"Grand Bank, NL","Grand Bank, NL, Canada",2230
+Population centre,Grand Falls-Windsor,"Small population centre (1,000 to 29,999)",Core,Newfoundland and Labrador,NL,"Grand Falls-Windsor, NL","Grand Falls-Windsor, NL, Canada",12046
+Population centre,Happy Valley-Goose Bay,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Newfoundland and Labrador,NL,"Happy Valley-Goose Bay, NL","Happy Valley-Goose Bay, NL, Canada",6408
+Population centre,Humber Arm South,"Small population centre (1,000 to 29,999)",Fringe,Newfoundland and Labrador,NL,"Humber Arm South, NL","Humber Arm South, NL, Canada",1168
+Population centre,Labrador City,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Newfoundland and Labrador,NL,"Labrador City, NL","Labrador City, NL, Canada",8622
+Population centre,Lewisporte,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Newfoundland and Labrador,NL,"Lewisporte, NL","Lewisporte, NL, Canada",2174
+Population centre,Marystown,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Newfoundland and Labrador,NL,"Marystown, NL","Marystown, NL, Canada",2697
+Population centre,Massey Drive,"Small population centre (1,000 to 29,999)",Fringe,Newfoundland and Labrador,NL,"Massey Drive, NL","Massey Drive, NL, Canada",1632
+Population centre,Pasadena,"Small population centre (1,000 to 29,999)",Fringe,Newfoundland and Labrador,NL,"Pasadena, NL","Pasadena, NL, Canada",2800
+Population centre,Placentia,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Newfoundland and Labrador,NL,"Placentia, NL","Placentia, NL, Canada",1553
+Population centre,Springdale,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Newfoundland and Labrador,NL,"Springdale, NL","Springdale, NL, Canada",2080
+Population centre,St. Anthony,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Newfoundland and Labrador,NL,"St. Anthony, NL","St. Anthony, NL, Canada",2049
+Population centre,St. John's,"Large urban population centre (100,000 or more)",Core,Newfoundland and Labrador,NL,"St. John's, NL","St. John's, NL, Canada",178427
+Population centre,Stephenville,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Newfoundland and Labrador,NL,"Stephenville, NL","Stephenville, NL, Canada",7114
+Population centre,Upper Island Cove,"Small population centre (1,000 to 29,999)",Fringe,Newfoundland and Labrador,NL,"Upper Island Cove, NL","Upper Island Cove, NL, Canada",1142
+Population centre,Wabana,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Newfoundland and Labrador,NL,"Wabana, NL","Wabana, NL, Canada",1325
+Population centre,Fort Smith,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Northwest Territories,NT,"Fort Smith, NT","Fort Smith, NT, Canada",2031
+Population centre,Hay River,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Northwest Territories,NT,"Hay River, NT","Hay River, NT, Canada",2728
+Population centre,Inuvik,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Northwest Territories,NT,"Inuvik, NT","Inuvik, NT, Canada",3140
+Population centre,Yellowknife,"Small population centre (1,000 to 29,999)",Core,Northwest Territories,NT,"Yellowknife, NT","Yellowknife, NT, Canada",18884
+Population centre,Amherst,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Nova Scotia,NS,"Amherst, NS","Amherst, NS, Canada",9550
+Population centre,Antigonish,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Nova Scotia,NS,"Antigonish, NS","Antigonish, NS, Canada",5002
+Population centre,Berwick,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Nova Scotia,NS,"Berwick, NS","Berwick, NS, Canada",2449
+Population centre,Bridgewater,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Nova Scotia,NS,"Bridgewater, NS","Bridgewater, NS, Canada",8532
+Population centre,Brookside,"Small population centre (1,000 to 29,999)",Fringe,Nova Scotia,NS,"Brookside, NS","Brookside, NS, Canada",1441
+Population centre,Cape Breton - Sydney,"Small population centre (1,000 to 29,999)",Core,Nova Scotia,NS,"Cape Breton - Sydney, NS","Cape Breton - Sydney, NS, Canada",29904
+Population centre,Centreville,"Small population centre (1,000 to 29,999)",Fringe,Nova Scotia,NS,"Centreville, NS","Centreville, NS, Canada",1129
+Population centre,Chester,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Nova Scotia,NS,"Chester, NS","Chester, NS, Canada",1458
+Population centre,Digby,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Nova Scotia,NS,"Digby, NS","Digby, NS, Canada",2060
+Population centre,Enfield - Lantz,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Nova Scotia,NS,"Enfield - Lantz, NS","Enfield - Lantz, NS, Canada",6807
+Population centre,English Corner,"Small population centre (1,000 to 29,999)",Fringe,Nova Scotia,NS,"English Corner, NS","English Corner, NS, Canada",1151
+Population centre,Eskasoni 3,"Small population centre (1,000 to 29,999)",Fringe,Nova Scotia,NS,"Eskasoni 3, NS","Eskasoni 3, NS, Canada",2120
+Population centre,Glace Bay,"Small population centre (1,000 to 29,999)",Fringe,Nova Scotia,NS,"Glace Bay, NS","Glace Bay, NS, Canada",17556
+Population centre,Halifax,"Large urban population centre (100,000 or more)",Core,Nova Scotia,NS,"Halifax, NS","Halifax, NS, Canada",316701
+Population centre,Hantsport,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Nova Scotia,NS,"Hantsport, NS","Hantsport, NS, Canada",1560
+Population centre,Hayes Subdivision,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Nova Scotia,NS,"Hayes Subdivision, NS","Hayes Subdivision, NS, Canada",1121
+Population centre,Howie Centre,"Small population centre (1,000 to 29,999)",Fringe,Nova Scotia,NS,"Howie Centre, NS","Howie Centre, NS, Canada",1733
+Population centre,Inverness,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Nova Scotia,NS,"Inverness, NS","Inverness, NS, Canada",1248
+Population centre,Kentville,"Small population centre (1,000 to 29,999)",Core,Nova Scotia,NS,"Kentville, NS","Kentville, NS, Canada",12088
+Population centre,Kingston - Greenwood,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Nova Scotia,NS,"Kingston - Greenwood, NS","Kingston - Greenwood, NS, Canada",6879
+Population centre,Lake Echo,"Small population centre (1,000 to 29,999)",Fringe,Nova Scotia,NS,"Lake Echo, NS","Lake Echo, NS, Canada",2515
+Population centre,Liverpool,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Nova Scotia,NS,"Liverpool, NS","Liverpool, NS, Canada",2549
+Population centre,Lunenburg,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Nova Scotia,NS,"Lunenburg, NS","Lunenburg, NS, Canada",2085
+Population centre,Middleton,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Nova Scotia,NS,"Middleton, NS","Middleton, NS, Canada",1391
+Population centre,New Glasgow,"Small population centre (1,000 to 29,999)",Core,Nova Scotia,NS,"New Glasgow, NS","New Glasgow, NS, Canada",18665
+Population centre,New Waterford,"Small population centre (1,000 to 29,999)",Fringe,Nova Scotia,NS,"New Waterford, NS","New Waterford, NS, Canada",7344
+Population centre,Pictou,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Nova Scotia,NS,"Pictou, NS","Pictou, NS, Canada",2711
+Population centre,Port Hawkesbury,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Nova Scotia,NS,"Port Hawkesbury, NS","Port Hawkesbury, NS, Canada",3004
+Population centre,Port Williams,"Small population centre (1,000 to 29,999)",Fringe,Nova Scotia,NS,"Port Williams, NS","Port Williams, NS, Canada",1120
+Population centre,Shelburne,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Nova Scotia,NS,"Shelburne, NS","Shelburne, NS, Canada",1330
+Population centre,Springhill,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Nova Scotia,NS,"Springhill, NS","Springhill, NS, Canada",2743
+Population centre,Still Water Lake,"Small population centre (1,000 to 29,999)",Fringe,Nova Scotia,NS,"Still Water Lake, NS","Still Water Lake, NS, Canada",1586
+Population centre,Sydney Mines,"Small population centre (1,000 to 29,999)",Fringe,Nova Scotia,NS,"Sydney Mines, NS","Sydney Mines, NS, Canada",12823
+Population centre,Truro,"Small population centre (1,000 to 29,999)",Core,Nova Scotia,NS,"Truro, NS","Truro, NS, Canada",22954
+Population centre,Windsor,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Nova Scotia,NS,"Windsor, NS","Windsor, NS, Canada",5248
+Population centre,Wolfville,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Nova Scotia,NS,"Wolfville, NS","Wolfville, NS, Canada",4195
+Population centre,Yarmouth,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Nova Scotia,NS,"Yarmouth, NS","Yarmouth, NS, Canada",7217
+Population centre,Arviat,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Nunavut,NU,"Arviat, NU","Arviat, NU, Canada",2514
+Population centre,Baker Lake,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Nunavut,NU,"Baker Lake, NU","Baker Lake, NU, Canada",1690
+Population centre,Cambridge Bay,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Nunavut,NU,"Cambridge Bay, NU","Cambridge Bay, NU, Canada",1619
+Population centre,Gjoa Haven,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Nunavut,NU,"Gjoa Haven, NU","Gjoa Haven, NU, Canada",1197
+Population centre,Iqaluit,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Nunavut,NU,"Iqaluit, NU","Iqaluit, NU, Canada",7082
+Population centre,Kugluktuk,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Nunavut,NU,"Kugluktuk, NU","Kugluktuk, NU, Canada",1057
+Population centre,Rankin Inlet,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Nunavut,NU,"Rankin Inlet, NU","Rankin Inlet, NU, Canada",2441
+Population centre,Acton,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Acton, ON","Acton, ON, Canada",9462
+Population centre,Alexandria,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Alexandria, ON","Alexandria, ON, Canada",2845
+Population centre,Alfred,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Alfred, ON","Alfred, ON, Canada",1185
+Population centre,Alliston,"Small population centre (1,000 to 29,999)",Secondary core,Ontario,ON,"Alliston, ON","Alliston, ON, Canada",18809
+Population centre,Almonte,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Almonte, ON","Almonte, ON, Canada",5039
+Population centre,Amherstburg,"Small population centre (1,000 to 29,999)",Secondary core,Ontario,ON,"Amherstburg, ON","Amherstburg, ON, Canada",13910
+Population centre,Amigo Beach,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Amigo Beach, ON","Amigo Beach, ON, Canada",1545
+Population centre,Angus - Borden CFB-BFC,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Angus - Borden CFB-BFC, ON","Angus - Borden CFB-BFC, ON, Canada",12640
+Population centre,Arnprior,"Small population centre (1,000 to 29,999)",Core,Ontario,ON,"Arnprior, ON","Arnprior, ON, Canada",10426
+Population centre,Arthur,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Arthur, ON","Arthur, ON, Canada",2333
+Population centre,Atikokan,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Atikokan, ON","Atikokan, ON, Canada",1944
+Population centre,Attawapiskat 91A,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Attawapiskat 91A, ON","Attawapiskat 91A, ON, Canada",1501
+Population centre,Aylmer,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Aylmer, ON","Aylmer, ON, Canada",7621
+Population centre,Ayr,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Ayr, ON","Ayr, ON, Canada",4171
+Population centre,Azilda,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Azilda, ON","Azilda, ON, Canada",4663
+Population centre,Ballantrae,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Ballantrae, ON","Ballantrae, ON, Canada",3223
+Population centre,Barrie,"Large urban population centre (100,000 or more)",Core,Ontario,ON,"Barrie, ON","Barrie, ON, Canada",145614
+Population centre,Barry's Bay,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Barry's Bay, ON","Barry's Bay, ON, Canada",1259
+Population centre,Bath,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Bath, ON","Bath, ON, Canada",1180
+Population centre,Bayfield,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Bayfield, ON","Bayfield, ON, Canada",1112
+Population centre,Beamsville,"Small population centre (1,000 to 29,999)",Secondary core,Ontario,ON,"Beamsville, ON","Beamsville, ON, Canada",11834
+Population centre,Beaverton,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Beaverton, ON","Beaverton, ON, Canada",2822
+Population centre,Beeton,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Beeton, ON","Beeton, ON, Canada",3891
+Population centre,Belleville,"Medium population centre (30,000 to 99,999)",Core,Ontario,ON,"Belleville, ON","Belleville, ON, Canada",67666
+Population centre,Belmont,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Belmont, ON","Belmont, ON, Canada",1140
+Population centre,Binbrook,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Binbrook, ON","Binbrook, ON, Canada",8794
+Population centre,Blenheim,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Blenheim, ON","Blenheim, ON, Canada",4344
+Population centre,Blind River,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Blind River, ON","Blind River, ON, Canada",2284
+Population centre,Bobcaygeon,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Bobcaygeon, ON","Bobcaygeon, ON, Canada",3525
+Population centre,Bolton,"Small population centre (1,000 to 29,999)",Secondary core,Ontario,ON,"Bolton, ON","Bolton, ON, Canada",26378
+Population centre,Bourget,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Bourget, ON","Bourget, ON, Canada",1169
+Population centre,Bowmanville,"Medium population centre (30,000 to 99,999)",Secondary core,Ontario,ON,"Bowmanville, ON","Bowmanville, ON, Canada",39371
+Population centre,Bracebridge,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Bracebridge, ON","Bracebridge, ON, Canada",9232
+Population centre,Bradford,"Small population centre (1,000 to 29,999)",Secondary core,Ontario,ON,"Bradford, ON","Bradford, ON, Canada",29862
+Population centre,Brantford,"Medium population centre (30,000 to 99,999)",Core,Ontario,ON,"Brantford, ON","Brantford, ON, Canada",98179
+Population centre,Bridgenorth - Chemong Park Area,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Bridgenorth - Chemong Park Area, ON","Bridgenorth - Chemong Park Area, ON, Canada",2945
+Population centre,Brighton,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Brighton, ON","Brighton, ON, Canada",5861
+Population centre,Brockville,"Small population centre (1,000 to 29,999)",Core,Ontario,ON,"Brockville, ON","Brockville, ON, Canada",21854
+Population centre,Brussels,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Brussels, ON","Brussels, ON, Canada",1158
+Population centre,Caledon,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Caledon, ON","Caledon, ON, Canada",1482
+Population centre,Caledon East,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Caledon East, ON","Caledon East, ON, Canada",4282
+Population centre,Caledonia,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Caledonia, ON","Caledonia, ON, Canada",9674
+Population centre,Campbellford,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Campbellford, ON","Campbellford, ON, Canada",3473
+Population centre,Cannington,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Cannington, ON","Cannington, ON, Canada",1845
+Population centre,Capreol,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Capreol, ON","Capreol, ON, Canada",2815
+Population centre,Cardinal,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Cardinal, ON","Cardinal, ON, Canada",1717
+Population centre,Carleton Place,"Small population centre (1,000 to 29,999)",Core,Ontario,ON,"Carleton Place, ON","Carleton Place, ON, Canada",11936
+Population centre,Carlisle,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Carlisle, ON","Carlisle, ON, Canada",1869
+Population centre,Casselman,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Casselman, ON","Casselman, ON, Canada",3563
+Population centre,Cayuga,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Cayuga, ON","Cayuga, ON, Canada",1713
+Population centre,Chalk River,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Chalk River, ON","Chalk River, ON, Canada",1029
+Population centre,Chapleau,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Chapleau, ON","Chapleau, ON, Canada",1170
+Population centre,Chatham,"Medium population centre (30,000 to 99,999)",Core,Ontario,ON,"Chatham, ON","Chatham, ON, Canada",43550
+Population centre,Chelmsford,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Chelmsford, ON","Chelmsford, ON, Canada",6215
+Population centre,Chesley,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Chesley, ON","Chesley, ON, Canada",1843
+Population centre,Chesterville,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Chesterville, ON","Chesterville, ON, Canada",1677
+Population centre,Chippawa,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Chippawa, ON","Chippawa, ON, Canada",5620
+Population centre,Claremont,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Claremont, ON","Claremont, ON, Canada",1202
+Population centre,Clinton,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Clinton, ON","Clinton, ON, Canada",3049
+Population centre,Cobalt,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Cobalt, ON","Cobalt, ON, Canada",1118
+Population centre,Cobourg,"Small population centre (1,000 to 29,999)",Core,Ontario,ON,"Cobourg, ON","Cobourg, ON, Canada",19031
+Population centre,Cochrane,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Cochrane, ON","Cochrane, ON, Canada",3648
+Population centre,Colborne,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Colborne, ON","Colborne, ON, Canada",1577
+Population centre,Colchester,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Colchester, ON","Colchester, ON, Canada",2229
+Population centre,Collingwood,"Small population centre (1,000 to 29,999)",Core,Ontario,ON,"Collingwood, ON","Collingwood, ON, Canada",20102
+Population centre,Coniston,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Coniston, ON","Coniston, ON, Canada",1814
+Population centre,Constance Bay,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Constance Bay, ON","Constance Bay, ON, Canada",2314
+Population centre,Cookstown,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Cookstown, ON","Cookstown, ON, Canada",1214
+Population centre,Cornwall,"Medium population centre (30,000 to 99,999)",Core,Ontario,ON,"Cornwall, ON","Cornwall, ON, Canada",45723
+Population centre,Corunna,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Corunna, ON","Corunna, ON, Canada",5686
+Population centre,Creemore,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Creemore, ON","Creemore, ON, Canada",1170
+Population centre,Crystal Beach,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Crystal Beach, ON","Crystal Beach, ON, Canada",8524
+Population centre,Deep River,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Deep River, ON","Deep River, ON, Canada",3658
+Population centre,Delhi,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Delhi, ON","Delhi, ON, Canada",4240
+Population centre,Deseronto,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Deseronto, ON","Deseronto, ON, Canada",1645
+Population centre,Dorchester,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Dorchester, ON","Dorchester, ON, Canada",3911
+Population centre,Dowling,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Dowling, ON","Dowling, ON, Canada",1466
+Population centre,Drayton,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Drayton, ON","Drayton, ON, Canada",2111
+Population centre,Dresden,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Dresden, ON","Dresden, ON, Canada",2451
+Population centre,Dryden,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Dryden, ON","Dryden, ON, Canada",5586
+Population centre,Dundalk,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Dundalk, ON","Dundalk, ON, Canada",2046
+Population centre,Dunnville,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Dunnville, ON","Dunnville, ON, Canada",5759
+Population centre,Durham,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Durham, ON","Durham, ON, Canada",2609
+Population centre,Dutton,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Dutton, ON","Dutton, ON, Canada",1368
+Population centre,Eganville,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Eganville, ON","Eganville, ON, Canada",1022
+Population centre,Elliot Lake,"Small population centre (1,000 to 29,999)",Core,Ontario,ON,"Elliot Lake, ON","Elliot Lake, ON, Canada",10498
+Population centre,Elmira,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Elmira, ON","Elmira, ON, Canada",10161
+Population centre,Elmvale,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Elmvale, ON","Elmvale, ON, Canada",2314
+Population centre,Embrun,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Embrun, ON","Embrun, ON, Canada",6918
+Population centre,Englehart,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Englehart, ON","Englehart, ON, Canada",1418
+Population centre,Erin,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Erin, ON","Erin, ON, Canada",2647
+Population centre,Espanola,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Espanola, ON","Espanola, ON, Canada",3693
+Population centre,Essex,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Essex, ON","Essex, ON, Canada",7446
+Population centre,Everett,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Everett, ON","Everett, ON, Canada",1670
+Population centre,Exeter,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Exeter, ON","Exeter, ON, Canada",4649
+Population centre,Factory Island,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Factory Island, ON","Factory Island, ON, Canada",1807
+Population centre,Fenelon Falls,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Fenelon Falls, ON","Fenelon Falls, ON, Canada",2464
+Population centre,Fergus,"Small population centre (1,000 to 29,999)",Core,Ontario,ON,"Fergus, ON","Fergus, ON, Canada",20767
+Population centre,Forest,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Forest, ON","Forest, ON, Canada",2277
+Population centre,Fort Erie,"Small population centre (1,000 to 29,999)",Secondary core,Ontario,ON,"Fort Erie, ON","Fort Erie, ON, Canada",14621
+Population centre,Fort Frances,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Fort Frances, ON","Fort Frances, ON, Canada",7420
+Population centre,Frankford,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Frankford, ON","Frankford, ON, Canada",2825
+Population centre,Gananoque,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Gananoque, ON","Gananoque, ON, Canada",5159
+Population centre,Georgetown,"Medium population centre (30,000 to 99,999)",Secondary core,Ontario,ON,"Georgetown, ON","Georgetown, ON, Canada",42123
+Population centre,Geraldton,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Geraldton, ON","Geraldton, ON, Canada",1828
+Population centre,Glencoe,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Glencoe, ON","Glencoe, ON, Canada",2126
+Population centre,Goderich,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Goderich, ON","Goderich, ON, Canada",7536
+Population centre,Golden,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Golden, ON","Golden, ON, Canada",1154
+Population centre,Grand Bend,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Grand Bend, ON","Grand Bend, ON, Canada",2684
+Population centre,Grand Valley,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Grand Valley, ON","Grand Valley, ON, Canada",1643
+Population centre,Gravenhurst,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Gravenhurst, ON","Gravenhurst, ON, Canada",5349
+Population centre,Guelph,"Large urban population centre (100,000 or more)",Core,Ontario,ON,"Guelph, ON","Guelph, ON, Canada",132397
+Population centre,Hagersville,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Hagersville, ON","Hagersville, ON, Canada",2939
+Population centre,Haileybury,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Haileybury, ON","Haileybury, ON, Canada",3266
+Population centre,Haliburton Village,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Haliburton Village, ON","Haliburton Village, ON, Canada",1149
+Population centre,Hamilton,"Large urban population centre (100,000 or more)",Core,Ontario,ON,"Hamilton, ON","Hamilton, ON, Canada",693645
+Population centre,Hanover,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Hanover, ON","Hanover, ON, Canada",7413
+Population centre,Harriston,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Harriston, ON","Harriston, ON, Canada",1797
+Population centre,Harrow,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Harrow, ON","Harrow, ON, Canada",2710
+Population centre,Hastings,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Hastings, ON","Hastings, ON, Canada",1115
+Population centre,Havelock,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Havelock, ON","Havelock, ON, Canada",1175
+Population centre,Hawkesbury (Ontario part),,,Ontario,ON,"Hawkesbury (Ontario part), ON","Hawkesbury (Ontario part), ON, Canada",10055
+Population centre,Hearst,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Hearst, ON","Hearst, ON, Canada",3835
+Population centre,Huntsville,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Huntsville, ON","Huntsville, ON, Canada",6482
+Population centre,Ilderton,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Ilderton, ON","Ilderton, ON, Canada",1856
+Population centre,Ingersoll,"Small population centre (1,000 to 29,999)",Core,Ontario,ON,"Ingersoll, ON","Ingersoll, ON, Canada",12587
+Population centre,Ingleside,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Ingleside, ON","Ingleside, ON, Canada",1384
+Population centre,Innisfil,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Innisfil, ON","Innisfil, ON, Canada",23992
+Population centre,Iroquois,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Iroquois, ON","Iroquois, ON, Canada",1027
+Population centre,Iroquois Falls,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Iroquois Falls, ON","Iroquois Falls, ON, Canada",2955
+Population centre,Jarvis,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Jarvis, ON","Jarvis, ON, Canada",1037
+Population centre,Kanata,"Large urban population centre (100,000 or more)",Fringe,Ontario,ON,"Kanata, ON","Kanata, ON, Canada",117304
+Population centre,Kapuskasing,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Kapuskasing, ON","Kapuskasing, ON, Canada",7378
+Population centre,Kemptville,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Kemptville, ON","Kemptville, ON, Canada",3911
+Population centre,Kenora,"Small population centre (1,000 to 29,999)",Core,Ontario,ON,"Kenora, ON","Kenora, ON, Canada",10687
+Population centre,Keswick - Elmhurst Beach,"Small population centre (1,000 to 29,999)",Secondary core,Ontario,ON,"Keswick - Elmhurst Beach, ON","Keswick - Elmhurst Beach, ON, Canada",26757
+Population centre,Kincardine,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Kincardine, ON","Kincardine, ON, Canada",8315
+Population centre,King,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"King, ON","King, ON, Canada",6970
+Population centre,Kingston,"Large urban population centre (100,000 or more)",Core,Ontario,ON,"Kingston, ON","Kingston, ON, Canada",117660
+Population centre,Kirkland Lake,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Kirkland Lake, ON","Kirkland Lake, ON, Canada",6305
+Population centre,Kitchener,"Large urban population centre (100,000 or more)",Core,Ontario,ON,"Kitchener, ON","Kitchener, ON, Canada",470015
+Population centre,L'Orignal,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"L'Orignal, ON","L'Orignal, ON, Canada",1450
+Population centre,Lakefield,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Lakefield, ON","Lakefield, ON, Canada",2753
+Population centre,Leamington,"Medium population centre (30,000 to 99,999)",Core,Ontario,ON,"Leamington, ON","Leamington, ON, Canada",32991
+Population centre,Limoges,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Limoges, ON","Limoges, ON, Canada",2048
+Population centre,Lindsay,"Small population centre (1,000 to 29,999)",Core,Ontario,ON,"Lindsay, ON","Lindsay, ON, Canada",20713
+Population centre,Listowel,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Listowel, ON","Listowel, ON, Canada",7530
+Population centre,Little Current,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Little Current, ON","Little Current, ON, Canada",1558
+Population centre,Lively,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Lively, ON","Lively, ON, Canada",5608
+Population centre,London,"Large urban population centre (100,000 or more)",Core,Ontario,ON,"London, ON","London, ON, Canada",383437
+Population centre,Long Sault,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Long Sault, ON","Long Sault, ON, Canada",1779
+Population centre,Longlac,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Longlac, ON","Longlac, ON, Canada",1434
+Population centre,Lucan,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Lucan, ON","Lucan, ON, Canada",2541
+Population centre,Lucknow,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Lucknow, ON","Lucknow, ON, Canada",1121
+Population centre,Madoc,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Madoc, ON","Madoc, ON, Canada",1535
+Population centre,Manitouwadge,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Manitouwadge, ON","Manitouwadge, ON, Canada",1708
+Population centre,Manotick Station,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Manotick Station, ON","Manotick Station, ON, Canada",5738
+Population centre,Marathon,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Marathon, ON","Marathon, ON, Canada",3138
+Population centre,Marchmont - Bass Lake,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Marchmont - Bass Lake, ON","Marchmont - Bass Lake, ON, Canada",1191
+Population centre,Markdale,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Markdale, ON","Markdale, ON, Canada",1216
+Population centre,Marmora,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Marmora, ON","Marmora, ON, Canada",1629
+Population centre,Mattawa,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Mattawa, ON","Mattawa, ON, Canada",1786
+Population centre,McGregor,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"McGregor, ON","McGregor, ON, Canada",1859
+Population centre,Meaford,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Meaford, ON","Meaford, ON, Canada",4910
+Population centre,Metcalfe,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Metcalfe, ON","Metcalfe, ON, Canada",1776
+Population centre,Midland,"Small population centre (1,000 to 29,999)",Core,Ontario,ON,"Midland, ON","Midland, ON, Canada",24353
+Population centre,Mildmay,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Mildmay, ON","Mildmay, ON, Canada",1219
+Population centre,Millbrook,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Millbrook, ON","Millbrook, ON, Canada",1695
+Population centre,Milton,"Large urban population centre (100,000 or more)",Secondary core,Ontario,ON,"Milton, ON","Milton, ON, Canada",101715
+Population centre,Milverton,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Milverton, ON","Milverton, ON, Canada",1576
+Population centre,Mississauga Beach,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Mississauga Beach, ON","Mississauga Beach, ON, Canada",4662
+Population centre,Mitchell,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Mitchell, ON","Mitchell, ON, Canada",4573
+Population centre,Moosonee,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Moosonee, ON","Moosonee, ON, Canada",1405
+Population centre,Morrisburg,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Morrisburg, ON","Morrisburg, ON, Canada",2385
+Population centre,Mount Albert,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Mount Albert, ON","Mount Albert, ON, Canada",4925
+Population centre,Mount Brydges,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Mount Brydges, ON","Mount Brydges, ON, Canada",1842
+Population centre,Mount Forest,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Mount Forest, ON","Mount Forest, ON, Canada",4643
+Population centre,Napanee,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Napanee, ON","Napanee, ON, Canada",7439
+Population centre,New Dundee,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"New Dundee, ON","New Dundee, ON, Canada",1119
+Population centre,New Hamburg,"Small population centre (1,000 to 29,999)",Secondary core,Ontario,ON,"New Hamburg, ON","New Hamburg, ON, Canada",13595
+Population centre,New Liskeard,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"New Liskeard, ON","New Liskeard, ON, Canada",4402
+Population centre,Newcastle,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Newcastle, ON","Newcastle, ON, Canada",9167
+Population centre,Nobleton,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Nobleton, ON","Nobleton, ON, Canada",4614
+Population centre,North Bay,"Medium population centre (30,000 to 99,999)",Core,Ontario,ON,"North Bay, ON","North Bay, ON, Canada",50396
+Population centre,Norwich,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Norwich, ON","Norwich, ON, Canada",2852
+Population centre,Norwood,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Norwood, ON","Norwood, ON, Canada",1380
+Population centre,Omemee,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Omemee, ON","Omemee, ON, Canada",1271
+Population centre,Orangeville,"Medium population centre (30,000 to 99,999)",Secondary core,Ontario,ON,"Orangeville, ON","Orangeville, ON, Canada",30734
+Population centre,Orillia,"Medium population centre (30,000 to 99,999)",Core,Ontario,ON,"Orillia, ON","Orillia, ON, Canada",31128
+Population centre,Oro Station - Hawkestone,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Oro Station - Hawkestone, ON","Oro Station - Hawkestone, ON, Canada",1691
+Population centre,Orono,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Orono, ON","Orono, ON, Canada",1105
+Population centre,Osgoode,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Osgoode, ON","Osgoode, ON, Canada",2578
+Population centre,Oshawa,"Large urban population centre (100,000 or more)",Core,Ontario,ON,"Oshawa, ON","Oshawa, ON, Canada",308875
+Population centre,Ottawa - Gatineau (Ontario part),,,Ontario,ON,"Ottawa - Gatineau (Ontario part), ON","Ottawa - Gatineau (Ontario part), ON, Canada",735706
+Population centre,Owen Sound,"Small population centre (1,000 to 29,999)",Core,Ontario,ON,"Owen Sound, ON","Owen Sound, ON, Canada",22032
+Population centre,Paisley,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Paisley, ON","Paisley, ON, Canada",1045
+Population centre,Palgrave,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Palgrave, ON","Palgrave, ON, Canada",1044
+Population centre,Palmerston,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Palmerston, ON","Palmerston, ON, Canada",2624
+Population centre,Paris,"Small population centre (1,000 to 29,999)",Secondary core,Ontario,ON,"Paris, ON","Paris, ON, Canada",12310
+Population centre,Parkhill,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Parkhill, ON","Parkhill, ON, Canada",1737
+Population centre,Parry Sound,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Parry Sound, ON","Parry Sound, ON, Canada",6321
+Population centre,Pembroke,"Small population centre (1,000 to 29,999)",Core,Ontario,ON,"Pembroke, ON","Pembroke, ON, Canada",15940
+Population centre,Perth,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Perth, ON","Perth, ON, Canada",5573
+Population centre,Petawawa,"Small population centre (1,000 to 29,999)",Core,Ontario,ON,"Petawawa, ON","Petawawa, ON, Canada",13701
+Population centre,Peterborough,"Medium population centre (30,000 to 99,999)",Core,Ontario,ON,"Peterborough, ON","Peterborough, ON, Canada",82094
+Population centre,Petrolia,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Petrolia, ON","Petrolia, ON, Canada",5375
+Population centre,Picton,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Picton, ON","Picton, ON, Canada",4702
+Population centre,Plattsville,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Plattsville, ON","Plattsville, ON, Canada",1366
+Population centre,Porcupine,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Porcupine, ON","Porcupine, ON, Canada",4716
+Population centre,Port Colborne,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Port Colborne, ON","Port Colborne, ON, Canada",15037
+Population centre,Port Dover,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Port Dover, ON","Port Dover, ON, Canada",6161
+Population centre,Port Elgin,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Port Elgin, ON","Port Elgin, ON, Canada",7862
+Population centre,Port Hope,"Small population centre (1,000 to 29,999)",Core,Ontario,ON,"Port Hope, ON","Port Hope, ON, Canada",12587
+Population centre,Port Perry,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Port Perry, ON","Port Perry, ON, Canada",9453
+Population centre,Port Rowan,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Port Rowan, ON","Port Rowan, ON, Canada",1102
+Population centre,Port Stanley,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Port Stanley, ON","Port Stanley, ON, Canada",2148
+Population centre,Powassan,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Powassan, ON","Powassan, ON, Canada",1343
+Population centre,Prescott,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Prescott, ON","Prescott, ON, Canada",3965
+Population centre,Red Lake,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Red Lake, ON","Red Lake, ON, Canada",1177
+Population centre,Renfrew,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Renfrew, ON","Renfrew, ON, Canada",8152
+Population centre,Richmond,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Richmond, ON","Richmond, ON, Canada",4055
+Population centre,Ridgetown,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Ridgetown, ON","Ridgetown, ON, Canada",3002
+Population centre,Rockland,"Small population centre (1,000 to 29,999)",Secondary core,Ontario,ON,"Rockland, ON","Rockland, ON, Canada",12302
+Population centre,Rockwood,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Rockwood, ON","Rockwood, ON, Canada",4629
+Population centre,Russell,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Russell, ON","Russell, ON, Canada",4464
+Population centre,Sarnia,"Medium population centre (30,000 to 99,999)",Core,Ontario,ON,"Sarnia, ON","Sarnia, ON, Canada",72125
+Population centre,Sault Ste. Marie,"Medium population centre (30,000 to 99,999)",Core,Ontario,ON,"Sault Ste. Marie, ON","Sault Ste. Marie, ON, Canada",66313
+Population centre,Schomberg,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Schomberg, ON","Schomberg, ON, Canada",2691
+Population centre,Seaforth,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Seaforth, ON","Seaforth, ON, Canada",2680
+Population centre,Shelburne,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Shelburne, ON","Shelburne, ON, Canada",8126
+Population centre,Simcoe,"Small population centre (1,000 to 29,999)",Core,Ontario,ON,"Simcoe, ON","Simcoe, ON, Canada",13922
+Population centre,Sioux Lookout,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Sioux Lookout, ON","Sioux Lookout, ON, Canada",2941
+Population centre,Smiths Falls,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Smiths Falls, ON","Smiths Falls, ON, Canada",8885
+Population centre,Smithville,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Smithville, ON","Smithville, ON, Canada",5489
+Population centre,Southampton,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Southampton, ON","Southampton, ON, Canada",3678
+Population centre,St. Catharines - Niagara Falls,"Large urban population centre (100,000 or more)",Core,Ontario,ON,"St. Catharines - Niagara Falls, ON","St. Catharines - Niagara Falls, ON, Canada",229246
+Population centre,St. George,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"St. George, ON","St. George, ON, Canada",3255
+Population centre,St. Jacobs,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"St. Jacobs, ON","St. Jacobs, ON, Canada",1988
+Population centre,St. Marys,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"St. Marys, ON","St. Marys, ON, Canada",6951
+Population centre,St. Thomas,"Medium population centre (30,000 to 99,999)",Secondary core,Ontario,ON,"St. Thomas, ON","St. Thomas, ON, Canada",41813
+Population centre,Stayner,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Stayner, ON","Stayner, ON, Canada",4029
+Population centre,Stevensville,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Stevensville, ON","Stevensville, ON, Canada",1179
+Population centre,Stirling,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Stirling, ON","Stirling, ON, Canada",2030
+Population centre,Stoney Point,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Stoney Point, ON","Stoney Point, ON, Canada",1087
+Population centre,Stouffville,"Medium population centre (30,000 to 99,999)",Secondary core,Ontario,ON,"Stouffville, ON","Stouffville, ON, Canada",32634
+Population centre,Stratford,"Medium population centre (30,000 to 99,999)",Core,Ontario,ON,"Stratford, ON","Stratford, ON, Canada",31053
+Population centre,Strathroy,"Small population centre (1,000 to 29,999)",Secondary core,Ontario,ON,"Strathroy, ON","Strathroy, ON, Canada",14401
+Population centre,Sturgeon Falls,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Sturgeon Falls, ON","Sturgeon Falls, ON, Canada",6798
+Population centre,Sudbury,"Medium population centre (30,000 to 99,999)",Core,Ontario,ON,"Sudbury, ON","Sudbury, ON, Canada",88054
+Population centre,Sunderland,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Sunderland, ON","Sunderland, ON, Canada",1243
+Population centre,Sutton,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Sutton, ON","Sutton, ON, Canada",7531
+Population centre,Tavistock,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Tavistock, ON","Tavistock, ON, Canada",2955
+Population centre,Tay,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Tay, ON","Tay, ON, Canada",5408
+Population centre,Thamesford,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Thamesford, ON","Thamesford, ON, Canada",2116
+Population centre,Thessalon,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Thessalon, ON","Thessalon, ON, Canada",1175
+Population centre,Thornbury,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Thornbury, ON","Thornbury, ON, Canada",2485
+Population centre,Thunder Bay,"Medium population centre (30,000 to 99,999)",Core,Ontario,ON,"Thunder Bay, ON","Thunder Bay, ON, Canada",93952
+Population centre,Tilbury,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Tilbury, ON","Tilbury, ON, Canada",4768
+Population centre,Tillsonburg,"Small population centre (1,000 to 29,999)",Core,Ontario,ON,"Tillsonburg, ON","Tillsonburg, ON, Canada",15594
+Population centre,Timmins,"Small population centre (1,000 to 29,999)",Core,Ontario,ON,"Timmins, ON","Timmins, ON, Canada",29331
+Population centre,Toronto,"Large urban population centre (100,000 or more)",Core,Ontario,ON,"Toronto, ON","Toronto, ON, Canada",5429524
+Population centre,Tottenham,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Tottenham, ON","Tottenham, ON, Canada",5143
+Population centre,Tweed,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Tweed, ON","Tweed, ON, Canada",1701
+Population centre,Uxbridge,"Small population centre (1,000 to 29,999)",Secondary core,Ontario,ON,"Uxbridge, ON","Uxbridge, ON, Canada",11832
+Population centre,Valley East,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Valley East, ON","Valley East, ON, Canada",17451
+Population centre,Vankleek Hill,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Vankleek Hill, ON","Vankleek Hill, ON, Canada",1742
+Population centre,Vineland,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Vineland, ON","Vineland, ON, Canada",4074
+Population centre,Virgil,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Virgil, ON","Virgil, ON, Canada",2937
+Population centre,Walkerton,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Walkerton, ON","Walkerton, ON, Canada",4517
+Population centre,Wallaceburg,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Wallaceburg, ON","Wallaceburg, ON, Canada",10098
+Population centre,Wasaga Beach,"Small population centre (1,000 to 29,999)",Core,Ontario,ON,"Wasaga Beach, ON","Wasaga Beach, ON, Canada",17808
+Population centre,Waterford,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Waterford, ON","Waterford, ON, Canada",3132
+Population centre,Watford,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Watford, ON","Watford, ON, Canada",1536
+Population centre,Wawa,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Wawa, ON","Wawa, ON, Canada",2610
+Population centre,Welland - Pelham,"Medium population centre (30,000 to 99,999)",Fringe,Ontario,ON,"Welland - Pelham, ON","Welland - Pelham, ON, Canada",62388
+Population centre,Wellesley,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Wellesley, ON","Wellesley, ON, Canada",3246
+Population centre,Wendover,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Wendover, ON","Wendover, ON, Canada",1785
+Population centre,West Lorne,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"West Lorne, ON","West Lorne, ON, Canada",1337
+Population centre,Wheatley,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Wheatley, ON","Wheatley, ON, Canada",2868
+Population centre,Wiarton,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Wiarton, ON","Wiarton, ON, Canada",1989
+Population centre,Wikwemikong,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Wikwemikong, ON","Wikwemikong, ON, Canada",1342
+Population centre,Winchester,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Winchester, ON","Winchester, ON, Canada",2394
+Population centre,Windsor,"Large urban population centre (100,000 or more)",Core,Ontario,ON,"Windsor, ON","Windsor, ON, Canada",287069
+Population centre,Wingham,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Ontario,ON,"Wingham, ON","Wingham, ON, Canada",2934
+Population centre,Woodstock,"Medium population centre (30,000 to 99,999)",Core,Ontario,ON,"Woodstock, ON","Woodstock, ON, Canada",40404
+Population centre,Wyoming,"Small population centre (1,000 to 29,999)",Fringe,Ontario,ON,"Wyoming, ON","Wyoming, ON, Canada",2361
+Population centre,Hawkesbury,"Small population centre (1,000 to 29,999)",Core,Ontario,ON,"Hawkesbury, ON","Hawkesbury, ON, Canada",11715
+Population centre,Hawkesbury,"Small population centre (1,000 to 29,999)",Core,Quebec,QC,"Hawkesbury, QC","Hawkesbury, QC, Canada",11715
+Population centre,Ottawa - Gatineau,"Large urban population centre (100,000 or more)",Core,Ontario,ON,"Ottawa - Gatineau, ON","Ottawa - Gatineau, ON, Canada",989567
+Population centre,Ottawa - Gatineau,"Large urban population centre (100,000 or more)",Core,Quebec,QC,"Ottawa - Gatineau, QC","Ottawa - Gatineau, QC, Canada",989567
+Population centre,Charlottetown,"Medium population centre (30,000 to 99,999)",Core,Prince Edward Island,PE,"Charlottetown, PE","Charlottetown, PE, Canada",44739
+Population centre,Cornwall,"Small population centre (1,000 to 29,999)",Fringe,Prince Edward Island,PE,"Cornwall, PE","Cornwall, PE, Canada",2460
+Population centre,Kensington,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Prince Edward Island,PE,"Kensington, PE","Kensington, PE, Canada",1562
+Population centre,Montague,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Prince Edward Island,PE,"Montague, PE","Montague, PE, Canada",1834
+Population centre,Summerside,"Small population centre (1,000 to 29,999)",Core,Prince Edward Island,PE,"Summerside, PE","Summerside, PE, Canada",13814
+Population centre,Acton Vale,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Acton Vale, QC","Acton Vale, QC, Canada",5399
+Population centre,Alençon,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Alençon, QC","Alençon, QC, Canada",1562
+Population centre,Alma,"Small population centre (1,000 to 29,999)",Core,Quebec,QC,"Alma, QC","Alma, QC, Canada",21406
+Population centre,Amos,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Amos, QC","Amos, QC, Canada",10005
+Population centre,Amqui,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Amqui, QC","Amqui, QC, Canada",4511
+Population centre,Angers,"Small population centre (1,000 to 29,999)",Fringe,Quebec,QC,"Angers, QC","Angers, QC, Canada",6973
+Population centre,Asbestos,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Asbestos, QC","Asbestos, QC, Canada",5205
+Population centre,Baie-Comeau,"Small population centre (1,000 to 29,999)",Fringe,Quebec,QC,"Baie-Comeau, QC","Baie-Comeau, QC, Canada",9610
+Population centre,Baie-Saint-Paul,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Baie-Saint-Paul, QC","Baie-Saint-Paul, QC, Canada",4868
+Population centre,Barraute,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Barraute, QC","Barraute, QC, Canada",1099
+Population centre,Beauceville,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Beauceville, QC","Beauceville, QC, Canada",3769
+Population centre,Beaumont,"Small population centre (1,000 to 29,999)",Fringe,Quebec,QC,"Beaumont, QC","Beaumont, QC, Canada",1210
+Population centre,Beaupré,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Beaupré, QC","Beaupré, QC, Canada",5889
+Population centre,Bedford,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Bedford, QC","Bedford, QC, Canada",2550
+Population centre,Beloeil,"Medium population centre (30,000 to 99,999)",Secondary core,Quebec,QC,"Beloeil, QC","Beloeil, QC, Canada",50845
+Population centre,Berthierville,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Berthierville, QC","Berthierville, QC, Canada",4715
+Population centre,Betsiamites,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Betsiamites, QC","Betsiamites, QC, Canada",2105
+Population centre,Black Lake,"Small population centre (1,000 to 29,999)",Fringe,Quebec,QC,"Black Lake, QC","Black Lake, QC, Canada",3298
+Population centre,Bonaventure,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Bonaventure, QC","Bonaventure, QC, Canada",1439
+Population centre,Bromont,"Small population centre (1,000 to 29,999)",Fringe,Quebec,QC,"Bromont, QC","Bromont, QC, Canada",3895
+Population centre,Bromptonville,"Small population centre (1,000 to 29,999)",Fringe,Quebec,QC,"Bromptonville, QC","Bromptonville, QC, Canada",2725
+Population centre,Brownsburg,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Brownsburg, QC","Brownsburg, QC, Canada",1425
+Population centre,Buckingham,"Small population centre (1,000 to 29,999)",Fringe,Quebec,QC,"Buckingham, QC","Buckingham, QC, Canada",16685
+Population centre,Cabano,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Cabano, QC","Cabano, QC, Canada",2438
+Population centre,Campbellton (Quebec part),,,Quebec,QC,"Campbellton (Quebec part), QC","Campbellton (Quebec part), QC, Canada",1936
+Population centre,Cap-aux-Meules,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Cap-aux-Meules, QC","Cap-aux-Meules, QC, Canada",2028
+Population centre,Cap-Chat,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Cap-Chat, QC","Cap-Chat, QC, Canada",1072
+Population centre,Cap-Saint-Ignace,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Cap-Saint-Ignace, QC","Cap-Saint-Ignace, QC, Canada",1214
+Population centre,Carleton,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Carleton, QC","Carleton, QC, Canada",1101
+Population centre,Causapscal,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Causapscal, QC","Causapscal, QC, Canada",1041
+Population centre,Chandler,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Chandler, QC","Chandler, QC, Canada",2285
+Population centre,Chapais,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Chapais, QC","Chapais, QC, Canada",1318
+Population centre,Château-Richer,"Small population centre (1,000 to 29,999)",Fringe,Quebec,QC,"Château-Richer, QC","Château-Richer, QC, Canada",1503
+Population centre,Châteauguay,"Medium population centre (30,000 to 99,999)",Secondary core,Quebec,QC,"Châteauguay, QC","Châteauguay, QC, Canada",71164
+Population centre,Chibougamau,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Chibougamau, QC","Chibougamau, QC, Canada",6862
+Population centre,Chicoutimi - Jonquière,"Large urban population centre (100,000 or more)",Core,Quebec,QC,"Chicoutimi - Jonquière, QC","Chicoutimi - Jonquière, QC, Canada",104222
+Population centre,Chisasibi,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Chisasibi, QC","Chisasibi, QC, Canada",2967
+Population centre,Chute-aux-Outardes,"Small population centre (1,000 to 29,999)",Fringe,Quebec,QC,"Chute-aux-Outardes, QC","Chute-aux-Outardes, QC, Canada",1059
+Population centre,Clermont,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Clermont, QC","Clermont, QC, Canada",2765
+Population centre,Coaticook,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Coaticook, QC","Coaticook, QC, Canada",6524
+Population centre,Contrecoeur,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Contrecoeur, QC","Contrecoeur, QC, Canada",6236
+Population centre,Cookshire,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Cookshire, QC","Cookshire, QC, Canada",1021
+Population centre,Cowansville,"Small population centre (1,000 to 29,999)",Core,Quebec,QC,"Cowansville, QC","Cowansville, QC, Canada",11809
+Population centre,Crabtree,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Crabtree, QC","Crabtree, QC, Canada",3004
+Population centre,Danville,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Danville, QC","Danville, QC, Canada",1577
+Population centre,Daveluyville,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Daveluyville, QC","Daveluyville, QC, Canada",1236
+Population centre,Dégelis,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Dégelis, QC","Dégelis, QC, Canada",1798
+Population centre,Disraeli,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Disraeli, QC","Disraeli, QC, Canada",2212
+Population centre,Dolbeau,"Small population centre (1,000 to 29,999)",Core,Quebec,QC,"Dolbeau, QC","Dolbeau, QC, Canada",11388
+Population centre,Domaine-C.-L.-C.,"Small population centre (1,000 to 29,999)",Fringe,Quebec,QC,"Domaine-C.-L.-C., QC","Domaine-C.-L.-C., QC, Canada",1521
+Population centre,Domaine-Ouellet,"Small population centre (1,000 to 29,999)",Fringe,Quebec,QC,"Domaine-Ouellet, QC","Domaine-Ouellet, QC, Canada",2894
+Population centre,Donnacona,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Donnacona, QC","Donnacona, QC, Canada",8418
+Population centre,Drummondville,"Medium population centre (30,000 to 99,999)",Core,Quebec,QC,"Drummondville, QC","Drummondville, QC, Canada",68601
+Population centre,East Angus,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"East Angus, QC","East Angus, QC, Canada",3472
+Population centre,East Broughton,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"East Broughton, QC","East Broughton, QC, Canada",1832
+Population centre,Évain,"Small population centre (1,000 to 29,999)",Fringe,Quebec,QC,"Évain, QC","Évain, QC, Canada",2426
+Population centre,Farnham,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Farnham, QC","Farnham, QC, Canada",6731
+Population centre,Ferme-Neuve,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Ferme-Neuve, QC","Ferme-Neuve, QC, Canada",1706
+Population centre,Fermont,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Fermont, QC","Fermont, QC, Canada",2288
+Population centre,Filion,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Filion, QC","Filion, QC, Canada",3334
+Population centre,Forestville,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Forestville, QC","Forestville, QC, Canada",2333
+Population centre,Fort-Coulonge,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Fort-Coulonge, QC","Fort-Coulonge, QC, Canada",2359
+Population centre,Fossambault-sur-le-Lac,"Small population centre (1,000 to 29,999)",Fringe,Quebec,QC,"Fossambault-sur-le-Lac, QC","Fossambault-sur-le-Lac, QC, Canada",2769
+Population centre,Gaspé,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Gaspé, QC","Gaspé, QC, Canada",2609
+Population centre,Gentilly,"Small population centre (1,000 to 29,999)",Fringe,Quebec,QC,"Gentilly, QC","Gentilly, QC, Canada",1673
+Population centre,Godefroy,"Small population centre (1,000 to 29,999)",Fringe,Quebec,QC,"Godefroy, QC","Godefroy, QC, Canada",1410
+Population centre,Granby,"Medium population centre (30,000 to 99,999)",Core,Quebec,QC,"Granby, QC","Granby, QC, Canada",59691
+Population centre,Grande-Rivière,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Grande-Rivière, QC","Grande-Rivière, QC, Canada",1517
+Population centre,Hauterive,"Small population centre (1,000 to 29,999)",Core,Quebec,QC,"Hauterive, QC","Hauterive, QC, Canada",11549
+Population centre,Havre-Saint-Pierre,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Havre-Saint-Pierre, QC","Havre-Saint-Pierre, QC, Canada",2925
+Population centre,Hawkesbury (Quebec part),,,Quebec,QC,"Hawkesbury (Quebec part), QC","Hawkesbury (Quebec part), QC, Canada",1660
+Population centre,Hébertville,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Hébertville, QC","Hébertville, QC, Canada",1085
+Population centre,Hudson,"Small population centre (1,000 to 29,999)",Secondary core,Quebec,QC,"Hudson, QC","Hudson, QC, Canada",21419
+Population centre,Huntingdon,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Huntingdon, QC","Huntingdon, QC, Canada",2525
+Population centre,Inukjuak,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Inukjuak, QC","Inukjuak, QC, Canada",1312
+Population centre,Joliette,"Medium population centre (30,000 to 99,999)",Core,Quebec,QC,"Joliette, QC","Joliette, QC, Canada",45508
+Population centre,Kingsey Falls,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Kingsey Falls, QC","Kingsey Falls, QC, Canada",1452
+Population centre,Kuujjuaq,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Kuujjuaq, QC","Kuujjuaq, QC, Canada",1353
+Population centre,L'Ange-Gardien,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"L'Ange-Gardien, QC","L'Ange-Gardien, QC, Canada",1585
+Population centre,L'Assomption,"Small population centre (1,000 to 29,999)",Secondary core,Quebec,QC,"L'Assomption, QC","L'Assomption, QC, Canada",15906
+Population centre,L'Épiphanie,"Small population centre (1,000 to 29,999)",Fringe,Quebec,QC,"L'Épiphanie, QC","L'Épiphanie, QC, Canada",7225
+Population centre,La Malbaie,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"La Malbaie, QC","La Malbaie, QC, Canada",3520
+Population centre,La Pocatière,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"La Pocatière, QC","La Pocatière, QC, Canada",3928
+Population centre,La Sarre,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"La Sarre, QC","La Sarre, QC, Canada",4570
+Population centre,La Tuque,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"La Tuque, QC","La Tuque, QC, Canada",7751
+Population centre,Labelle,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Labelle, QC","Labelle, QC, Canada",1136
+Population centre,Lac-Alouette,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Lac-Alouette, QC","Lac-Alouette, QC, Canada",4473
+Population centre,Lac-Connelly,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Lac-Connelly, QC","Lac-Connelly, QC, Canada",1212
+Population centre,Lac-Etchemin,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Lac-Etchemin, QC","Lac-Etchemin, QC, Canada",1782
+Population centre,Lac-Lapierre,"Small population centre (1,000 to 29,999)",Fringe,Quebec,QC,"Lac-Lapierre, QC","Lac-Lapierre, QC, Canada",2480
+Population centre,Lac-Mégantic,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Lac-Mégantic, QC","Lac-Mégantic, QC, Canada",5647
+Population centre,Lac-Simon,"Small population centre (1,000 to 29,999)",Fringe,Quebec,QC,"Lac-Simon, QC","Lac-Simon, QC, Canada",1243
+Population centre,Lachute,"Small population centre (1,000 to 29,999)",Core,Quebec,QC,"Lachute, QC","Lachute, QC, Canada",10082
+Population centre,Lacolle,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Lacolle, QC","Lacolle, QC, Canada",1288
+Population centre,Laurentides,"Small population centre (1,000 to 29,999)",Fringe,Quebec,QC,"Laurentides, QC","Laurentides, QC, Canada",12710
+Population centre,Laurier-Station,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Laurier-Station, QC","Laurier-Station, QC, Canada",1894
+Population centre,Lavaltrie,"Small population centre (1,000 to 29,999)",Secondary core,Quebec,QC,"Lavaltrie, QC","Lavaltrie, QC, Canada",10767
+Population centre,Le Bic,"Small population centre (1,000 to 29,999)",Fringe,Quebec,QC,"Le Bic, QC","Le Bic, QC, Canada",1115
+Population centre,Lebel-sur-Quévillon,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Lebel-sur-Quévillon, QC","Lebel-sur-Quévillon, QC, Canada",2015
+Population centre,LeBlanc,"Small population centre (1,000 to 29,999)",Fringe,Quebec,QC,"LeBlanc, QC","LeBlanc, QC, Canada",1513
+Population centre,Les Cèdres,"Small population centre (1,000 to 29,999)",Fringe,Quebec,QC,"Les Cèdres, QC","Les Cèdres, QC, Canada",2233
+Population centre,Les Coteaux,"Small population centre (1,000 to 29,999)",Secondary core,Quebec,QC,"Les Coteaux, QC","Les Coteaux, QC, Canada",17396
+Population centre,Les Escoumins,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Les Escoumins, QC","Les Escoumins, QC, Canada",1339
+Population centre,Linière,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Linière, QC","Linière, QC, Canada",1385
+Population centre,Louiseville,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Louiseville, QC","Louiseville, QC, Canada",5396
+Population centre,Luceville,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Luceville, QC","Luceville, QC, Canada",1112
+Population centre,Macamic,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Macamic, QC","Macamic, QC, Canada",1307
+Population centre,Magog,"Small population centre (1,000 to 29,999)",Secondary core,Quebec,QC,"Magog, QC","Magog, QC, Canada",20830
+Population centre,Malartic,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Malartic, QC","Malartic, QC, Canada",2972
+Population centre,Maliotenam,"Small population centre (1,000 to 29,999)",Fringe,Quebec,QC,"Maliotenam, QC","Maliotenam, QC, Canada",1363
+Population centre,Manawan,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Manawan, QC","Manawan, QC, Canada",1648
+Population centre,Maniwaki,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Maniwaki, QC","Maniwaki, QC, Canada",3778
+Population centre,Maria,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Maria, QC","Maria, QC, Canada",1124
+Population centre,Marieville,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Marieville, QC","Marieville, QC, Canada",8891
+Population centre,Maskinongé,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Maskinongé, QC","Maskinongé, QC, Canada",1368
+Population centre,Matagami,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Matagami, QC","Matagami, QC, Canada",1396
+Population centre,Matane,"Small population centre (1,000 to 29,999)",Core,Quebec,QC,"Matane, QC","Matane, QC, Canada",10787
+Population centre,Melocheville,"Small population centre (1,000 to 29,999)",Fringe,Quebec,QC,"Melocheville, QC","Melocheville, QC, Canada",2621
+Population centre,Métabetchouan,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Métabetchouan, QC","Métabetchouan, QC, Canada",2123
+Population centre,Mistissini,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Mistissini, QC","Mistissini, QC, Canada",2869
+Population centre,Mont-Joli,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Mont-Joli, QC","Mont-Joli, QC, Canada",5604
+Population centre,Mont-Laurier,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Mont-Laurier, QC","Mont-Laurier, QC, Canada",7644
+Population centre,Montmagny,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Montmagny, QC","Montmagny, QC, Canada",9041
+Population centre,Montréal,"Large urban population centre (100,000 or more)",Core,Quebec,QC,"Montréal, QC","Montréal, QC, Canada",3519595
+Population centre,Napierville,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Napierville, QC","Napierville, QC, Canada",4708
+Population centre,Neuville,"Small population centre (1,000 to 29,999)",Fringe,Quebec,QC,"Neuville, QC","Neuville, QC, Canada",2435
+Population centre,New Richmond,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"New Richmond, QC","New Richmond, QC, Canada",1901
+Population centre,Nicolet,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Nicolet, QC","Nicolet, QC, Canada",5669
+Population centre,Normandin,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Normandin, QC","Normandin, QC, Canada",1910
+Population centre,Notre-Dame-du-Bon-Conseil,"Small population centre (1,000 to 29,999)",Fringe,Quebec,QC,"Notre-Dame-du-Bon-Conseil, QC","Notre-Dame-du-Bon-Conseil, QC, Canada",1018
+Population centre,Notre-Dame-du-Lac,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Notre-Dame-du-Lac, QC","Notre-Dame-du-Lac, QC, Canada",1184
+Population centre,Notre-Dame-du-Mont-Carmel,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Notre-Dame-du-Mont-Carmel, QC","Notre-Dame-du-Mont-Carmel, QC, Canada",1091
+Population centre,Obedjiwan,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Obedjiwan, QC","Obedjiwan, QC, Canada",1404
+Population centre,Oka,"Small population centre (1,000 to 29,999)",Fringe,Quebec,QC,"Oka, QC","Oka, QC, Canada",1254
+Population centre,Ormstown,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Ormstown, QC","Ormstown, QC, Canada",1730
+Population centre,Ottawa - Gatineau (Quebec part),,,Quebec,QC,"Ottawa - Gatineau (Quebec part), QC","Ottawa - Gatineau (Quebec part), QC, Canada",253861
+Population centre,Papineauville,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Papineauville, QC","Papineauville, QC, Canada",1105
+Population centre,Parc-Boutin,"Small population centre (1,000 to 29,999)",Fringe,Quebec,QC,"Parc-Boutin, QC","Parc-Boutin, QC, Canada",1127
+Population centre,Pierreville,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Pierreville, QC","Pierreville, QC, Canada",1119
+Population centre,Plessisville,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Plessisville, QC","Plessisville, QC, Canada",7195
+Population centre,Pointe-du-Lac,"Small population centre (1,000 to 29,999)",Fringe,Quebec,QC,"Pointe-du-Lac, QC","Pointe-du-Lac, QC, Canada",7104
+Population centre,Pont-Rouge,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Pont-Rouge, QC","Pont-Rouge, QC, Canada",6239
+Population centre,Port-Alfred-Bagotville,"Small population centre (1,000 to 29,999)",Fringe,Quebec,QC,"Port-Alfred-Bagotville, QC","Port-Alfred-Bagotville, QC, Canada",13865
+Population centre,Port-Cartier,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Port-Cartier, QC","Port-Cartier, QC, Canada",5609
+Population centre,Portneuf,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Portneuf, QC","Portneuf, QC, Canada",2004
+Population centre,Price,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Price, QC","Price, QC, Canada",1679
+Population centre,Princeville,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Princeville, QC","Princeville, QC, Canada",4384
+Population centre,Puvirnituq,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Puvirnituq, QC","Puvirnituq, QC, Canada",1038
+Population centre,Québec,"Large urban population centre (100,000 or more)",Core,Quebec,QC,"Québec, QC","Québec, QC, Canada",705103
+Population centre,Rawdon,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Rawdon, QC","Rawdon, QC, Canada",5188
+Population centre,Richmond,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Richmond, QC","Richmond, QC, Canada",3046
+Population centre,Rigaud,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Rigaud, QC","Rigaud, QC, Canada",3613
+Population centre,Rimouski,"Medium population centre (30,000 to 99,999)",Core,Quebec,QC,"Rimouski, QC","Rimouski, QC, Canada",36942
+Population centre,Rivière-au-Renard,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Rivière-au-Renard, QC","Rivière-au-Renard, QC, Canada",1074
+Population centre,Rivière-du-Loup,"Small population centre (1,000 to 29,999)",Core,Quebec,QC,"Rivière-du-Loup, QC","Rivière-du-Loup, QC, Canada",17973
+Population centre,Roberval,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Roberval, QC","Roberval, QC, Canada",8204
+Population centre,Rougemont,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Rougemont, QC","Rougemont, QC, Canada",1481
+Population centre,Rouyn-Noranda,"Small population centre (1,000 to 29,999)",Core,Quebec,QC,"Rouyn-Noranda, QC","Rouyn-Noranda, QC, Canada",23504
+Population centre,Roxton Falls,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Roxton Falls, QC","Roxton Falls, QC, Canada",1003
+Population centre,Roxton Pond,"Small population centre (1,000 to 29,999)",Fringe,Quebec,QC,"Roxton Pond, QC","Roxton Pond, QC, Canada",2301
+Population centre,Saint Grégoire,"Small population centre (1,000 to 29,999)",Fringe,Quebec,QC,"Saint Grégoire, QC","Saint Grégoire, QC, Canada",1400
+Population centre,Saint-Agapit,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Saint-Agapit, QC","Saint-Agapit, QC, Canada",2906
+Population centre,Saint-Alexandre,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Saint-Alexandre, QC","Saint-Alexandre, QC, Canada",1304
+Population centre,Saint-Alexandre,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Saint-Alexandre, QC","Saint-Alexandre, QC, Canada",1093
+Population centre,Saint-Alexis-des-Monts,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Saint-Alexis-des-Monts, QC","Saint-Alexis-des-Monts, QC, Canada",1546
+Population centre,Saint-Amable,"Small population centre (1,000 to 29,999)",Fringe,Quebec,QC,"Saint-Amable, QC","Saint-Amable, QC, Canada",9486
+Population centre,Saint-Ambroise,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Saint-Ambroise, QC","Saint-Ambroise, QC, Canada",1678
+Population centre,Saint-Ambroise-de-Kildare,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Saint-Ambroise-de-Kildare, QC","Saint-Ambroise-de-Kildare, QC, Canada",1655
+Population centre,Saint-André-Avellin,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Saint-André-Avellin, QC","Saint-André-Avellin, QC, Canada",1903
+Population centre,Saint-Anselme,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Saint-Anselme, QC","Saint-Anselme, QC, Canada",2541
+Population centre,Saint-Apollinaire,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Saint-Apollinaire, QC","Saint-Apollinaire, QC, Canada",3335
+Population centre,Saint-Augustin,"Small population centre (1,000 to 29,999)",Fringe,Quebec,QC,"Saint-Augustin, QC","Saint-Augustin, QC, Canada",9399
+Population centre,Saint-Basile-Sud,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Saint-Basile-Sud, QC","Saint-Basile-Sud, QC, Canada",1387
+Population centre,Saint-Bernard,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Saint-Bernard, QC","Saint-Bernard, QC, Canada",1075
+Population centre,Saint-Boniface,"Small population centre (1,000 to 29,999)",Fringe,Quebec,QC,"Saint-Boniface, QC","Saint-Boniface, QC, Canada",1035
+Population centre,Saint-Bruno,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Saint-Bruno, QC","Saint-Bruno, QC, Canada",1756
+Population centre,Saint-Canut,"Small population centre (1,000 to 29,999)",Fringe,Quebec,QC,"Saint-Canut, QC","Saint-Canut, QC, Canada",10643
+Population centre,Saint-Césaire,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Saint-Césaire, QC","Saint-Césaire, QC, Canada",3815
+Population centre,Saint-Charles,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Saint-Charles, QC","Saint-Charles, QC, Canada",1482
+Population centre,Saint-Chrysostome,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Saint-Chrysostome, QC","Saint-Chrysostome, QC, Canada",1218
+Population centre,Saint-Cyrille-de-Wendover,"Small population centre (1,000 to 29,999)",Fringe,Quebec,QC,"Saint-Cyrille-de-Wendover, QC","Saint-Cyrille-de-Wendover, QC, Canada",1216
+Population centre,Saint-Damase,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Saint-Damase, QC","Saint-Damase, QC, Canada",1138
+Population centre,Saint-Damien-de-Buckland,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Saint-Damien-de-Buckland, QC","Saint-Damien-de-Buckland, QC, Canada",1203
+Population centre,Saint-Donat-de-Montcalm,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Saint-Donat-de-Montcalm, QC","Saint-Donat-de-Montcalm, QC, Canada",1213
+Population centre,Saint-Elzéar,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Saint-Elzéar, QC","Saint-Elzéar, QC, Canada",1057
+Population centre,Saint-Éphrem-de-Tring,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Saint-Éphrem-de-Tring, QC","Saint-Éphrem-de-Tring, QC, Canada",1385
+Population centre,Saint-Fabien,"Small population centre (1,000 to 29,999)",Fringe,Quebec,QC,"Saint-Fabien, QC","Saint-Fabien, QC, Canada",1145
+Population centre,Saint-Félicien,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Saint-Félicien, QC","Saint-Félicien, QC, Canada",7096
+Population centre,Saint-Félix-de-Valois,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Saint-Félix-de-Valois, QC","Saint-Félix-de-Valois, QC, Canada",2978
+Population centre,Saint-Gabriel,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Saint-Gabriel, QC","Saint-Gabriel, QC, Canada",2664
+Population centre,Saint-Gédéon,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Saint-Gédéon, QC","Saint-Gédéon, QC, Canada",1542
+Population centre,Saint-Georges,"Small population centre (1,000 to 29,999)",Core,Quebec,QC,"Saint-Georges, QC","Saint-Georges, QC, Canada",26921
+Population centre,Saint-Germain-de-Grantham,"Small population centre (1,000 to 29,999)",Fringe,Quebec,QC,"Saint-Germain-de-Grantham, QC","Saint-Germain-de-Grantham, QC, Canada",3485
+Population centre,Saint-Henri-de-Lévis,"Small population centre (1,000 to 29,999)",Fringe,Quebec,QC,"Saint-Henri-de-Lévis, QC","Saint-Henri-de-Lévis, QC, Canada",1735
+Population centre,Saint-Honoré,"Small population centre (1,000 to 29,999)",Fringe,Quebec,QC,"Saint-Honoré, QC","Saint-Honoré, QC, Canada",2265
+Population centre,Saint-Hyacinthe,"Medium population centre (30,000 to 99,999)",Core,Quebec,QC,"Saint-Hyacinthe, QC","Saint-Hyacinthe, QC, Canada",50032
+Population centre,Saint-Jacques,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Saint-Jacques, QC","Saint-Jacques, QC, Canada",2126
+Population centre,Saint-Jean-Baptiste,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Saint-Jean-Baptiste, QC","Saint-Jean-Baptiste, QC, Canada",1703
+Population centre,Saint-Jean-Port-Joli,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Saint-Jean-Port-Joli, QC","Saint-Jean-Port-Joli, QC, Canada",1407
+Population centre,Saint-Jean-sur-Richelieu,"Medium population centre (30,000 to 99,999)",Secondary core,Quebec,QC,"Saint-Jean-sur-Richelieu, QC","Saint-Jean-sur-Richelieu, QC, Canada",84685
+Population centre,Saint-Jérôme,"Medium population centre (30,000 to 99,999)",Secondary core,Quebec,QC,"Saint-Jérôme, QC","Saint-Jérôme, QC, Canada",77146
+Population centre,Saint-Joseph-de-Beauce,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Saint-Joseph-de-Beauce, QC","Saint-Joseph-de-Beauce, QC, Canada",3695
+Population centre,Saint-Joseph-de-Lanoraie,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Saint-Joseph-de-Lanoraie, QC","Saint-Joseph-de-Lanoraie, QC, Canada",2576
+Population centre,Saint-Jovite,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Saint-Jovite, QC","Saint-Jovite, QC, Canada",5515
+Population centre,Saint-Léonard-d'Aston,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Saint-Léonard-d'Aston, QC","Saint-Léonard-d'Aston, QC, Canada",1336
+Population centre,Saint-Liboire,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Saint-Liboire, QC","Saint-Liboire, QC, Canada",1775
+Population centre,Saint-Marc-des-Carrières,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Saint-Marc-des-Carrières, QC","Saint-Marc-des-Carrières, QC, Canada",2134
+Population centre,Saint-Martin,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Saint-Martin, QC","Saint-Martin, QC, Canada",1582
+Population centre,Saint-Michel,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Saint-Michel, QC","Saint-Michel, QC, Canada",1558
+Population centre,Saint-Michel-de-Bellechasse,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Saint-Michel-de-Bellechasse, QC","Saint-Michel-de-Bellechasse, QC, Canada",1146
+Population centre,Saint-Michel-des-Saints,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Saint-Michel-des-Saints, QC","Saint-Michel-des-Saints, QC, Canada",1131
+Population centre,Saint-Pascal,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Saint-Pascal, QC","Saint-Pascal, QC, Canada",2471
+Population centre,Saint-Pie,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Saint-Pie, QC","Saint-Pie, QC, Canada",2980
+Population centre,Saint-Polycarpe,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Saint-Polycarpe, QC","Saint-Polycarpe, QC, Canada",1165
+Population centre,Saint-Prime,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Saint-Prime, QC","Saint-Prime, QC, Canada",1021
+Population centre,Saint-Prosper,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Saint-Prosper, QC","Saint-Prosper, QC, Canada",2319
+Population centre,Saint-Raphaël,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Saint-Raphaël, QC","Saint-Raphaël, QC, Canada",1113
+Population centre,Saint-Raymond,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Saint-Raymond, QC","Saint-Raymond, QC, Canada",3227
+Population centre,Saint-Rémi,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Saint-Rémi, QC","Saint-Rémi, QC, Canada",6891
+Population centre,Saint-Roch-de-l'Achigan,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Saint-Roch-de-l'Achigan, QC","Saint-Roch-de-l'Achigan, QC, Canada",1373
+Population centre,Saint-Sauveur-des-Monts,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Saint-Sauveur-des-Monts, QC","Saint-Sauveur-des-Monts, QC, Canada",7849
+Population centre,Saint-Sulpice,"Small population centre (1,000 to 29,999)",Fringe,Quebec,QC,"Saint-Sulpice, QC","Saint-Sulpice, QC, Canada",1753
+Population centre,Saint-Thomas,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Saint-Thomas, QC","Saint-Thomas, QC, Canada",1395
+Population centre,Saint-Tite,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Saint-Tite, QC","Saint-Tite, QC, Canada",2381
+Population centre,Sainte-Adèle,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Sainte-Adèle, QC","Sainte-Adèle, QC, Canada",5786
+Population centre,Sainte-Agathe-des-Monts - Val-David,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Sainte-Agathe-des-Monts - Val-David, QC","Sainte-Agathe-des-Monts - Val-David, QC, Canada",11108
+Population centre,Sainte-Anne-des-Monts,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Sainte-Anne-des-Monts, QC","Sainte-Anne-des-Monts, QC, Canada",3277
+Population centre,Sainte-Anne-des-Plaines,"Small population centre (1,000 to 29,999)",Secondary core,Quebec,QC,"Sainte-Anne-des-Plaines, QC","Sainte-Anne-des-Plaines, QC, Canada",10865
+Population centre,Sainte-Brigitte-de-Laval,"Small population centre (1,000 to 29,999)",Fringe,Quebec,QC,"Sainte-Brigitte-de-Laval, QC","Sainte-Brigitte-de-Laval, QC, Canada",3917
+Population centre,Sainte-Catherine-de-la-Jacques-Cartier,"Small population centre (1,000 to 29,999)",Fringe,Quebec,QC,"Sainte-Catherine-de-la-Jacques-Cartier, QC","Sainte-Catherine-de-la-Jacques-Cartier, QC, Canada",1633
+Population centre,Sainte-Claire,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Sainte-Claire, QC","Sainte-Claire, QC, Canada",2389
+Population centre,Sainte-Croix,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Sainte-Croix, QC","Sainte-Croix, QC, Canada",1401
+Population centre,Sainte-Julienne,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Sainte-Julienne, QC","Sainte-Julienne, QC, Canada",3263
+Population centre,Sainte-Justine,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Sainte-Justine, QC","Sainte-Justine, QC, Canada",1077
+Population centre,Sainte-Madeleine,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Sainte-Madeleine, QC","Sainte-Madeleine, QC, Canada",1959
+Population centre,Sainte-Marie,"Small population centre (1,000 to 29,999)",Core,Quebec,QC,"Sainte-Marie, QC","Sainte-Marie, QC, Canada",11083
+Population centre,Sainte-Martine,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Sainte-Martine, QC","Sainte-Martine, QC, Canada",3931
+Population centre,Sainte-Thècle,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Sainte-Thècle, QC","Sainte-Thècle, QC, Canada",1333
+Population centre,Salaberry-de-Valleyfield,"Medium population centre (30,000 to 99,999)",Core,Quebec,QC,"Salaberry-de-Valleyfield, QC","Salaberry-de-Valleyfield, QC, Canada",39048
+Population centre,Salluit,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Salluit, QC","Salluit, QC, Canada",1075
+Population centre,Senneterre,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Senneterre, QC","Senneterre, QC, Canada",2239
+Population centre,Sept-Îles,"Small population centre (1,000 to 29,999)",Core,Quebec,QC,"Sept-Îles, QC","Sept-Îles, QC, Canada",22218
+Population centre,Shannon,"Small population centre (1,000 to 29,999)",Fringe,Quebec,QC,"Shannon, QC","Shannon, QC, Canada",2846
+Population centre,Shawinigan,"Medium population centre (30,000 to 99,999)",Core,Quebec,QC,"Shawinigan, QC","Shawinigan, QC, Canada",38211
+Population centre,Shawville,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Shawville, QC","Shawville, QC, Canada",1203
+Population centre,Sherbrooke,"Large urban population centre (100,000 or more)",Core,Quebec,QC,"Sherbrooke, QC","Sherbrooke, QC, Canada",139565
+Population centre,Sorel,"Medium population centre (30,000 to 99,999)",Core,Quebec,QC,"Sorel, QC","Sorel, QC, Canada",36088
+Population centre,Stanstead,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Stanstead, QC","Stanstead, QC, Canada",1475
+Population centre,Stoneham,"Small population centre (1,000 to 29,999)",Fringe,Quebec,QC,"Stoneham, QC","Stoneham, QC, Canada",1854
+Population centre,Témiscaming,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Témiscaming, QC","Témiscaming, QC, Canada",1361
+Population centre,Terrasse-des-Pins,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Terrasse-des-Pins, QC","Terrasse-des-Pins, QC, Canada",4268
+Population centre,Thetford Mines,"Small population centre (1,000 to 29,999)",Core,Quebec,QC,"Thetford Mines, QC","Thetford Mines, QC, Canada",16174
+Population centre,Thurso,"Small population centre (1,000 to 29,999)",Fringe,Quebec,QC,"Thurso, QC","Thurso, QC, Canada",2533
+Population centre,Trois-Pistoles,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Trois-Pistoles, QC","Trois-Pistoles, QC, Canada",3058
+Population centre,Trois-Rivières,"Large urban population centre (100,000 or more)",Core,Quebec,QC,"Trois-Rivières, QC","Trois-Rivières, QC, Canada",114203
+Population centre,Val-d'Or,"Small population centre (1,000 to 29,999)",Core,Quebec,QC,"Val-d'Or, QC","Val-d'Or, QC, Canada",25541
+Population centre,Val-Maher,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Val-Maher, QC","Val-Maher, QC, Canada",1668
+Population centre,Valcourt,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Valcourt, QC","Valcourt, QC, Canada",1806
+Population centre,Vallée-Jonction,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Vallée-Jonction, QC","Vallée-Jonction, QC, Canada",1268
+Population centre,Varennes,"Small population centre (1,000 to 29,999)",Secondary core,Quebec,QC,"Varennes, QC","Varennes, QC, Canada",20575
+Population centre,Verchères,"Small population centre (1,000 to 29,999)",Fringe,Quebec,QC,"Verchères, QC","Verchères, QC, Canada",4429
+Population centre,Victoriaville,"Medium population centre (30,000 to 99,999)",Core,Quebec,QC,"Victoriaville, QC","Victoriaville, QC, Canada",44735
+Population centre,Ville Lambert,"Small population centre (1,000 to 29,999)",Fringe,Quebec,QC,"Ville Lambert, QC","Ville Lambert, QC, Canada",2443
+Population centre,Ville-Marie,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Ville-Marie, QC","Ville-Marie, QC, Canada",2113
+Population centre,Warwick,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Warwick, QC","Warwick, QC, Canada",3200
+Population centre,Waskaganish,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Waskaganish, QC","Waskaganish, QC, Canada",1839
+Population centre,Waterloo,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Waterloo, QC","Waterloo, QC, Canada",3401
+Population centre,Wemotaci,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Wemotaci, QC","Wemotaci, QC, Canada",1038
+Population centre,Windsor,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Quebec,QC,"Windsor, QC","Windsor, QC, Canada",5064
+Population centre,Yamachiche,"Small population centre (1,000 to 29,999)",Fringe,Quebec,QC,"Yamachiche, QC","Yamachiche, QC, Canada",1240
+Population centre,Assiniboia,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Saskatchewan,SK,"Assiniboia, SK","Assiniboia, SK, Canada",2389
+Population centre,Balgonie,"Small population centre (1,000 to 29,999)",Fringe,Saskatchewan,SK,"Balgonie, SK","Balgonie, SK, Canada",1745
+Population centre,Battleford,"Small population centre (1,000 to 29,999)",Fringe,Saskatchewan,SK,"Battleford, SK","Battleford, SK, Canada",3750
+Population centre,Biggar,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Saskatchewan,SK,"Biggar, SK","Biggar, SK, Canada",2165
+Population centre,Birch Hills,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Saskatchewan,SK,"Birch Hills, SK","Birch Hills, SK, Canada",1033
+Population centre,Canora,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Saskatchewan,SK,"Canora, SK","Canora, SK, Canada",1700
+Population centre,Carlyle,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Saskatchewan,SK,"Carlyle, SK","Carlyle, SK, Canada",1503
+Population centre,Carnduff,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Saskatchewan,SK,"Carnduff, SK","Carnduff, SK, Canada",1023
+Population centre,Dalmeny,"Small population centre (1,000 to 29,999)",Fringe,Saskatchewan,SK,"Dalmeny, SK","Dalmeny, SK, Canada",1769
+Population centre,Delisle,"Small population centre (1,000 to 29,999)",Fringe,Saskatchewan,SK,"Delisle, SK","Delisle, SK, Canada",1038
+Population centre,Esterhazy,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Saskatchewan,SK,"Esterhazy, SK","Esterhazy, SK, Canada",2367
+Population centre,Estevan,"Small population centre (1,000 to 29,999)",Core,Saskatchewan,SK,"Estevan, SK","Estevan, SK, Canada",11258
+Population centre,Flin Flon (Saskatchewan part),,,Saskatchewan,SK,"Flin Flon (Saskatchewan part), SK","Flin Flon (Saskatchewan part), SK, Canada",143
+Population centre,Foam Lake,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Saskatchewan,SK,"Foam Lake, SK","Foam Lake, SK, Canada",1022
+Population centre,Fort Qu'Appelle,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Saskatchewan,SK,"Fort Qu'Appelle, SK","Fort Qu'Appelle, SK, Canada",1920
+Population centre,Hudson Bay,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Saskatchewan,SK,"Hudson Bay, SK","Hudson Bay, SK, Canada",1306
+Population centre,Humboldt,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Saskatchewan,SK,"Humboldt, SK","Humboldt, SK, Canada",4872
+Population centre,Indian Head,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Saskatchewan,SK,"Indian Head, SK","Indian Head, SK, Canada",1802
+Population centre,Kamsack,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Saskatchewan,SK,"Kamsack, SK","Kamsack, SK, Canada",1775
+Population centre,Kimosom Pwatinahk 203 (Deschambault Lake),"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Saskatchewan,SK,"Kimosom Pwatinahk 203 (Deschambault Lake), SK","Kimosom Pwatinahk 203 (Deschambault Lake), SK, Canada",1046
+Population centre,Kindersley,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Saskatchewan,SK,"Kindersley, SK","Kindersley, SK, Canada",3052
+Population centre,La Ronge,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Saskatchewan,SK,"La Ronge, SK","La Ronge, SK, Canada",5671
+Population centre,Langham,"Small population centre (1,000 to 29,999)",Fringe,Saskatchewan,SK,"Langham, SK","Langham, SK, Canada",1319
+Population centre,Lanigan,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Saskatchewan,SK,"Lanigan, SK","Lanigan, SK, Canada",1213
+Population centre,Lloydminster (Saskatchewan part),,,Saskatchewan,SK,"Lloydminster (Saskatchewan part), SK","Lloydminster (Saskatchewan part), SK, Canada",11755
+Population centre,Lumsden,"Small population centre (1,000 to 29,999)",Fringe,Saskatchewan,SK,"Lumsden, SK","Lumsden, SK, Canada",1824
+Population centre,Macklin,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Saskatchewan,SK,"Macklin, SK","Macklin, SK, Canada",1193
+Population centre,Maple Creek,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Saskatchewan,SK,"Maple Creek, SK","Maple Creek, SK, Canada",2074
+Population centre,Martensville,"Small population centre (1,000 to 29,999)",Fringe,Saskatchewan,SK,"Martensville, SK","Martensville, SK, Canada",9533
+Population centre,Meadow Lake,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Saskatchewan,SK,"Meadow Lake, SK","Meadow Lake, SK, Canada",5266
+Population centre,Melfort,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Saskatchewan,SK,"Melfort, SK","Melfort, SK, Canada",5778
+Population centre,Melville,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Saskatchewan,SK,"Melville, SK","Melville, SK, Canada",4127
+Population centre,Moose Jaw,"Medium population centre (30,000 to 99,999)",Core,Saskatchewan,SK,"Moose Jaw, SK","Moose Jaw, SK, Canada",32724
+Population centre,Moosomin,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Saskatchewan,SK,"Moosomin, SK","Moosomin, SK, Canada",2548
+Population centre,Nipawin,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Saskatchewan,SK,"Nipawin, SK","Nipawin, SK, Canada",3989
+Population centre,North Battleford,"Small population centre (1,000 to 29,999)",Core,Saskatchewan,SK,"North Battleford, SK","North Battleford, SK, Canada",13567
+Population centre,Osler,"Small population centre (1,000 to 29,999)",Fringe,Saskatchewan,SK,"Osler, SK","Osler, SK, Canada",1237
+Population centre,Outlook,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Saskatchewan,SK,"Outlook, SK","Outlook, SK, Canada",1829
+Population centre,Oxbow,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Saskatchewan,SK,"Oxbow, SK","Oxbow, SK, Canada",1126
+Population centre,Pelican Narrows,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Saskatchewan,SK,"Pelican Narrows, SK","Pelican Narrows, SK, Canada",1942
+Population centre,Pilot Butte,"Small population centre (1,000 to 29,999)",Fringe,Saskatchewan,SK,"Pilot Butte, SK","Pilot Butte, SK, Canada",1800
+Population centre,Prince Albert,"Medium population centre (30,000 to 99,999)",Core,Saskatchewan,SK,"Prince Albert, SK","Prince Albert, SK, Canada",35102
+Population centre,Regina,"Large urban population centre (100,000 or more)",Core,Saskatchewan,SK,"Regina, SK","Regina, SK, Canada",214631
+Population centre,Regina Beach,"Small population centre (1,000 to 29,999)",Fringe,Saskatchewan,SK,"Regina Beach, SK","Regina Beach, SK, Canada",1629
+Population centre,Rosetown,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Saskatchewan,SK,"Rosetown, SK","Rosetown, SK, Canada",2331
+Population centre,Rosthern,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Saskatchewan,SK,"Rosthern, SK","Rosthern, SK, Canada",1488
+Population centre,Saskatoon,"Large urban population centre (100,000 or more)",Core,Saskatchewan,SK,"Saskatoon, SK","Saskatoon, SK, Canada",245181
+Population centre,Shaunavon,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Saskatchewan,SK,"Shaunavon, SK","Shaunavon, SK, Canada",1699
+Population centre,Shellbrook,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Saskatchewan,SK,"Shellbrook, SK","Shellbrook, SK, Canada",1277
+Population centre,Stanley 157,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Saskatchewan,SK,"Stanley 157, SK","Stanley 157, SK, Canada",1545
+Population centre,Swift Current,"Small population centre (1,000 to 29,999)",Core,Saskatchewan,SK,"Swift Current, SK","Swift Current, SK, Canada",16022
+Population centre,Tisdale,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Saskatchewan,SK,"Tisdale, SK","Tisdale, SK, Canada",3136
+Population centre,Unity,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Saskatchewan,SK,"Unity, SK","Unity, SK, Canada",2475
+Population centre,Wadena,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Saskatchewan,SK,"Wadena, SK","Wadena, SK, Canada",1134
+Population centre,Warman,"Small population centre (1,000 to 29,999)",Fringe,Saskatchewan,SK,"Warman, SK","Warman, SK, Canada",10961
+Population centre,Watrous,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Saskatchewan,SK,"Watrous, SK","Watrous, SK, Canada",1865
+Population centre,Weyburn,"Small population centre (1,000 to 29,999)",Core,Saskatchewan,SK,"Weyburn, SK","Weyburn, SK, Canada",10679
+Population centre,White City,"Small population centre (1,000 to 29,999)",Fringe,Saskatchewan,SK,"White City, SK","White City, SK, Canada",4234
+Population centre,Wilkie,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Saskatchewan,SK,"Wilkie, SK","Wilkie, SK, Canada",1149
+Population centre,Wynyard,"Small population centre (1,000 to 29,999)",Population centre outside metropolitan area / census agglomerations,Saskatchewan,SK,"Wynyard, SK","Wynyard, SK, Canada",1732
+Population centre,Yorkton,"Small population centre (1,000 to 29,999)",Core,Saskatchewan,SK,"Yorkton, SK","Yorkton, SK, Canada",16041
+Population centre,Whitehorse,"Small population centre (1,000 to 29,999)",Core,Yukon,YT,"Whitehorse, YT","Whitehorse, YT, Canada",21732

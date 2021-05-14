@@ -1,0 +1,2543 @@
+incident_id,variable,tag
+1,target_community,anti-black
+1,sub_category,hate speech
+2,target_community,anti-muslim
+2,sub_category,vandalism
+3,target_community,anti-indigenous
+3,sub_category,hate speech
+4,target_community,anti-black
+4,sub_category,hate speech
+5,target_community,anti-sikh
+5,target_community,anti-indian
+5,sub_category,harassment
+6,target_community,white supremacists
+6,sub_category,race relations
+7,target_community,anti-semitic
+7,sub_category,race relations
+8,target_community,anti-indigenous
+8,sub_category,race relations
+9,target_community,white supremacists
+9,sub_category,race relations
+10,target_community,anti-muslim
+10,sub_category,race relations
+11,target_community,white supremacists
+11,sub_category,hate speech
+12,target_community,anti-muslim
+12,sub_category,hate crime
+12,sub_category,vandalism
+12,category,police investigation
+13,sub_category,false allegations of being a victim of racist threats
+14,target_community,anti-indigenous
+14,sub_category,race relations
+15,target_community,anti-black
+15,sub_category,race relations
+16,target_community,anti-indigenous
+16,sub_category,race relations
+17,target_community,anti-indigenous
+17,sub_category,race relations
+18,target_community,anti-black
+18,sub_category,race relations
+19,target_community,anti-semitic
+19,target_community,anti-black
+19,sub_category,hate crime
+19,sub_category,vandalism
+19,category,police investigation
+20,target_community,anti-indigenous
+20,sub_category,murder
+21,target_community,anti-indigenous
+21,sub_category,race relations
+21,category,public hearing
+22,target_community,anti-indigenous
+22,sub_category,hate speech
+23,target_community,anti-black
+23,sub_category,human rights complaint
+24,target_community,anti-muslim
+24,target_community,anti-immigration
+24,sub_category,race relations
+25,target_community,anti-indigenous
+25,sub_category,race relations
+26,sub_category,constitutional challenge
+27,target_community,anti-muslim
+27,sub_category,vandalism
+28,target_community,anti-black
+28,sub_category,vandalism
+29,target_community,anti-semitic
+29,sub_category,hate crime
+30,sub_category,race relations
+31,sub_category,race relations
+31,category,class action lawsuit
+32,target_community,anti-indigenous
+32,sub_category,race relations
+32,sub_category,murder
+33,target_community,anti-racism
+33,sub_category,race relations
+34,target_community,anti-indigenous
+34,sub_category,hate crime
+35,target_community,anti-indigenous
+35,sub_category,race relations
+36,target_community,anti-asian
+36,sub_category,race relations
+37,target_community,anti-racism
+37,sub_category,race relations
+38,target_community,anti-black
+38,sub_category,race relations
+39,sub_category,race relations
+39,category,human rights complaint
+40,target_community,anti-indigenous
+40,sub_category,race relations
+40,category,appeal court decision
+41,target_community,anti-indigenous
+41,sub_category,vandalism
+42,target_community,anti-indigenous
+42,sub_category,race relations
+43,target_community,anti-indigenous
+43,sub_category,race relations
+44,target_community,anti-black
+44,sub_category,race relations
+45,target_community,anti-black
+45,sub_category,race relations
+45,category,allegations against police
+46,target_community,anti-indigenous
+46,sub_category,race relations
+47,target_community,anti-black
+47,sub_category,race relations
+47,category,human rights case
+48,target_community,anti-sikh
+48,sub_category,race relations
+49,target_community,anti-semitic
+49,sub_category,vandalism
+49,category,police investigation
+50,target_community,anti-indigenous
+50,sub_category,race relations
+51,target_community,anti-racism
+51,sub_category,race relations
+52,target_community,anti-asian
+52,sub_category,race relations
+52,category,human rights tribunal of ontario
+53,target_community,anti-sikh
+53,sub_category,hate crime
+53,category,police investigation
+54,target_community,anti-christian
+54,sub_category,vandalism
+54,sub_category,hate crime
+55,target_community,anti-semitic
+55,sub_category,vandalism
+55,sub_category,hate crime
+55,category,police investigation
+56,target_community,anti-black
+56,sub_category,race relations
+57,target_community,anti-indigenous
+57,sub_category,race relations
+58,target_community,anti-muslim
+58,sub_category,hate crime
+58,category,police investigation
+59,target_community,anti-black
+59,sub_category,race relations
+59,category,human rights complaint
+60,target_community,anti-indigenous
+60,sub_category,race relations
+60,category,investigation
+61,target_community,anti-indigenous
+61,sub_category,race relations
+62,target_community,anti-black
+62,sub_category,race relations
+63,target_community,anti-muslim
+63,sub_category,race relations
+64,sub_category,hate crime
+64,sub_category,vandalism
+64,category,police investigation
+65,target_community,anti-sikh
+65,sub_category,hate crime (assault)
+66,target_community,anti-muslim
+66,sub_category,race relations
+67,target_community,anti-black
+67,sub_category,race relations
+68,target_community,anti-muslim
+68,target_community,anti-indian
+68,sub_category,race relations
+68,category,human rights tribunal of ontario
+69,target_community,anti-asian
+69,sub_category,race relations
+70,target_community,anti-muslim
+70,sub_category,race relations
+71,target_community,anti-black
+71,sub_category,race relations
+72,target_community,anti-muslim
+72,sub_category,race relations
+72,category,disciplinary hearing
+72,category,lawsuit
+73,target_community,anti-racism
+73,sub_category,race relations
+74,target_community,anti-racism
+74,target_community,anti-immigration
+74,sub_category,race relations
+75,target_community,anti-black
+75,sub_category,race relations
+75,category,human rights complaint
+76,target_community,anti-indigenous
+76,sub_category,race relations
+77,target_community,anti-black
+77,sub_category,race relations
+78,target_community,anti-racism
+78,sub_category,race relations
+79,target_community,anti-indigenous
+79,sub_category,race relations
+80,target_community,anti-indigenous
+80,sub_category,race relations
+81,target_community,anti-semitic
+81,target_community,anti-black
+81,sub_category,hate crime
+81,sub_category,vandalism
+82,target_community,anti-black
+82,sub_category,race relations
+83,target_community,anti-black
+83,sub_category,race relations
+83,category,complaint police ethics board
+83,category,quebec human rights commission
+84,target_community,anti-muslim
+84,sub_category,race relations
+85,target_community,anti-racism
+85,sub_category,race relations
+86,target_community,anti-immigration
+86,sub_category,hate speech
+87,target_community,anti-black
+87,sub_category,race relations
+88,target_community,anti-racism
+88,sub_category,race relations
+89,target_community,anti-black
+89,sub_category,race relations
+90,target_community,anti-semitic
+90,sub_category,race relations
+91,target_community,anti-racism
+91,sub_category,race relations
+92,target_community,white supremacists
+92,target_community,anti-racism
+92,sub_category,race relations
+93,target_community,anti-indigenous
+93,sub_category,race relations
+94,target_community,anti-indigenous
+94,sub_category,race relations
+95,target_community,anti-semitic
+95,sub_category,race relations
+96,target_community,anti-muslim
+96,sub_category,hate crime
+97,target_community,anti-muslim
+97,sub_category,race relations
+98,target_community,anti-black
+98,sub_category,race relations
+99,target_community,anti-indigenous
+99,sub_category,race relations
+100,target_community,anti-black
+100,sub_category,race relations
+101,target_community,anti-black
+101,sub_category,race relations
+102,target_community,anti-racism
+102,sub_category,race relations
+103,target_community,anti-indigenous
+103,sub_category,race relations
+104,target_community,anti-racism
+104,sub_category,race relations
+105,target_community,anti-black
+105,sub_category,race relations
+105,category,internal investigation
+106,target_community,anti-black
+106,sub_category,race relations
+106,category,police complaint
+107,target_community,anti-semitic
+107,sub_category,vandalism
+107,category,open investigation
+108,target_community,anti-indigenous
+108,sub_category,race relations
+109,target_community,anti-muslim
+109,sub_category,vandalism
+109,sub_category,hate crime
+110,target_community,anti-indigenous
+110,sub_category,vandalism
+110,sub_category,hate crime
+111,target_community,anti-racism
+111,sub_category,race relations
+112,target_community,anti-immigration
+112,sub_category,vandalism
+113,target_community,anti-discrimination
+113,sub_category,race relations
+114,target_community,anti-indigenous
+114,sub_category,race relations
+115,target_community,anti-asian
+115,sub_category,race relations
+116,target_community,anti-immigration
+116,sub_category,race relations
+116,category,police investigation
+117,target_community,anti-sikh
+117,sub_category,race relations
+118,target_community,anti-black
+118,sub_category,race relations
+119,target_community,anti-immigration
+119,sub_category,race relations
+120,target_community,anti-black
+120,sub_category,race relations
+121,target_community,anti-muslim
+121,sub_category,hate crime
+122,target_community,anti-immigration
+122,sub_category,hate crime
+122,category,however victim didn’t file a charge
+123,target_community,anti-black
+123,sub_category,race relations
+124,target_community,anti-black
+124,target_community,anti-immigration
+124,sub_category,race relations
+125,target_community,anti-muslim
+125,sub_category,hate speech
+126,target_community,anti-muslim
+126,sub_category,race relations
+127,target_community,anti-immigration
+127,sub_category,race relations
+128,target_community,anti-indigenous
+128,sub_category,hate crime
+129,target_community,anti-indigenous
+129,sub_category,race relations
+130,target_community,anti-black
+130,sub_category,race relations
+131,target_community,anti-indian
+131,target_community,anti-immigration
+131,sub_category,hate speech
+132,target_community,anti-black
+132,sub_category,race relations
+132,category,lawsuit
+133,target_community,anti-muslim
+133,sub_category,hate speech
+134,sub_category,race relations
+135,target_community,anti-racism
+135,sub_category,race relations
+136,target_community,anti-muslim
+136,sub_category,hate crime
+137,target_community,anti-indigenous
+137,sub_category,race relations
+138,target_community,anti-black
+138,sub_category,race relations
+139,target_community,anti-semitic
+139,sub_category,vandalism
+139,category,police investigation
+140,target_community,anti-indigenous
+140,sub_category,hate speech
+141,target_community,anti-asian
+141,sub_category,hate speech
+142,target_community,anti-asian
+142,sub_category,race relations
+142,sub_category,vandalism
+143,target_community,anti-semitic
+143,sub_category,vandalism
+144,target_community,anti-racism
+144,sub_category,race relations
+145,target_community,anti-semitic
+145,sub_category,race relations
+146,target_community,anti-indigenous
+146,sub_category,race relations
+146,category,police investigation
+147,target_community,anti-immigration
+147,sub_category,race relations
+148,target_community,anti-indian
+148,target_community,anti-immigration
+148,sub_category,hate speech
+148,category,police investigation
+149,target_community,anti-semitic
+149,sub_category,harassment
+150,target_community,anti-black
+150,sub_category,vandalism
+151,target_community,anti-indigenous
+151,sub_category,race relations
+152,target_community,anti-indigenous
+152,sub_category,race relations
+152,category,hr investigation
+153,target_community,anti-muslim
+153,sub_category,race relations
+154,target_community,anti-semitic
+154,sub_category,race relations
+155,target_community,anti-racism
+155,sub_category,race relations
+156,target_community,white supremacists
+156,target_community,anti-immigration
+156,sub_category,race relations
+157,target_community,anti-black
+157,sub_category,vandalism
+157,sub_category,hate crime
+158,target_community,anti-immigration
+158,sub_category,race relations
+159,target_community,anti-indian
+159,sub_category,race relations
+159,sub_category,hate speech
+159,category,police complaint
+160,target_community,anti-indigenous
+160,sub_category,race relations
+160,category,human rights complaint
+161,target_community,anti-immigration
+161,sub_category,race relations
+162,target_community,anti-indigenous
+162,sub_category,race relations
+163,target_community,anti-racism
+163,sub_category,vandalism
+164,target_community,anti-semitic
+164,sub_category,hate crime
+164,sub_category,vandalism
+165,target_community,anti-racism
+165,sub_category,race relations
+166,target_community,anti-black
+166,sub_category,race relations
+167,target_community,anti-muslim
+167,sub_category,race relations
+167,category,police investigation
+168,target_community,anti-indian
+168,sub_category,hate speech
+168,category,charged with mischief and causing disturbance
+169,target_community,anti-indigenous
+169,sub_category,race relations
+170,target_community,anti-black
+170,target_community,anti-semitic
+170,sub_category,hate crime
+170,category,police investigation
+171,target_community,anti-muslim
+171,sub_category,race relations
+172,target_community,anti-muslim
+172,sub_category,race relations
+173,target_community,anti-black
+173,sub_category,race relations
+174,target_community,anti-asian
+174,sub_category,hate speech
+175,target_community,anti-indigenous
+175,sub_category,race relations
+176,target_community,anti-indigenous
+176,sub_category,race relations
+177,target_community,anti-black
+177,sub_category,race relations
+178,target_community,anti-black
+178,sub_category,race relations
+179,target_community,anti-immigration
+179,sub_category,race relations
+180,target_community,anti-semitic
+180,sub_category,vandalism
+180,category,police investigation
+181,target_community,anti-indigenous
+181,sub_category,race relations
+182,target_community,anti-immigration
+182,sub_category,race relations
+182,category,political campaign
+183,target_community,anti-black
+183,sub_category,race relations
+184,target_community,anti-asian
+184,sub_category,hate speech
+185,target_community,anti-white
+185,sub_category,race relations
+185,sub_category,hate speech
+185,category,human rights tribunal
+186,target_community,white supremacists
+186,sub_category,race relations
+186,sub_category,hate speech
+187,target_community,white supremacists
+187,sub_category,race relations
+188,target_community,anti-muslim
+188,sub_category,vandalism
+189,sub_category,harassment
+189,sub_category,assault
+190,target_community,anti-racism
+190,sub_category,race relations
+191,target_community,anti-black
+191,sub_category,harassment
+192,target_community,anti-muslim
+192,sub_category,race relations rally
+193,target_community,anti-black
+193,sub_category,race relations
+194,target_community,anti-racism
+194,sub_category,vandalism
+195,target_community,anti-racism
+195,sub_category,race relations
+196,target_community,anti-muslim
+196,sub_category,race relations
+197,target_community,anti-immigration
+197,target_community,white supremacists
+197,sub_category,race relations
+198,target_community,anti-indigenous
+198,sub_category,race relations rally
+199,sub_category,race relations
+199,category,political campaign
+200,target_community,anti-racism
+200,sub_category,race relations rally
+201,sub_category,racial allegations
+201,category,military investigation
+202,target_community,white supremacists
+202,sub_category,race relations
+202,category,political campaign
+203,target_community,anti-black
+203,sub_category,race relations
+203,category,political campaign
+204,target_community,anti-racism
+204,sub_category,race relations
+204,category,political
+205,target_community,white supremacists
+205,sub_category,race relations
+206,target_community,anti-racism
+206,sub_category,race relations
+207,target_community,anti-indigenous
+207,sub_category,harassment
+208,target_community,anti-muslim
+208,sub_category,hate crime
+209,target_community,anti-racism
+209,sub_category,race relations
+209,category,political
+210,target_community,anti-black
+210,sub_category,race relations
+211,target_community,anti-indigenous
+211,sub_category,race relations
+212,target_community,anti-muslim
+212,sub_category,vandalism
+212,category,police investigation
+213,target_community,anti-sikh
+213,sub_category,race relations
+214,sub_category,hate crime
+214,category,police investigation
+215,target_community,anti-black
+215,sub_category,race relations
+216,target_community,anti-racism
+216,sub_category,race relations
+216,category,rally
+217,target_community,anti-black
+217,sub_category,race relations
+218,target_community,anti-black
+218,sub_category,race relations
+219,target_community,anti-indigenous
+219,sub_category,race relations
+220,target_community,white supremacists
+220,sub_category,race relations
+220,category,political
+221,target_community,white supremacists
+221,sub_category,hate speech
+222,target_community,white supremacists
+222,target_community,anti-muslim
+222,sub_category,hate speech
+222,sub_category,race relations
+223,sub_category,assault
+223,sub_category,hate speech
+224,target_community,anti-indigenous
+224,sub_category,hate speech
+225,target_community,white supremacists
+225,sub_category,hate speech
+225,category,police investigation
+226,target_community,anti-black
+226,sub_category,race relations
+226,category,investigation
+227,target_community,white supremacists
+227,sub_category,rally
+228,target_community,white supremacists
+228,sub_category,hate speech
+229,target_community,anti-racism
+229,sub_category,rally
+230,target_community,anti-asian
+230,target_community,anti-indian
+230,sub_category,hate speech
+231,target_community,white supremacists
+231,sub_category,hate speech
+232,target_community,anti-muslim
+232,sub_category,vandalism
+232,sub_category,hate speech
+233,target_community,anti-racism
+233,sub_category,race relations
+234,target_community,white supremacists
+234,sub_category,race relations
+234,category,military investigation
+235,target_community,anti-semitic
+235,sub_category,hate crime
+235,category,police investigation
+236,target_community,other (antifa)
+236,sub_category,vandalism
+237,target_community,anti-black
+237,sub_category,race relations
+237,category,human rights tribunal
+238,target_community,white supremacists
+238,sub_category,hate speech
+238,category,pending charge
+239,target_community,anti-sikh
+239,sub_category,hate speech
+240,target_community,anti-sikh
+240,sub_category,vandalism
+240,sub_category,hate speech
+241,target_community,anti-asian
+241,sub_category,hate speech
+242,target_community,anti-indigenous
+242,sub_category,discrimination at work
+242,category,pending litigation
+243,target_community,anti-semitic
+243,sub_category,hate crime
+243,sub_category,race relations
+243,category,human rights tribunal
+244,target_community,anti-indian
+244,sub_category,discrimination at work
+244,category,human rights tribunal
+245,target_community,anti-immigration
+245,sub_category,hate speech
+245,category,police investigation
+246,target_community,anti-indigenous
+246,sub_category,hate speech
+247,target_community,anti-black
+247,sub_category,race relations
+248,target_community,anti-indigenous
+248,sub_category,race relations
+248,category,nc investigation
+249,target_community,anti-black
+249,sub_category,race relations
+249,category,pending litigation
+250,target_community,anti-black
+250,sub_category,hate speech
+250,category,military investigation
+251,target_community,anti-black
+251,sub_category,hate speech
+252,target_community,anti-black
+252,sub_category,race relations
+253,target_community,anti-indigenous
+253,sub_category,race relations
+254,target_community,anti-immigration
+254,sub_category,hate speech
+255,target_community,anti-indigenous
+255,sub_category,hate speech
+256,target_community,anti-indigenous
+256,sub_category,race relations
+256,category,police investigation
+257,target_community,anti-black
+257,sub_category,harassment
+257,category,quebec human rights and youth rights commission
+258,target_community,anti-immigration
+258,sub_category,rally
+259,target_community,anti-racism
+259,sub_category,hate crime
+260,target_community,anti-muslim
+260,sub_category,race relations
+261,target_community,anti-immigration
+262,target_community,anti-muslim
+262,sub_category,race relations
+262,category,nc investigation
+263,target_community,anti-black
+263,sub_category,hate speech
+264,target_community,white supremacists
+265,target_community,anti-indigenous
+265,sub_category,hate speech
+266,target_community,anti-francophone
+266,sub_category,hate speech
+267,target_community,anti-indian
+267,sub_category,hate speech
+268,target_community,anti-muslim
+268,sub_category,vandalism
+269,target_community,anti-immigration
+269,sub_category,rally
+270,target_community,anti-racism
+271,sub_category,rally
+272,target_community,anti-racism
+272,sub_category,rally
+273,target_community,anti-indigenous
+273,sub_category,hate speech
+274,target_community,anti-asian
+274,sub_category,political
+275,target_community,anti-immigration
+275,sub_category,hate speech
+276,target_community,anti-black
+276,target_community,anti-immigration
+276,sub_category,hate speech
+276,sub_category,political
+276,category,investigation
+277,target_community,anti-immigration
+277,target_community,anti-muslim
+277,sub_category,hate speech
+278,sub_category,harassment
+279,target_community,anti-immigration
+279,target_community,anti-muslim
+279,sub_category,rally
+280,sub_category,arson
+281,target_community,anti-indigenous
+281,category,violates international law (un)
+282,target_community,anti-black
+282,sub_category,cultural appropriation
+283,target_community,anti-indian
+283,sub_category,hate speech
+284,target_community,anti-indigenous
+284,sub_category,hate speech
+285,target_community,anti-indigenous
+285,sub_category,discrimination at work
+285,category,inquiry
+286,target_community,anti-indigenous
+286,sub_category,hate speech
+287,target_community,anti-semitic
+287,sub_category,hate crime
+288,target_community,anti-muslim
+288,sub_category,hate crime
+289,target_community,anti-immigration
+289,target_community,anti-muslim
+289,sub_category,rally
+290,target_community,anti-black
+290,sub_category,rally
+291,target_community,anti-asian
+291,sub_category,hate speech
+292,target_community,anti-muslim
+292,sub_category,hate crime
+292,sub_category,political
+293,target_community,anti-muslim
+293,sub_category,hate speech
+294,target_community,anti-black
+294,target_community,anti-semitic
+294,sub_category,hate speech
+295,target_community,anti-black
+295,sub_category,political
+296,target_community,anti-semitic
+296,sub_category,vandalism
+297,target_community,anti-semitic
+297,sub_category,vandalism
+298,target_community,anti-semitic
+298,sub_category,political
+299,target_community,anti-black
+299,sub_category,hate speech
+299,category,investigation
+300,target_community,anti-indigenous
+300,sub_category,hate speech
+301,target_community,anti-indigenous
+301,sub_category,hate speech
+302,target_community,anti-black
+302,sub_category,hate speech
+302,category,investigation
+303,target_community,anti-semitic
+303,sub_category,hate speech
+304,target_community,anti-immigration
+304,sub_category,hate speech
+305,target_community,anti-indigenous
+305,sub_category,hate speech
+306,target_community,anti-black
+306,sub_category,racial profiling
+307,target_community,anti-black
+307,sub_category,hr complaint
+307,category,settlement
+308,target_community,anti-black
+308,sub_category,hr complaint
+308,category,lawsuit
+309,target_community,anti-muslim
+309,sub_category,political
+310,target_community,anti-muslim
+310,sub_category,hate speech
+310,category,investigation
+311,target_community,anti-racism
+311,sub_category,protest
+312,target_community,anti-indigenous
+312,sub_category,hate speech
+313,target_community,anti-indigenous
+313,target_community,sexist
+313,sub_category,hate speech
+313,sub_category,political
+314,target_community,anti-indigenous
+314,target_community,sexist
+314,sub_category,policy
+315,target_community,anti-semitic
+315,sub_category,hate speech
+315,category,investigation
+316,sub_category,political
+317,target_community,anti-racism
+318,target_community,anti-racism
+319,target_community,anti-muslim
+319,target_community,anti-immigration
+319,sub_category,protest
+320,target_community,anti-muslim
+320,sub_category,hate speech
+321,target_community,anti-muslim
+321,target_community,anti-immigration
+321,sub_category,protest
+322,target_community,white supremacists
+322,sub_category,hate speech
+322,category,investigation
+323,target_community,white supremacists
+323,sub_category,political
+324,target_community,anti-immigration
+324,sub_category,protest
+325,sub_category,political
+326,target_community,anti-indigenous
+326,sub_category,hr complaint
+326,category,human rights
+327,sub_category,hate speech
+327,category,investigation
+328,target_community,anti-racism
+329,target_community,anti-indigenous
+329,target_community,sexist
+329,sub_category,protest
+330,target_community,anti-indigenous
+330,sub_category,political
+330,category,investigation
+331,target_community,anti-immigration
+331,sub_category,hate speech
+332,target_community,anti-muslim
+332,target_community,anti-immigration
+333,target_community,anti-muslim
+333,sub_category,terror
+333,category,investigation
+334,target_community,anti-muslim
+335,target_community,white supremacists
+336,target_community,white supremacists
+336,sub_category,hate speech
+337,target_community,anti-racism
+337,sub_category,protest
+337,category,not charged
+338,target_community,anti-asian
+338,sub_category,vandalism
+339,target_community,anti-indigenous
+339,target_community,environmental racism
+339,sub_category,political
+340,target_community,anti-racism
+340,sub_category,protest
+341,target_community,anti-racism
+341,sub_category,vandalism
+342,target_community,anti-muslim
+343,target_community,anti-racism
+343,sub_category,protest
+344,target_community,anti-racism
+344,sub_category,racial training
+345,target_community,anti-muslim
+345,sub_category,hate speech
+346,target_community,anti-racism
+346,sub_category,protest
+347,target_community,anti-indigenous
+347,sub_category,hr complaint
+347,category,human rights
+348,target_community,anti-black
+348,sub_category,hate speech
+348,category,investigation
+349,target_community,anti-black
+350,target_community,anti-muslim
+350,sub_category,hate speech
+350,category,investigation
+351,target_community,anti-black
+351,sub_category,public hearing
+351,category,investigation
+352,target_community,anti-muslim
+352,target_community,anti-immigration
+352,sub_category,political
+353,target_community,white supremacists
+353,category,investigation
+354,target_community,anti-semitic
+354,sub_category,vandalism
+355,target_community,anti-muslim
+355,target_community,anti-sikh
+355,sub_category,political
+356,target_community,anti-indigenous
+356,sub_category,political
+356,category,investigation
+357,target_community,anti-black
+357,sub_category,protest
+358,target_community,anti-black
+358,target_community,homophobia
+358,sub_category,political
+359,target_community,anti-immigration
+359,sub_category,political
+360,target_community,anti-immigration
+360,sub_category,political
+361,target_community,anti-immigration
+361,sub_category,political
+362,target_community,anti-semitic
+362,sub_category,hate speech
+362,category,investigation
+363,target_community,anti-indigenous
+363,sub_category,cultural appropriation
+364,target_community,anti-muslim
+364,sub_category,hate speech
+365,target_community,anti-black
+365,target_community,homophobia
+365,sub_category,political
+366,target_community,anti-black
+366,target_community,anti-muslim
+366,sub_category,hr complaint
+366,category,human rights
+367,target_community,anti-racism
+367,sub_category,political
+368,target_community,anti-racism
+369,target_community,anti-black
+369,target_community,anti-indigenous
+369,target_community,anti-poc
+369,target_community,anti-lgbtq2s+
+370,target_community,white supremacists
+370,sub_category,hate speech
+371,sub_category,hr complaint
+371,category,human rights
+372,target_community,white supremacists
+372,sub_category,political
+373,target_community,anti-muslim
+373,sub_category,assault
+373,category,investigation
+374,target_community,anti-muslim
+374,sub_category,political
+375,sub_category,discrimination at work
+375,category,lawsuit
+376,target_community,anti-racism
+376,sub_category,hate speech
+377,target_community,anti-black
+377,sub_category,profiled
+378,target_community,anti-semitic
+378,target_community,anti-black
+378,sub_category,vandalism
+379,target_community,anti-semitic
+379,sub_category,vandalism
+379,category,investigation
+381,sub_category,political
+382,target_community,anti-indigenous
+382,sub_category,hr complaint
+382,category,human rights
+383,target_community,anti-black
+383,sub_category,profiled
+384,target_community,anti-filipino
+384,sub_category,protest
+385,target_community,anti-indigenous
+386,target_community,anti-semitic
+386,sub_category,robbery
+386,category,investigation
+387,target_community,anti-racism
+387,sub_category,political
+388,target_community,anti-semitic
+388,sub_category,vandalism
+388,category,investigation
+389,target_community,anti-muslim
+390,target_community,anti-semitic
+390,sub_category,vandalism
+390,category,investigation
+391,target_community,anti-indian
+391,target_community,anti-sikh
+391,sub_category,hate speech
+391,category,investigation
+392,target_community,anti-semitic
+393,target_community,anti-indigenous
+394,target_community,anti-semitic
+394,target_community,anti-black
+394,sub_category,vandalism
+394,category,investigation
+395,target_community,anti-semitic
+395,target_community,anti-muslim
+395,target_community,anti-immigration
+395,sub_category,hate speech
+395,category,investigation
+396,target_community,anti-black
+397,target_community,anti-muslim
+397,sub_category,hate speech
+397,sub_category,harassment
+397,category,investigation
+398,target_community,white supremacists
+398,sub_category,hate event
+399,target_community,anti-black
+399,sub_category,discrimination at work
+400,target_community,anti-indigenous
+400,sub_category,political
+401,target_community,anti-muslim
+401,sub_category,political
+402,target_community,anti-black
+402,sub_category,vandalism
+403,target_community,anti-muslim
+403,sub_category,political
+404,target_community,anti-black
+404,sub_category,hate speech
+405,target_community,anti-muslim
+405,target_community,anti-sikh
+405,target_community,anti-semitic
+405,target_community,gendered
+405,sub_category,law
+405,category,law
+406,target_community,anti-black
+406,sub_category,hate speech
+407,target_community,white supremacists
+407,sub_category,hate speech
+407,category,investigation
+408,target_community,anti-indigenous
+409,target_community,anti-indigenous
+409,sub_category,environmental racism
+410,target_community,anti-black
+410,sub_category,hate speech
+410,category,lawsuit
+411,target_community,anti-racism
+411,sub_category,vandalism
+411,category,investigation
+412,target_community,anti-muslim
+412,sub_category,hate speech
+412,category,lawsuit
+413,target_community,anti-sikh
+413,target_community,anti-muslim
+413,sub_category,political
+414,target_community,anti-semitic
+414,sub_category,vandalism
+415,target_community,anti-black
+415,sub_category,human rights
+415,category,investigation
+416,target_community,anti-muslim
+416,sub_category,harassment
+416,category,investigation
+417,target_community,white supremacists
+418,target_community,anti-racism
+419,target_community,anti-semitic
+420,target_community,anti-black
+420,target_community,anti-muslim
+420,sub_category,harassment
+421,target_community,anti-black
+421,sub_category,hate speech
+422,target_community,anti-black
+422,sub_category,hate speech
+423,target_community,anti-sikh
+423,sub_category,hate speech
+424,target_community,anti-muslim
+424,target_community,anti-immigration
+424,sub_category,hate speech
+424,category,investigation
+426,target_community,anti-black
+426,sub_category,vandalism
+427,target_community,white supremacists
+427,sub_category,hate speech
+428,target_community,anti-black
+428,sub_category,vandalism
+429,target_community,white supremacists
+429,sub_category,hate speech
+429,category,lawsuit
+430,target_community,anti-indigenous
+430,target_community,gendered
+430,sub_category,political
+431,target_community,anti-immigration
+431,sub_category,political
+432,target_community,anti-muslim
+432,sub_category,hate speech
+433,target_community,white supremacists
+433,target_community,anti-black
+433,sub_category,hate speech
+433,category,investigation
+434,target_community,anti-semitic
+434,sub_category,vandalism
+435,target_community,anti-black
+435,sub_category,profiled
+436,target_community,anti-black
+436,sub_category,hate speech
+437,sub_category,hate speech
+437,sub_category,political
+438,sub_category,political
+438,category,investigation
+439,target_community,anti-black
+439,sub_category,hate speech
+440,target_community,anti-muslim
+440,target_community,anti-sikh
+440,target_community,anti-semitic
+440,sub_category,policy
+441,target_community,anti-muslim
+441,sub_category,vandalism
+441,category,investigation
+442,target_community,anti-muslim
+442,target_community,homophobia
+442,sub_category,protest
+443,sub_category,discrimination at work
+443,category,human rights
+444,target_community,anti-muslim
+444,target_community,homophobia
+444,sub_category,protest
+445,target_community,anti-muslim
+445,sub_category,hate speech
+446,target_community,anti-racism
+446,sub_category,policy
+447,target_community,anti-muslim
+447,sub_category,hate speech
+448,target_community,anti-racism
+448,sub_category,policy
+449,target_community,anti-semitic
+449,sub_category,policy
+450,sub_category,political
+451,target_community,anti-muslim
+451,sub_category,hate speech
+452,target_community,anti-indigenous
+452,target_community,gendered
+452,sub_category,policy
+453,target_community,anti-black
+453,sub_category,discrimination at work
+453,category,human rights
+454,target_community,anti-indigenous
+455,target_community,anti-black
+455,sub_category,discrimination at work
+455,category,human rights
+456,target_community,anti-sikh
+456,sub_category,vandalism
+457,target_community,anti-semitic
+457,sub_category,hate speech
+457,sub_category,intellectual property
+458,target_community,anti-black
+458,sub_category,hate speech
+459,target_community,anti-muslim
+459,target_community,anti-sikh
+459,target_community,anti-semitic
+459,target_community,gendered
+459,sub_category,policy
+460,target_community,anti-black
+460,sub_category,hate speech (branding)
+461,target_community,anti-muslim
+461,target_community,white supremacists
+461,sub_category,political
+462,target_community,anti-black
+462,sub_category,hate speech
+462,category,human rights
+463,target_community,anti-muslim
+463,sub_category,assault
+464,target_community,anti-black
+464,sub_category,discrimination at work
+464,category,human rights
+465,target_community,anti-indigenous
+466,target_community,anti-black
+466,sub_category,assault
+467,target_community,anti-black
+468,target_community,anti-semitic
+468,target_community,anti-immigration
+468,sub_category,hate speech
+469,target_community,anti-muslim
+469,sub_category,hate speech
+469,category,police investigation
+470,target_community,anti-racism
+470,sub_category,policy
+471,target_community,anti-semitic
+471,sub_category,threats
+471,category,police investigation
+472,target_community,anti-immigration
+472,target_community,anti-muslim
+472,sub_category,assault
+473,target_community,anti-muslim
+473,sub_category,harassment
+473,category,legal action
+474,target_community,white supremacists
+474,sub_category,political
+475,target_community,anti-immigration
+475,sub_category,political
+476,target_community,anti-muslim
+476,target_community,gendered
+476,sub_category,hate speech
+477,target_community,anti-muslim
+477,sub_category,hate speech
+478,target_community,anti-semitic
+478,sub_category,hate speech
+478,category,police investigation
+479,target_community,anti-indian
+479,sub_category,harassment
+480,sub_category,discrimination
+481,target_community,anti-semitic
+481,sub_category,harassment
+481,category,police investigation
+482,target_community,anti-muslim
+483,target_community,anti-semitic
+483,sub_category,vandalism
+484,target_community,anti-muslim
+484,sub_category,hate speech
+485,target_community,anti-racism
+486,target_community,anti-black
+486,sub_category,profiled
+487,target_community,anti-latin
+487,sub_category,hate speech
+488,target_community,anti-black
+489,sub_category,hate speech
+490,target_community,anti-indigenous
+490,target_community,gendered
+490,sub_category,human rights
+490,category,human rights
+491,sub_category,profiled
+492,target_community,anti-muslim
+492,sub_category,hate speech
+493,target_community,anti-arab
+493,target_community,anti-muslim
+493,sub_category,vandalism
+493,sub_category,political
+493,category,investigation
+494,sub_category,vandalism
+494,category,investigation
+495,sub_category,hate speech
+496,target_community,white supremacists
+496,target_community,anti-racism
+496,sub_category,hate speech
+497,sub_category,political
+498,target_community,anti-indigenous
+498,sub_category,allegations
+498,sub_category,political
+499,target_community,anti-racism
+499,sub_category,race relations
+500,target_community,white supremacists
+500,target_community,anti-racism
+500,sub_category,allegations
+501,target_community,anti-muslim
+501,target_community,anti-racism
+501,sub_category,harassment
+501,sub_category,hate speech
+501,sub_category,political
+501,sub_category,protest
+502,sub_category,vandalism
+502,category,investigation
+503,target_community,anti-black
+503,sub_category,race relations
+504,sub_category,political
+505,target_community,anti-racism
+505,sub_category,public hearing
+506,target_community,anti-racism
+506,sub_category,protest
+507,target_community,anti-muslim
+507,target_community,anti-sikh
+507,target_community,anti-indian
+507,sub_category,political
+508,target_community,anti-muslim
+508,target_community,anti-black
+508,sub_category,profiled
+508,sub_category,human rights
+509,target_community,anti-semitic
+509,sub_category,vandalism
+509,category,investigation
+510,target_community,anti-black
+510,sub_category,discrimination at work
+511,target_community,anti-black
+511,sub_category,racial profiling
+512,target_community,anti-asian
+512,sub_category,harassment
+513,target_community,anti-asian
+513,sub_category,harassment
+514,target_community,anti-asian
+514,sub_category,harassment
+515,target_community,anti-mexican
+515,sub_category,race relations
+516,target_community,anti-indigenous
+516,sub_category,allegations
+517,target_community,anti-racism
+517,sub_category,race relations
+518,target_community,anti-black
+518,sub_category,race relations
+519,target_community,anti-black
+519,sub_category,discrimination at work
+519,sub_category,hate speech
+520,target_community,anti-asian
+520,sub_category,harassment
+521,target_community,anti-black
+521,sub_category,race relations
+522,target_community,anti-black
+522,sub_category,race relations
+523,target_community,white supremacists
+523,sub_category,political
+524,target_community,white supremacists
+524,sub_category,political
+524,category,military investigation
+525,target_community,white supremacists
+525,sub_category,political
+526,target_community,anti-arab
+526,target_community,anti-muslim
+526,sub_category,race relations
+527,target_community,anti-black
+527,sub_category,human rights
+527,sub_category,profiled
+528,target_community,anti-arab
+528,sub_category,human rights
+528,sub_category,profiled
+529,target_community,anti-racism
+529,sub_category,race relations
+530,target_community,anti-indigenous
+530,target_community,anti-arab
+530,target_community,anti-black
+530,target_community,anti-semitic
+530,sub_category,race relations
+531,target_community,anti-indigenous
+531,sub_category,political
+532,target_community,anti-black
+532,sub_category,hate speech
+533,target_community,anti-indigenous
+533,sub_category,political
+534,target_community,anti-immigration
+534,sub_category,protest
+535,target_community,anti-indigenous
+535,sub_category,first degree murder
+536,target_community,anti-black
+536,sub_category,allegations
+536,category,hr investigation
+537,target_community,anti-muslim
+537,target_community,anti-semitic
+537,target_community,anti-racism
+537,sub_category,political
+538,target_community,anti-indigenous
+538,sub_category,human rights
+538,sub_category,discrimination at work
+539,target_community,anti-indigenous
+539,sub_category,hate speech
+540,target_community,anti-immigration
+540,sub_category,hate speech
+541,target_community,anti-muslim
+541,target_community,anti-immigration
+541,sub_category,race relations
+542,target_community,anti-racism
+542,sub_category,political
+543,target_community,anti-racism
+543,sub_category,political
+544,target_community,anti-racism
+544,target_community,anti-black
+544,target_community,anti-arab
+544,target_community,anti-indigenous
+544,sub_category,profiled
+544,sub_category,human rights
+545,target_community,anti-black
+545,sub_category,human rights
+545,sub_category,discrimination at work
+546,target_community,anti-racism
+546,sub_category,race relations
+547,target_community,anti-semitic
+547,target_community,anti-palestinian
+547,sub_category,race relations
+547,sub_category,protest
+548,target_community,anti-racism
+548,target_community,anti-black
+548,target_community,anti-arab
+548,target_community,anti-indigenous
+548,sub_category,human rights
+548,sub_category,profiled
+549,target_community,anti-semitic
+549,target_community,race relations
+549,sub_category,political
+550,target_community,anti-racism
+550,sub_category,race relations
+551,target_community,anti-black
+551,target_community,anti-racism
+551,sub_category,race relations
+551,sub_category,discrimination at work
+552,target_community,anti-black
+552,target_community,anti-indigenous
+552,target_community,anti-racism
+552,sub_category,race relations
+553,target_community,anti-racism
+553,sub_category,race relations
+554,target_community,anti-racism
+554,sub_category,race relations
+555,target_community,anti-racism
+555,sub_category,race relations
+556,sub_category,race relations
+557,target_community,white supremacists
+557,sub_category,hate speech
+558,target_community,anti-indigenous
+558,sub_category,hate speech
+558,sub_category,political
+559,target_community,anti-indigenous
+559,sub_category,harassment
+559,category,pending lawsuit
+560,target_community,anti-black
+560,sub_category,hate speech
+560,category,hr investigation
+561,target_community,white supremacists
+561,sub_category,allegations
+562,target_community,anti-black
+562,target_community,anti-arab
+562,target_community,anti-indigenous
+562,sub_category,human rights
+563,target_community,anti-black
+563,sub_category,human rights
+563,sub_category,hate speech
+564,target_community,anti-indigenous
+564,sub_category,allegations
+564,category,hr investigation
+565,target_community,anti-indigenous
+565,sub_category,race relations
+566,target_community,anti-black
+566,target_community,anti-immigration
+566,sub_category,allegations
+566,sub_category,defamation
+566,category,pending lawsuit
+567,target_community,anti-black
+567,sub_category,human rights
+568,target_community,anti-black
+568,sub_category,discrimination at work
+568,sub_category,hate speech
+568,category,hr investigation
+569,target_community,anti-racism
+569,sub_category,political
+570,target_community,white supremacists
+570,category,military investigation
+571,target_community,white supremacists
+571,target_community,anti-immigration
+571,sub_category,political
+572,target_community,anti-black
+572,target_community,anti-racism
+572,sub_category,race relations
+573,target_community,white supremacists
+573,sub_category,political
+573,category,military investigation
+574,target_community,anti-muslim
+574,target_community,anti-immigration
+574,sub_category,human rights
+574,sub_category,discrimination at work
+574,category,hr investigation
+575,target_community,anti-black
+575,sub_category,hate speech
+576,target_community,white supremacists
+576,sub_category,peace bond
+577,target_community,white supremacists
+577,sub_category,hate speech
+579,target_community,anti-black
+579,sub_category,hate speech
+580,target_community,anti-indigenous
+580,sub_category,human rights
+580,category,hr investigation
+581,target_community,anti-muslim
+581,sub_category,vandalism
+581,category,police investigation
+582,target_community,anti-indian
+582,sub_category,hate speech
+582,category,rcmp investigation
+583,target_community,anti-indigenous
+583,sub_category,profiled
+583,category,hr investigation
+584,target_community,anti-indigenous
+584,sub_category,profiled
+584,sub_category,human rights
+584,category,hr investigation
+585,target_community,anti-semitic
+585,sub_category,hate speech
+586,target_community,anti-black
+586,sub_category,race relations
+587,target_community,anti-black
+587,target_community,anti-south asian
+587,target_community,anti-racism
+587,sub_category,discrimination at work
+587,category,hr investigation
+588,target_community,anti-sikh
+588,target_community,anti-muslim
+588,sub_category,hate speech
+588,category,hr investigation
+589,target_community,anti-indigenous
+589,sub_category,hate speech
+590,target_community,anti-indigenous
+590,sub_category,hate speech
+591,target_community,white supremacists
+591,target_community,anti-immigration
+591,sub_category,political
+592,target_community,anti-indigenous
+592,target_community,anti-racism
+592,sub_category,hate speech
+592,category,hr investigation
+593,target_community,anti-racism
+593,sub_category,race relations
+594,target_community,anti-indigenous
+594,target_community,anti-racism
+594,sub_category,hate speech
+595,target_community,anti-indigenous
+595,sub_category,hate speech
+596,target_community,anti-racism
+596,sub_category,hate speech
+596,category,military investigation
+597,target_community,anti-black
+597,sub_category,profiled
+597,category,court case
+598,target_community,anti-islam
+598,sub_category,forgery charges
+599,target_community,white supremacists
+599,sub_category,race relations
+599,category,military investigation
+600,target_community,anti-indian
+600,sub_category,hate speech
+601,target_community,white supremacists
+601,sub_category,hate speech
+602,sub_category,vandalism
+602,category,police investigation
+603,target_community,white supremacists
+604,target_community,white supremacists
+604,sub_category,hate speech
+605,target_community,anti-indigenous
+605,target_community,gendered
+605,sub_category,law
+605,category,legislation
+606,target_community,anti-muslim
+606,target_community,gendered
+606,sub_category,profiled
+606,category,hr investigation
+607,target_community,anti-immigration
+607,sub_category,hate speech
+608,target_community,anti-asian
+608,sub_category,hate speech
+609,target_community,anti-black
+609,sub_category,hate speech
+610,sub_category,political
+611,target_community,anti-indian
+611,sub_category,harassment
+611,category,police investigation
+612,target_community,anti-indigenous
+612,sub_category,human rights
+612,category,police investigation
+613,target_community,anti-asian
+613,sub_category,hate speech
+613,category,military investigation
+614,target_community,anti-racism
+614,sub_category,race relations
+615,target_community,anti-racism
+615,sub_category,race relations
+616,target_community,anti-black
+616,sub_category,profiled
+617,target_community,homophobia
+617,sub_category,public hearing
+618,target_community,anti-asian
+618,sub_category,harassment
+618,sub_category,hate speech
+619,target_community,anti-south asian
+619,sub_category,hate speech
+620,target_community,white supremacists
+620,sub_category,political
+621,target_community,anti-indigenous
+621,sub_category,race relations
+622,target_community,anti-indigenous
+622,sub_category,vandalism
+622,sub_category,allegations
+622,category,police investigation
+623,target_community,anti-semitic
+623,sub_category,vandalism
+623,category,police investigation
+624,target_community,anti-asian
+624,sub_category,hate crime
+624,category,police investigation
+625,target_community,anti-indigenous
+625,sub_category,public hearing
+625,category,hr investigation
+626,target_community,anti-black
+626,category,hr investigation
+627,target_community,anti-israel
+627,target_community,anti-palestinian
+627,sub_category,political
+627,sub_category,race relations
+628,target_community,anti-indigenous
+628,sub_category,profiled
+628,category,hr investigation
+629,target_community,anti-south asian
+629,sub_category,allegations
+629,sub_category,vandalism
+630,target_community,anti-black
+630,sub_category,profiled
+630,sub_category,human rights
+630,category,hr investigation
+631,sub_category,hate speech
+632,target_community,anti-immigration
+632,sub_category,hate speech
+632,sub_category,political
+633,target_community,anti-black
+633,sub_category,hate speech
+634,target_community,anti-muslim
+634,sub_category,hate speech
+634,sub_category,political
+635,target_community,anti-muslim
+635,sub_category,vandalism
+636,target_community,anti-semitic
+636,sub_category,hate speech
+636,sub_category,political
+637,target_community,anti-muslim
+637,sub_category,hate speech
+637,sub_category,political
+638,target_community,anti-semitic
+638,target_community,anti-muslim
+638,sub_category,vandalism
+639,target_community,anti-indigenous
+639,sub_category,human rights tribunal
+639,category,human rights
+640,target_community,anti-muslim
+640,sub_category,vandalism
+640,category,rcmp investigation
+641,sub_category,political
+642,target_community,anti-semitic
+642,sub_category,hate crime
+642,category,police investigation
+643,target_community,anti-semitic
+643,sub_category,assault
+644,target_community,anti-asian
+644,sub_category,hate speech
+645,target_community,anti-immigration
+645,sub_category,hate speech
+646,target_community,anti-indigenous
+646,sub_category,human rights
+646,sub_category,discrimination
+646,category,human rights
+647,target_community,anti-immigration
+647,sub_category,political
+648,target_community,anti-asian
+648,sub_category,discrimination
+649,target_community,anti-black
+649,target_community,anti-indigenous
+649,target_community,anti-poc
+649,target_community,anti-lgbtq2s+
+649,sub_category,hate speech
+650,target_community,white supremacists
+650,sub_category,political
+651,target_community,anti-indigenous
+651,sub_category,political
+651,sub_category,hate speech
+652,target_community,anti-muslim
+652,sub_category,political
+652,sub_category,hate speech
+653,target_community,anti-indigenous
+653,sub_category,class action lawsuit
+653,category,class action lawsuit
+654,target_community,anti-semitic
+654,sub_category,vandalism
+654,sub_category,political
+655,target_community,anti-indigenous
+655,target_community,anti-racism
+655,sub_category,policy
+656,target_community,anti-semitic
+656,target_community,anti-immigration
+656,sub_category,political
+657,target_community,anti-black
+657,sub_category,hate speech
+658,target_community,anti-indian
+658,target_community,anti-black
+658,sub_category,political
+659,target_community,anti-muslim
+659,sub_category,defamation
+659,sub_category,political
+659,category,lawsuit
+660,target_community,anti-semitic
+660,sub_category,vandalism
+660,category,police investigation
+661,target_community,white supremacists
+661,sub_category,hate speech
+662,target_community,anti-muslim
+662,sub_category,human rights
+663,target_community,anti-indian
+663,target_community,anti-immigration
+663,sub_category,hate speech
+664,target_community,anti-sikh
+664,sub_category,vandalism
+664,sub_category,political
+665,target_community,anti-immigration
+665,sub_category,political
+666,target_community,anti-muslim
+666,sub_category,political
+666,sub_category,human rights
+666,category,human rights
+667,target_community,anti-black
+667,sub_category,vandalism
+668,target_community,anti-asian
+668,sub_category,hate speech
+669,sub_category,political
+670,target_community,anti-sikh
+670,sub_category,hate speech
+670,sub_category,political
+671,target_community,anti-black
+671,sub_category,discrimination at work
+672,target_community,anti-indigenous
+672,target_community,gendered
+672,sub_category,hate speech
+673,target_community,anti-semitic
+673,target_community,anti-palestinian
+673,sub_category,race relations
+673,sub_category,protest
+674,target_community,anti-black
+674,sub_category,race relations
+674,sub_category,profiled
+675,target_community,anti-indigenous
+675,sub_category,race relations
+675,sub_category,political
+675,category,hr investigation
+676,target_community,anti-indigenous
+676,sub_category,race relations
+676,sub_category,political
+676,category,hr investigation
+677,target_community,anti-black
+677,sub_category,race relations
+677,sub_category,profiled
+678,target_community,anti-immigration
+678,sub_category,race relations
+678,category,hr investigation
+679,target_community,anti-racism
+679,target_community,anti-muslim
+679,target_community,gendered
+679,sub_category,race relations
+680,target_community,anti-indigenous
+680,sub_category,race relations
+680,sub_category,political
+680,category,hr investigation
+681,target_community,anti-african
+681,target_community,anti-black
+681,target_community,anti-immigration
+681,sub_category,race relations
+682,target_community,anti-immigration
+682,sub_category,race relations
+683,target_community,white supremacists
+683,sub_category,political
+683,category,hr investigation
+684,target_community,anti-asian
+684,target_community,gendered
+684,sub_category,protest
+685,target_community,anti-muslim
+685,sub_category,discrimination at work
+686,target_community,anti-muslim
+686,target_community,anti-semitic
+686,target_community,anti-racism
+686,sub_category,political
+686,sub_category,discrimination at work
+686,sub_category,human rights
+687,target_community,anti-black
+687,target_community,anti-indigenous
+687,target_community,anti-arab
+687,target_community,anti-racism
+687,sub_category,political
+687,sub_category,profiled
+688,target_community,anti-immigration
+688,sub_category,race relations
+689,target_community,white supremacists
+689,target_community,gendered
+689,sub_category,political
+689,category,police investigation
+690,target_community,anti-semitic
+690,sub_category,political
+690,sub_category,discrimination at work
+690,sub_category,human rights
+690,category,hr investigation
+691,target_community,anti-immigration
+691,sub_category,discrimination at work
+691,category,hr investigation
+692,target_community,anti-racism
+692,sub_category,political
+692,sub_category,race relations
+693,target_community,anti-immigration
+693,sub_category,political
+693,sub_category,race relations
+694,target_community,race relations
+694,sub_category,race relations
+694,category,police investigation
+695,target_community,anti-racism
+695,sub_category,race relations
+696,target_community,anti-racism
+696,sub_category,protest
+697,target_community,anti-semitic
+697,target_community,anti-black
+697,sub_category,hate speech
+697,sub_category,discrimination at work
+697,category,police investigation
+698,target_community,anti-muslim
+698,target_community,anti-semitic
+698,target_community,anti-racism
+698,sub_category,political
+698,sub_category,human rights
+699,target_community,anti-racism
+699,sub_category,political
+699,sub_category,human rights
+700,target_community,anti-immigration
+700,target_community,transphobia
+700,sub_category,harassment
+700,sub_category,discrimination at work
+700,sub_category,hate speech
+701,target_community,anti-black
+701,sub_category,profiled
+702,target_community,anti-muslim
+702,target_community,anti-semitic
+702,target_community,anti-racism
+702,sub_category,political
+702,sub_category,human rights
+703,target_community,anti-immigration
+703,target_community,anti-racism
+703,sub_category,political
+704,target_community,anti-indigenous
+704,sub_category,vandalism
+704,sub_category,hate speech
+705,target_community,anti-syrian
+705,sub_category,hate speech
+705,category,police investigation
+706,target_community,anti-indigenous
+706,target_community,anti-racism
+706,sub_category,political
+706,sub_category,human rights
+706,sub_category,protest
+707,target_community,anti-muslim
+707,target_community,anti-semitic
+707,target_community,anti-racism
+707,sub_category,political
+707,sub_category,human rights
+708,target_community,anti-muslim
+708,target_community,anti-semitic
+708,target_community,anti-racism
+708,sub_category,political
+708,sub_category,human rights
+709,target_community,anti-muslim
+709,sub_category,political
+710,target_community,anti-black
+710,sub_category,race relations
+710,sub_category,political
+711,target_community,anti-black
+711,target_community,anti-racism
+711,sub_category,race relations
+711,sub_category,profiled
+712,target_community,anti-racism
+712,target_community,anti-indigenous
+712,target_community,anti-middle eastern
+712,sub_category,race relations
+713,target_community,anti-indigenous
+713,target_community,anti-chinese
+713,sub_category,political
+714,target_community,anti-immigration
+714,target_community,anti-racism
+714,sub_category,political
+715,target_community,anti-semitic
+715,sub_category,hate crime
+715,sub_category,vandalism
+716,target_community,anti-semitic
+716,sub_category,vandalism
+716,category,police investigation
+717,sub_category,political
+717,sub_category,allegations
+718,target_community,anti-black
+718,sub_category,political
+718,sub_category,allegations
+719,target_community,anti-muslim
+719,target_community,anti-semitic
+719,target_community,anti-racism
+719,sub_category,political
+719,sub_category,human rights
+720,sub_category,vandalism
+720,category,police investigation
+721,target_community,anti-sikh
+721,target_community,anti-indian
+721,sub_category,political
+721,sub_category,allegations
+722,target_community,anti-muslim
+722,sub_category,political
+723,target_community,anti-racism
+723,target_community,anti-muslim
+723,sub_category,political
+724,target_community,anti-black
+724,sub_category,discrimination at work
+724,sub_category,allegations
+724,category,hr investigation
+725,target_community,anti-racism
+725,sub_category,political
+726,target_community,anti-indigenous
+726,target_community,homophobia
+726,sub_category,hate speech
+726,category,police investigation
+727,target_community,anti-muslim
+727,sub_category,political
+727,sub_category,hate speech
+728,target_community,anti-black
+728,target_community,anti-south asian
+728,sub_category,political
+728,sub_category,vandalism
+729,target_community,anti-poc
+729,target_community,anti-lgbtq2s+
+729,sub_category,political
+730,target_community,anti-indigenous
+730,sub_category,political
+730,sub_category,human rights
+731,target_community,anti-semitic
+731,sub_category,vandalism
+731,category,police investigation
+732,target_community,anti-racism
+732,sub_category,political
+733,target_community,anti-indigenous
+733,sub_category,discrimination at work
+734,target_community,anti-racism
+734,sub_category,political
+734,sub_category,race relations
+735,target_community,anti-indigenous
+735,sub_category,political
+735,sub_category,allegations
+736,target_community,white supremacists
+736,sub_category,political
+737,target_community,anti-black
+737,sub_category,harassment
+737,sub_category,hate speech
+737,category,police investigation
+738,target_community,anti-racism
+738,target_community,anti-muslim
+738,sub_category,political
+739,target_community,anti-semitic
+739,sub_category,hate crime
+739,category,police investigation
+740,target_community,anti-poc
+740,target_community,anti-lgbtq2s+
+740,sub_category,political
+741,target_community,anti-indigenous
+741,sub_category,profiled
+741,category,hr investigation
+742,target_community,anti-indigenous
+742,sub_category,human rights
+742,sub_category,political
+743,target_community,anti-indigenous
+743,sub_category,human rights
+743,sub_category,protest
+743,sub_category,political
+744,target_community,anti-indigenous
+744,sub_category,profiled
+744,sub_category,human rights
+744,category,police investigation
+745,target_community,anti-indigenous
+745,sub_category,hate speech
+746,target_community,anti-semitic
+746,target_community,anti-muslim
+746,target_community,anti-lgbtq2s+
+746,target_community,white supremacists
+746,sub_category,hate speech
+747,target_community,anti-racism
+747,target_community,anti-immigration
+747,sub_category,political
+747,sub_category,race relations
+748,target_community,white supremacists
+748,sub_category,political
+748,category,police investigation
+749,target_community,white supremacists
+749,sub_category,political
+749,category,hr investigation
+750,target_community,anti-indigenous
+750,sub_category,political
+751,sub_category,discrimination at work
+751,category,hr investigation
+752,target_community,anti-semitic
+752,sub_category,vandalism
+752,category,police investigation
+753,target_community,anti-black
+753,sub_category,vandalism
+753,category,police investigation
+754,target_community,anti-black
+754,sub_category,profiled
+754,category,police investigation
+755,target_community,anti-semitic
+755,sub_category,race relations
+756,target_community,anti-black
+756,sub_category,hate speech
+757,target_community,anti-racism
+757,sub_category,race relations
+758,target_community,anti-black
+758,sub_category,race relations
+759,target_community,anti-black
+759,sub_category,political
+759,sub_category,profiled
+760,target_community,anti-racism
+760,sub_category,political
+761,target_community,anti-muslim
+761,sub_category,allegations
+761,sub_category,harassment
+761,sub_category,hate crime
+761,category,hr investigation
+762,target_community,anti-black
+762,sub_category,profiled
+763,target_community,anti-asian
+763,sub_category,profiled
+764,target_community,anti-chinese
+764,sub_category,profiled
+765,target_community,anti-black
+765,sub_category,hate speech
+765,category,hr investigation
+766,target_community,anti-semitic
+766,sub_category,vandalism
+766,category,police investigation
+767,target_community,anti-asian
+767,sub_category,discrimination at work
+768,target_community,anti-black
+768,sub_category,discrimination at work
+768,category,hr investigation
+769,target_community,white supremacists
+769,target_community,anti-muslim
+769,target_community,anti-semitic
+769,sub_category,political
+769,category,police investigation
+770,target_community,anti-indigenous
+770,sub_category,profiled
+770,category,hr investigation
+771,target_community,anti-asian
+771,sub_category,profiled
+771,sub_category,discrimination at work
+772,target_community,anti-racism
+772,sub_category,race relations
+773,target_community,anti-indigenous
+773,sub_category,protest
+773,sub_category,allegations
+774,target_community,anti-indigenous
+774,target_community,anti-black
+774,target_community,anti-racism
+774,sub_category,political
+774,sub_category,profiled
+775,target_community,anti-black
+775,sub_category,protest
+776,target_community,anti-chinese
+776,sub_category,profiled
+777,target_community,anti-black
+777,sub_category,hate speech
+777,sub_category,harassment
+778,target_community,anti-indigenous
+778,sub_category,vandalism
+779,target_community,anti-indigenous
+779,sub_category,political
+780,target_community,anti-indigenous
+780,sub_category,hate speech
+781,target_community,anti-immigration
+781,target_community,white supremacists
+781,sub_category,hate speech
+781,category,police investigation
+782,target_community,anti-racism
+782,sub_category,race relations
+783,target_community,anti-black
+783,target_community,anti-indigenous
+783,target_community,anti-arab
+783,target_community,anti-racism
+783,sub_category,profiled
+784,target_community,anti-indigenous
+784,sub_category,profiled
+785,target_community,anti-indigenous
+785,sub_category,political
+785,sub_category,protest
+786,target_community,anti-indigenous
+786,sub_category,political
+786,sub_category,protest
+787,target_community,anti-indigenous
+787,sub_category,political
+787,sub_category,protest
+788,target_community,anti-afghan
+788,sub_category,hate speech
+788,category,hr investigation
+789,target_community,anti-indigenous
+789,sub_category,political
+789,sub_category,protest
+790,target_community,anti-indigenous
+790,sub_category,allegations
+791,target_community,anti-black
+791,sub_category,profiled
+792,sub_category,profiled
+792,sub_category,political
+793,target_community,anti-black
+793,target_community,anti-racism
+793,sub_category,profiled
+793,sub_category,protest
+794,target_community,anti-black
+794,target_community,anti-racism
+794,target_community,anti-poc
+794,sub_category,human rights
+794,sub_category,profiled
+795,target_community,anti-black
+795,sub_category,profiled
+795,category,police investigation
+796,target_community,anti-poc
+796,sub_category,profiled
+797,target_community,anti-south asian
+797,sub_category,hate speech
+798,target_community,anti-black
+798,sub_category,harassment
+798,category,hr investigation
+799,target_community,anti-racism
+799,target_community,anti-chinese
+799,sub_category,race relations
+800,target_community,anti-afghan
+800,target_community,anti-racism
+800,sub_category,hate speech
+800,category,hr investigation
+801,target_community,anti-semitic
+801,target_community,anti-racism
+801,sub_category,vandalism
+802,target_community,anti-black
+802,sub_category,hate speech
+803,target_community,anti-indigenous
+803,target_community,anti-racism
+803,sub_category,hate speech
+804,target_community,anti-black
+804,sub_category,protest
+804,sub_category,profiled
+805,target_community,anti-indigenous
+805,sub_category,hate speech
+805,category,hr investigation
+806,target_community,anti-indigenous
+806,sub_category,hate speech
+807,target_community,anti-indigenous
+807,sub_category,hate speech
+808,target_community,anti-indigenous
+808,sub_category,hate speech
+809,target_community,anti-indigenous
+809,sub_category,hate speech
+810,target_community,anti-indigenous
+810,sub_category,protest
+810,sub_category,political
+811,target_community,anti-indigenous
+811,sub_category,political
+811,sub_category,profiled
+812,target_community,anti-indigenous
+812,sub_category,political
+813,target_community,anti-indigenous
+813,target_community,anti-racism
+813,sub_category,hate speech
+813,sub_category,political
+814,target_community,anti-racism
+814,sub_category,political
+815,target_community,anti-indigenous
+815,target_community,anti-black
+815,target_community,anti-poc
+815,sub_category,human rights
+815,sub_category,profiled
+816,target_community,anti-black
+816,sub_category,human rights
+816,sub_category,political
+816,sub_category,discrimination at work
+816,category,police investigation
+817,target_community,anti-black
+817,sub_category,discrimination at work
+817,sub_category,human rights
+817,sub_category,political
+818,target_community,anti-chinese
+818,sub_category,vandalism
+819,target_community,anti-black
+819,sub_category,discrimination at work
+819,sub_category,harassment
+819,category,hr investigation
+820,target_community,anti-indigenous
+820,sub_category,protest
+821,target_community,anti-chinese
+821,sub_category,profiled
+822,target_community,anti-black
+822,sub_category,human rights
+823,target_community,anti-asian
+823,sub_category,hate crime
+823,sub_category,profiled
+823,sub_category,allegations
+824,target_community,anti-muslim
+824,target_community,anti-black
+824,target_community,anti-racism
+824,sub_category,hate speech
+825,target_community,anti-immigration
+825,sub_category,human rights
+826,target_community,anti-asian
+826,sub_category,harassment
+827,target_community,anti-chinese
+827,sub_category,profiled
+828,target_community,anti-chinese
+828,sub_category,harassment
+829,target_community,anti-chinese
+829,sub_category,harassment
+830,target_community,anti-asian
+830,sub_category,profiled
+831,target_community,anti-muslim
+831,sub_category,political
+832,target_community,anti-asian
+832,sub_category,harassment
+833,target_community,anti-asian
+833,sub_category,harassment
+834,target_community,anti-asian
+834,sub_category,vandalism
+834,category,police investigation
+835,target_community,anti-semitic
+835,sub_category,hate speech
+836,target_community,anti-black
+836,sub_category,allegations
+836,category,hr investigation
+837,target_community,anti-immigration
+837,target_community,sexist
+837,sub_category,hate speech
+838,target_community,anti-black
+838,target_community,homophobia
+838,sub_category,hate speech
+839,target_community,anti-black
+839,sub_category,political
+839,sub_category,race relations
+840,target_community,anti-black
+840,sub_category,hate speech
+841,target_community,anti-asian
+841,sub_category,profiled
+842,target_community,anti-pakistani
+842,sub_category,hate speech
+843,target_community,anti-black
+843,sub_category,vandalism
+844,target_community,anti-asian
+844,sub_category,political
+845,target_community,anti-asian
+845,sub_category,hate crime
+845,category,police investigation
+846,target_community,anti-asian
+846,sub_category,race relations
+847,target_community,anti-semitic
+847,sub_category,hate crime
+848,target_community,anti-asian
+848,sub_category,profiled
+849,target_community,anti-racism
+849,sub_category,political
+849,sub_category,race relations
+850,target_community,anti-chinese
+850,sub_category,vandalism
+850,category,police investigation
+851,target_community,anti-black
+851,sub_category,human rights
+852,target_community,anti-black
+852,sub_category,harassment
+852,category,police investigation
+853,target_community,anti-black
+853,sub_category,discrimination at work
+853,category,police investigation
+854,target_community,anti-chinese
+854,sub_category,race relations
+855,target_community,anti-poc
+855,sub_category,political
+856,target_community,anti-black
+856,sub_category,political
+857,target_community,anti-indigenous
+857,sub_category,protest
+857,sub_category,race relations
+858,target_community,anti-indigenous
+858,sub_category,human rights
+859,target_community,anti-indigenous
+859,sub_category,political
+859,sub_category,profiled
+860,target_community,anti-indigenous
+860,sub_category,harassment
+861,target_community,anti-racism
+861,target_community,anti-black
+861,sub_category,human rights
+861,category,hr investigation
+862,target_community,anti-racism
+862,sub_category,political
+862,sub_category,race relations
+863,target_community,anti-racism
+863,sub_category,race relations
+864,target_community,white supremacists
+864,sub_category,political
+865,sub_category,vandalism
+865,category,police investigation
+866,target_community,anti-iranian
+866,sub_category,allegations
+866,sub_category,discrimination at work
+867,target_community,white supremacists
+867,sub_category,political
+868,target_community,anti-indigenous
+868,sub_category,hate crime
+868,sub_category,vandalism
+868,category,police investigation
+869,target_community,anti-semitic
+869,sub_category,hate crime
+869,sub_category,vandalism
+869,category,police investigation
+870,target_community,anti-asian
+870,sub_category,race relations
+871,target_community,anti-muslim
+871,sub_category,hate speech
+872,target_community,white supremacists
+872,sub_category,discrimination at work
+873,target_community,anti-chinese
+873,sub_category,profiled
+873,sub_category,discrimination at work
+874,target_community,anti-semitic
+874,sub_category,political
+875,target_community,white supremacists
+875,target_community,anti-lgbtq2s+
+875,sub_category,harassment
+876,target_community,anti-indigenous
+876,sub_category,human rights
+876,sub_category,political
+877,target_community,white supremacists
+877,target_community,homophobia
+877,sub_category,allegations
+877,sub_category,hate speech
+878,target_community,anti-semitic
+878,sub_category,race relations
+879,target_community,anti-indigenous
+879,sub_category,political
+879,sub_category,human rights
+880,target_community,anti-indigenous
+880,target_community,white supremacists
+880,sub_category,political
+880,sub_category,protest
+880,sub_category,allegations
+881,target_community,anti-indigenous
+881,sub_category,hate speech
+882,target_community,anti-chinese
+882,sub_category,race relations
+883,target_community,anti-muslim
+883,sub_category,profiled
+883,category,hr investigation
+884,target_community,anti-asian
+884,sub_category,race relations
+885,target_community,anti-indigenous
+885,sub_category,human rights
+885,category,hr investigation
+886,target_community,anti-indigenous
+886,target_community,gendered
+886,sub_category,human rights
+887,target_community,anti-indigenous
+887,sub_category,political
+887,sub_category,protest
+888,target_community,white supremacists
+888,target_community,anti-indigenous
+888,sub_category,political
+888,sub_category,protest
+889,target_community,anti-semitic
+889,sub_category,race relations
+890,target_community,anti-semitic
+890,sub_category,political
+891,target_community,anti-indigenous
+891,sub_category,hate speech
+891,category,police investigation
+892,target_community,anti-indigenous
+892,sub_category,hate crime
+892,category,police investigation
+893,target_community,anti-indigenous
+893,sub_category,hate speech
+893,sub_category,harassment
+894,sub_category,hate crime
+894,category,police investigation
+895,sub_category,hate speech
+895,category,police investigation
+896,sub_category,hate speech
+896,category,police investigation
+897,target_community,anti-semitic
+897,sub_category,political
+898,target_community,anti-chinese
+898,sub_category,allegations
+898,sub_category,hate crime
+898,category,police investigation
+899,target_community,white supremacists
+899,target_community,anti-semitic
+899,sub_category,hate speech
+900,target_community,anti-black
+900,sub_category,profiled
+900,category,hr investigation
+901,target_community,anti-iranian
+901,target_community,gendered
+901,sub_category,discrimination at work
+901,category,hr investigation
+902,target_community,anti-racism
+902,sub_category,race relations
+903,target_community,anti-asian
+903,sub_category,hate crime
+903,category,police investigation
+904,target_community,anti-asian
+904,sub_category,hate speech
+904,category,police investigation
+905,target_community,anti-immigration
+905,target_community,anti-racism
+905,sub_category,political
+905,sub_category,race relations
+906,target_community,anti-immigration
+906,target_community,anti-racism
+906,sub_category,political
+906,sub_category,race relations
+907,target_community,anti-racism
+907,sub_category,political
+908,target_community,anti-chinese
+908,sub_category,vandalism
+909,target_community,anti-poc
+909,sub_category,hate crime
+909,category,police investigation
+910,target_community,anti-muslim
+910,sub_category,hate speech
+911,target_community,anti-indigenous
+911,sub_category,hate crime
+912,target_community,anti-chinese
+912,sub_category,hate crime
+912,category,police investigation
+913,target_community,anti-semitic
+913,sub_category,hate speech
+914,target_community,anti-immigration
+914,target_community,anti-filipino
+914,sub_category,discrimination at work
+915,target_community,anti-chinese
+915,sub_category,profiled
+916,target_community,anti-chinese
+916,sub_category,hate speech
+917,target_community,anti-chinese
+917,sub_category,hate speech
+917,category,police investigation
+918,target_community,anti-asian
+918,sub_category,hate speech
+918,category,police investigation
+919,target_community,anti-black
+919,sub_category,hate speech
+920,target_community,anti-racism
+920,sub_category,race relations
+921,target_community,anti-asian
+921,sub_category,harassment
+921,category,police investigation
+922,target_community,anti-chinese
+922,sub_category,political
+923,target_community,anti-black
+923,sub_category,vandalism
+924,target_community,anti-chinese
+924,sub_category,race relations
+925,target_community,anti-racism
+925,sub_category,race relations
+926,target_community,white supremacists
+926,target_community,anti-immigration
+926,target_community,anti-lgbtq2s+
+926,sub_category,hate speech
+926,category,police investigation
+927,target_community,anti-asian
+927,sub_category,hate crime
+927,category,police investigation
+928,target_community,anti-semitic
+928,sub_category,hate speech
+928,category,police investigation
+929,target_community,white supremacists
+929,sub_category,hate speech
+930,target_community,anti-indigenous
+930,sub_category,human rights
+930,category,hr investigation
+931,target_community,anti-black
+931,sub_category,profiled
+931,sub_category,human rights
+931,category,hr investigation
+932,target_community,anti-asian
+932,target_community,anti-indigenous
+932,sub_category,hate crime
+932,sub_category,hate speech
+932,category,police investigation
+933,target_community,anti-chinese
+933,sub_category,vandalism
+933,category,police investigation
+934,target_community,anti-chinese
+934,sub_category,profiled
+935,target_community,anti-francophone
+935,sub_category,vandalism
+935,category,police investigation
+936,target_community,anti-filipino
+936,sub_category,harassment
+937,target_community,anti-indigenous
+937,sub_category,profiled
+937,category,hr investigation
+938,target_community,anti-indigenous
+938,target_community,anti-black
+938,target_community,anti-arab
+938,sub_category,profiled
+938,sub_category,political
+938,sub_category,race relations
+938,sub_category,human rights
+939,target_community,anti-asian
+939,sub_category,hate speech
+940,target_community,anti-indigenous
+940,sub_category,hate speech
+941,target_community,anti-muslim
+941,sub_category,political
+942,target_community,anti-chinese
+942,sub_category,vandalism
+942,category,police investigation
+943,target_community,anti-asian
+943,sub_category,hate crime
+943,category,police investigation
+944,target_community,anti-muslim
+944,sub_category,hate speech
+944,sub_category,discrimination at work
+944,category,hr investigation
+945,target_community,anti-black
+945,sub_category,hate speech
+946,target_community,anti-asian
+946,sub_category,hate crime
+946,category,police investigation
+947,target_community,anti-chinese
+947,sub_category,vandalism
+947,category,police investigation
+948,target_community,anti-semitic
+948,sub_category,hate speech
+949,target_community,anti-asian
+949,sub_category,hate crime
+949,category,police investigation
+950,target_community,anti-asian
+950,sub_category,hate speech
+951,target_community,white supremacists
+951,sub_category,political
+952,target_community,white supremacists
+952,sub_category,political
+953,target_community,white supremacists
+953,sub_category,political
+954,target_community,white supremacists
+954,sub_category,political
+955,target_community,anti-black
+955,sub_category,hate speech
+956,target_community,white supremacists
+956,sub_category,political
+957,target_community,anti-indigenous
+957,sub_category,hate speech
+958,target_community,anti-black
+958,sub_category,hate speech
+959,target_community,anti-black
+959,sub_category,hate speech
+959,category,police investigation
+960,target_community,anti-asian
+960,target_community,anti-filipino
+960,sub_category,profiled
+961,target_community,anti-asian
+961,target_community,anti-chinese
+961,sub_category,profiled
+962,target_community,anti-asian
+962,target_community,anti-chinese
+962,sub_category,profiled
+963,target_community,anti-asian
+963,target_community,anti-taiwanese
+963,sub_category,hate speech
+963,category,police investigation
+964,target_community,anti-black
+964,target_community,white supremacists
+964,sub_category,hate speech
+964,sub_category,hate crime
+965,target_community,anti-black
+965,target_community,anti-indigenous
+965,target_community,anti-lgbtq2s+
+965,sub_category,discrimination at work
+966,target_community,anti-black
+966,target_community,white supremacists
+966,sub_category,protest
+967,sub_category,hate speech
+968,target_community,white supremacists
+968,sub_category,political
+969,target_community,anti-black
+969,sub_category,hate speech
+969,category,police investigation
+970,target_community,anti-black
+970,sub_category,hate speech
+971,target_community,anti-black
+971,sub_category,hate speech
+972,target_community,anti-black
+972,sub_category,hate speech
+973,target_community,anti-semitic
+973,target_community,anti-black
+973,target_community,anti-chinese
+973,target_community,white supremacists
+973,sub_category,hate speech
+973,category,police investigation
+974,target_community,anti-black
+974,sub_category,hate speech
+975,target_community,anti-indigenous
+975,sub_category,profiled
+976,target_community,white supremacists
+976,sub_category,political
+977,target_community,anti-black
+977,sub_category,hate crime
+977,category,police investigation
+978,target_community,anti-black
+978,sub_category,hate speech
+978,category,police investigation
+979,target_community,white supremacists
+979,sub_category,political
+980,sub_category,vandalism
+981,target_community,anti-muslim
+981,target_community,anti-black
+981,sub_category,hate speech
+982,target_community,white supremacists
+982,sub_category,political
+983,sub_category,discrimination at work
+984,target_community,anti-black
+984,sub_category,hate speech
+985,target_community,white supremacists
+985,sub_category,hate speech
+985,category,police investigation
+986,target_community,anti-semitic
+986,target_community,anti-black
+986,target_community,sexist
+986,sub_category,hate speech
+986,sub_category,political
+987,target_community,anti-black
+987,sub_category,hate speech
+988,target_community,white supremacists
+988,sub_category,discrimination at work
+989,target_community,anti-black
+989,target_community,anti-indigenous
+989,sub_category,discrimination at work
+990,target_community,anti-indigenous
+990,sub_category,discrimination at work
+991,target_community,anti-black
+991,sub_category,hate speech
+991,category,military investigation
+992,target_community,white supremacists
+992,sub_category,political
+993,target_community,anti-black
+993,sub_category,profiled
+993,category,hr investigation
+994,target_community,anti-black
+994,sub_category,discrimination at work
+995,target_community,anti-black
+995,sub_category,hate speech
+996,target_community,anti-black
+996,sub_category,hate crime
+996,category,police investigation
+997,target_community,anti-black
+997,sub_category,hate speech
+997,category,hr investigation
+998,target_community,anti-black
+998,sub_category,profiled
+999,target_community,anti-immigration
+999,sub_category,discrimination at work
+999,category,hr investigation
+1000,target_community,white supremacists
+1000,sub_category,political

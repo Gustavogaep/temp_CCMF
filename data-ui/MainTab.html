@@ -1,0 +1,557 @@
+<form id="main-form" onsubmit="handleMainFormSubmit(this)">
+  <div id="div-main-form-status"></div>
+
+  <h2 class="form-title">Incident Form</h2>
+
+  <!-- Hidden, disabled inputs for incident ID and timestamp -->
+  <div class="hidden" id="div-id-timestamp">
+    <input
+      type="text"
+      class="form-control"
+      id="incident-id"
+      name="incident-id"
+      disabled
+    />
+
+    <input
+      type="datetime-local"
+      class="form-control"
+      id="timestamp"
+      name="timestamp"
+      disabled
+    />
+  </div>
+
+  <div class="mb-3" id="div-article-url">
+    <label for="article-url" class="form-label">Article URL</label>
+    <input
+      type="url"
+      class="form-control"
+      id="article-url"
+      name="article-url"
+      required
+    />
+  </div>
+
+  <div class="mb-3" id="div-description">
+    <label for="description" class="form-label">Incident Description</label>
+    <textarea
+      class="form-control"
+      rows="3"
+      id="description"
+      name="description"
+      required
+    ></textarea>
+  </div>
+
+  <div class="mb-3" id="div-pub-date">
+    <div class="col-md-4 pl-0">
+      <label for="pub-date" class="form-label">Article Publication Date</label>
+      <input
+        type="date"
+        class="form-control"
+        id="pub-date"
+        name="pub-date"
+        required
+      />
+    </div>
+  </div>
+
+  <label for="incident-date" class="form-label">Incident Date</label>
+  <span>
+    <a
+      tabindex="0"
+      class="help-button"
+      role="button"
+      data-toggle="popover"
+      data-trigger="focus hover"
+      title="Incident Date"
+      data-content="If the date the incident occurred is known to be different from the article publication date, enter it below. If the exact date is known, enter the year, month, and day. If only the year and month are known, enter those and leave the day blank."
+    >
+      <i class="bi bi-question-circle"></i>
+    </a>
+  </span>
+  <div class="row mb-3" id="incident-date">
+    <div class="col-md-4 mt-1">
+      <select
+        class="form-control"
+        id="incident-year"
+        name="incident-year"
+        aria-label="Year"
+      >
+        <option value="" selected>Year</option>
+        <option value="2018">2018</option>
+        <option value="2019">2019</option>
+        <option value="2020">2020</option>
+        <option value="2021">2021</option>
+        <option value="2022">2022</option>
+      </select>
+    </div>
+    <div class="col-md-4 mt-1">
+      <select
+        class="form-control"
+        id="incident-month"
+        name="incident-month"
+        aria-label="Month"
+      >
+        <option value="" selected>Month</option>
+        <option value="1">January</option>
+        <option value="2">February</option>
+        <option value="3">March</option>
+        <option value="4">April</option>
+        <option value="5">May</option>
+        <option value="6">June</option>
+        <option value="7">July</option>
+        <option value="8">August</option>
+        <option value="9">September</option>
+        <option value="10">October</option>
+        <option value="11">November</option>
+        <option value="12">December</option>
+      </select>
+    </div>
+    <div class="col-md-4 mt-1">
+      <select
+        class="form-control"
+        id="incident-day"
+        name="incident-day"
+        aria-label="Day"
+      >
+        <option value="" selected>Day</option>
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+        <option value="4">4</option>
+        <option value="5">5</option>
+        <option value="6">6</option>
+        <option value="7">7</option>
+        <option value="8">8</option>
+        <option value="9">9</option>
+        <option value="10">10</option>
+        <option value="11">11</option>
+        <option value="12">12</option>
+        <option value="13">13</option>
+        <option value="14">14</option>
+        <option value="15">15</option>
+        <option value="16">16</option>
+        <option value="17">17</option>
+        <option value="18">18</option>
+        <option value="19">19</option>
+        <option value="20">20</option>
+        <option value="21">21</option>
+        <option value="22">22</option>
+        <option value="23">23</option>
+        <option value="24">24</option>
+        <option value="25">25</option>
+        <option value="26">26</option>
+        <option value="27">27</option>
+        <option value="28">28</option>
+        <option value="29">29</option>
+        <option value="30">30</option>
+        <option value="31">31</option>
+      </select>
+    </div>
+  </div>
+
+  <h3>Location</h3>
+
+  <div class="row mb-3" id="div-location">
+    <div class="col-md-6 mb-1" id="div-location-name">
+      <label for="location-name" class="form-label">Location Name</label>
+      <span>
+        <a
+          tabindex="0"
+          class="help-button"
+          role="button"
+          data-toggle="popover"
+          data-trigger="focus hover"
+          title="Location"
+          data-content='Select the location to be used in the dashboard map. e.g. If the incident occurred in Toronto, select "Toronto, ON" from the options listed under "Municipalities". If only the province or region is known, select the appropriate value from the "Provinces" options (e.g. select "Ontario" for an incident in northern Ontario, where the municipality is not known or not listed in the options). If none of the options are applicable, select "N/A".'
+        >
+          <i class="bi bi-question-circle"></i>
+        </a>
+      </span>
+      <select
+        class="form-control form-control-select2 select2-max-one"
+        id="location-name"
+        name="location-name"
+        multiple="multiple"
+        style="width: 100%"
+        required
+      >
+        <!--
+        <option value="N/A">N/A</option>
+        <optgroup label="Provinces">
+          <option value="Alberta">Alberta</option>
+          <option value="British Columbia">British Columbia</option>
+          <option value="Manitoba">Manitoba</option>
+          <option value="New Brunswick">New Brunswick</option>
+        </optgroup>
+        <optgroup label="Municipalities">
+          <option value="Calgary, AB">Calgary, AB</option>
+          <option value="Vancouver, BC">Vancouver, BC</option>
+          <option value="Winnipeg, MB">Winnipeg, MB</option>
+          <option value="Saint John, NB">Saint John, NB</option>
+        </optgroup>
+      --></select>
+    </div>
+
+    <div class="col-md-6 mb-1" id="div-location-notes">
+      <label for="location-notes" class="form-label">Location Notes</label>
+      <span>
+        <a
+          tabindex="0"
+          class="help-button"
+          role="button"
+          data-toggle="popover"
+          data-trigger="focus hover"
+          title="Location Notes"
+          data-content="For internal usage. Enter any additional information you'd like to include about the incident location (e.g. a region or municipality not listed in the options above, or a specific address or place name). This information is just for reference will not be used in the dashboard map."
+        >
+          <i class="bi bi-question-circle"></i>
+        </a>
+      </span>
+      <input
+        type="text"
+        class="form-control"
+        id="location-notes"
+        name="location-notes"
+      />
+    </div>
+  </div>
+
+  <h3>Incident Characteristics</h3>
+
+  <div class="row mb-3" id="div-incident-characteristics">
+    <div class="col-md-6 mb-3" id="div-incident-category">
+      <label for="incident-category" class="form-label"
+        >Incident Category</label
+      >
+      <a
+        tabindex="0"
+        class="help-button"
+        role="button"
+        data-toggle="popover"
+        data-trigger="focus hover"
+        title="Incident Category"
+        data-content='An incident is designated as "Criminal" if the police are involved in any way, regardless of what stage the investigation/trial is at. If the person gets aquitted we will still leave it as crime. For criminal incidents, select "Criminal: Charged" if there have been charges, "Criminal: Not charged" if the case was closed without charges, and "Criminal: Unknown" if there have been no charges but the case is still open and there might be charges in the future.'
+      >
+        <i class="bi bi-question-circle"></i>
+      </a>
+      <select
+        class="form-control form-control-select2 select2-max-one"
+        id="incident-category"
+        name="incident-category"
+        multiple="multiple"
+        style="width: 100%"
+        required
+      >
+        <!--
+        <option value="Criminal: Charged">Criminal: Charged</option>
+        <option value="Criminal: Not charged">Criminal: Not charged</option>
+        <option value="Criminal: Unknown">Criminal: Unknown</option>
+        <option value="Non-Criminal">Non-Criminal</option>
+
+      --></select>
+    </div>
+
+    <div class="col-md-6 mb-3" id="div-incident-type">
+      <label for="incident-type" class="form-label">Type of Incident</label>
+      <span>
+        <a
+          tabindex="0"
+          class="help-button"
+          role="button"
+          data-toggle="popover"
+          data-trigger="focus hover"
+          title="Type of Incident"
+          data-content='Select all that apply. Definitions: "Racial profiling" is assuming someone is committing a crime. "Carding" is racial profiling when police related.'
+        >
+          <i class="bi bi-question-circle"></i>
+        </a>
+      </span>
+      <select
+        class="form-control form-control-select2"
+        id="incident-type"
+        name="incident-type"
+        multiple="multiple"
+        style="width: 100%"
+      >
+        <!--
+        <option value="Denial of/inaction on racism">
+          Denial of/inaction on racism
+        </option>
+        <option value="Harassment: Racial profiling">
+          Harassment: Racial profiling
+        </option>
+        <option value="Harassment: Carding">Harassment: Carding</option>
+        <option value="Vandalism">Vandalism</option>
+        <option value="Other">Other</option>
+      --></select>
+    </div>
+
+    <div class="col-md-6 mb-3" id="div-context">
+      <label for="context" class="form-label">Context</label>
+      <span>
+        <a
+          tabindex="0"
+          class="help-button"
+          role="button"
+          data-toggle="popover"
+          data-trigger="focus hover"
+          title="Context"
+          data-content='Select all that apply. Note: "Military" includes army, air force and navy.'
+        >
+          <i class="bi bi-question-circle"></i>
+        </a>
+      </span>
+      <select
+        class="form-control form-control-select2"
+        id="context"
+        name="context"
+        multiple="multiple"
+        style="width: 100%"
+      >
+        <!--
+        <option value="Educational institute: K-12">
+          Educational institute: K-12
+        </option>
+        <option value="Educational institute: Post-secondary">
+          Educational institute: Post-secondary
+        </option>
+        <option value="Health care">Health care</option>
+        <option value="Workplace">Workplace</option>
+      --></select>
+    </div>
+  </div>
+
+  <h3>Victims & Other Info</h3>
+
+  <div class="row mb-3" id="div-victim-characteristics">
+    <div class="col-md-6 mb-3" id="div-ethnic-community">
+      <label for="ethnic-community" class="form-label">Ethnic Community</label>
+      <span>
+        <a
+          tabindex="0"
+          class="help-button"
+          role="button"
+          data-toggle="popover"
+          data-trigger="focus hover"
+          title="Ethnic Community"
+          data-content='Targeted communities - select all that apply. For incidents of xenophobia / Islamophobia / antisemitism / etc. that are not targeted towards a specific race, select "N/A". When selecting a sub-community, it is not necessary to also select the corresponding main community (e.g. if you have selected "East Asian: China", you do not need to also select "East Asian").'
+        >
+          <i class="bi bi-question-circle"></i>
+        </a>
+      </span>
+      <select
+        class="form-control form-control-select2"
+        id="ethnic-community"
+        name="ethnic-community"
+        multiple="multiple"
+        style="width: 100%"
+        required
+      >
+        <!--
+        <option value="N/A">N/A</option>
+        <optgroup label="Communities">
+          <option value="Black/African/Caribbean">
+            Black/African/Caribbean
+          </option>
+          <option value="Indigenous">Indigenous</option>
+          <option value="East Asian">East Asian</option>
+        </optgroup>
+        <optgroup label="Sub-Communities">
+          <option value="Black/African/Caribbean: Nigeria">
+            Black/African/Caribbean: Nigeria
+          </option>
+          <option value="East Asian: China">East Asian: China</option>
+          <option value="Indigenous: First Nations">
+            Indigenous: First Nations
+          </option>
+        </optgroup>
+      --></select>
+    </div>
+
+    <div class="col-md-6 mb-3" id="div-indigenous-nation">
+      <label for="indigenous-nation" class="form-label"
+        >Indigenous Nation(s)</label
+      >
+      <span>
+        <a
+          tabindex="0"
+          class="help-button"
+          role="button"
+          data-toggle="popover"
+          data-trigger="focus hover"
+          title="Indigenous Nation(s)"
+          data-content="For internal usage. If the specific nation(s) are identified (e.g. Mi'kmaq, Innu, Shishalh, etc.) the name(s) can be entered below."
+        >
+          <i class="bi bi-question-circle"></i>
+        </a>
+      </span>
+      <input
+        type="text"
+        class="form-control"
+        id="indigenous-nation"
+        name="indigenous-nation"
+      />
+    </div>
+
+    <div class="col-md-6 mb-3" id="div-identity-based">
+      <label for="identity-based" class="form-label">Identity-Based</label>
+      <span>
+        <a
+          tabindex="0"
+          class="help-button"
+          role="button"
+          data-toggle="popover"
+          data-trigger="focus hover"
+          title="Identity-Based"
+          data-content="Select all that apply."
+        >
+          <i class="bi bi-question-circle"></i>
+        </a>
+      </span>
+      <select
+        class="form-control form-control-select2"
+        id="identity-based"
+        name="identity-based"
+        multiple="multiple"
+        style="width: 100%"
+      >
+        <!--
+        <option value="Anti-2SLGBTQIA+">Anti-2SLGBTQIA+</option>
+        <option value="Xenophobia">Xenophobia</option>
+        <option value="Religious discrimination: Islamophobia">
+          Religious discrimination: Islamophobia
+        </option>
+        <option value="Religious discrimination: Anti-Semitism">
+          Religious discrimination: Anti-Semitism
+        </option>
+      --></select>
+    </div>
+
+    <div class="col-md-6 mb-3" id="div-other-trends">
+      <label for="other-trends" class="form-label">Other Trends</label>
+      <span>
+        <a
+          tabindex="0"
+          class="help-button"
+          role="button"
+          data-toggle="popover"
+          data-trigger="focus hover"
+          title="Other Trends"
+          data-content="For internal usage."
+        >
+          <i class="bi bi-question-circle"></i>
+        </a>
+      </span>
+      <select
+        class="form-control form-control-select2"
+        id="other-trends"
+        name="other-trends"
+        multiple="multiple"
+        style="width: 100%"
+      >
+        <!--
+        <option value="Organized white supremacy">
+          Organized white supremacy
+        </option>
+      --></select>
+    </div>
+
+    <div class="col-md-6 mb-3" id="div-gender">
+      <label for="gender" class="form-label">Gender of Victim(s)</label>
+      <span>
+        <a
+          tabindex="0"
+          class="help-button"
+          role="button"
+          data-toggle="popover"
+          data-trigger="focus hover"
+          title="Gender of Victim(s)"
+          data-content="Leave blank if this question is not applicable (e.g. vandalism of public property or other type of incident where there isn't any specific individual(s) as victim)."
+        >
+          <i class="bi bi-question-circle"></i>
+        </a>
+      </span>
+      <select
+        class="form-control form-control-select2"
+        id="gender"
+        name="gender"
+        multiple="multiple"
+        style="width: 100%"
+      >
+        <!--
+        <option value="Female">Female</option>
+        <option value="Male">Male</option>
+        <option value="Other/Unknown">Other/Unknown</option>
+      --></select>
+    </div>
+
+    <div class="col-md-6 mb-3" id="div-victim-name">
+      <label for="victim-name" class="form-label">Name of Victim(s)</label>
+      <span>
+        <a
+          tabindex="0"
+          class="help-button"
+          role="button"
+          data-toggle="popover"
+          data-trigger="focus hover"
+          title="Name of Victim(s)"
+          data-content="For internal usage. If there is no human victim, you can enter the name of any organizations that were targeted (e.g. Chinese Cultural Centre, Edmonton Mosque, etc.)"
+        >
+          <i class="bi bi-question-circle"></i>
+        </a>
+      </span>
+      <input
+        type="text"
+        class="form-control"
+        id="victim-name"
+        name="victim-name"
+      />
+    </div>
+
+    <div class="col-md-6 mb-3" id="div-perp-name">
+      <label for="perp-name" class="form-label">Name of Perpetrator(s)</label>
+      <span>
+        <a
+          tabindex="0"
+          class="help-button"
+          role="button"
+          data-toggle="popover"
+          data-trigger="focus hover"
+          title="Name of Perpetrator(s)"
+          data-content="For internal usage."
+        >
+          <i class="bi bi-question-circle"></i>
+        </a>
+      </span>
+      <input type="text" class="form-control" id="perp-name" name="perp-name" />
+    </div>
+
+    <div class="col-md-6 mb-3" id="div-general-notes">
+      <label for="general-notes" class="form-label">Notes</label>
+      <span>
+        <a
+          tabindex="0"
+          class="help-button"
+          role="button"
+          data-toggle="popover"
+          data-trigger="focus hover"
+          title="Notes"
+          data-content="For internal usage. Any additional details that could be helpful in the future -- for example, if the incident has any new themes we might want to start tracking, they can be noted here."
+        >
+          <i class="bi bi-question-circle"></i>
+        </a>
+      </span>
+      <input
+        type="text"
+        class="form-control"
+        id="general-notes"
+        name="general-notes"
+      />
+    </div>
+  </div>
+
+  <button type="submit" class="btn btn-primary mb-3">Submit</button>
+</form>
